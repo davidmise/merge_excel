@@ -1,0 +1,111 @@
+{
+  "total_files": 28,
+  "total_sheets": 586,
+  "files": [
+    {
+      "filename": "BASH TRACKING REPORT NORTH BOUND 20-JAN-2025.xlsx",
+      "sheets": 1,
+      "json_file": "BASH_TRACKING_REPORT_NORTH_BOUND_20-JAN-2025_xlsx_info.json"
+    },
+    {
+      "filename": "BREAKDOWNS REPORT.xlsx",
+      "sheets": 5,
+      "json_file": "BREAKDOWNS_REPORT_xlsx_info.json"
+    },
+    {
+      "filename": "BRILLIANT--SOUTH BOUND KAMOA.xlsx",
+      "sheets": 3,
+      "json_file": "BRILLIANT--SOUTH_BOUND_KAMOA_xlsx_info.json"
+    },
+    {
+      "filename": "Demurrage Charges Access World  IMPORT..xlsx",
+      "sheets": 6,
+      "json_file": "Demurrage_Charges_Access_World__IMPORT__xlsx_info.json"
+    },
+    {
+      "filename": "EXPORT BORDERS REPORT.xlsx",
+      "sheets": 1,
+      "json_file": "EXPORT_BORDERS_REPORT_xlsx_info.json"
+    },
+    {
+      "filename": "Glencore--KCC copper trucks demurrage  Charges. 3.xlsx",
+      "sheets": 1,
+      "json_file": "Glencore--KCC_copper_trucks_demurrage__Charges__3_xlsx_info.json"
+    },
+    {
+      "filename": "Glencore exports update_.xlsx",
+      "sheets": 19,
+      "json_file": "Glencore_exports_update__xlsx_info.json"
+    },
+    {
+      "filename": "JOSE KSM.xlsx",
+      "sheets": 20,
+      "json_file": "JOSE_KSM_xlsx_info.json"
+    },
+    {
+      "filename": "KCC PO C003636963 TRACKING REPORT.xlsx",
+      "sheets": 2,
+      "json_file": "KCC_PO_C003636963_TRACKING_REPORT_xlsx_info.json"
+    },
+    {
+      "filename": "LOADING Order for december  2025.xlsx",
+      "sheets": 17,
+      "json_file": "LOADING_Order_for_december__2025_xlsx_info.json"
+    },
+    {
+      "filename": "MUMI PO C003355377 TRACKING REPORT_.xlsx",
+      "sheets": 4,
+      "json_file": "MUMI_PO_C003355377_TRACKING_REPORT__xlsx_info.json"
+    },
+    {
+      "filename": "Ndola Export & Import report.xlsx",
+      "sheets": 1,
+      "json_file": "Ndola_Export_&_Import_report_xlsx_info.json"
+    },
+    {
+      "filename": "NST....DEZIWA - Dar Tracking report..xlsx",
+      "sheets": 11,
+      "json_file": "NST____DEZIWA_-_Dar_Tracking_report__xlsx_info.json"
+    },
+    {
+      "filename": "OVERLAND MAIN MASTER REPORT.xlsx",
+      "sheets": 2,
+      "json_file": "OVERLAND_MAIN_MASTER_REPORT_xlsx_info.json"
+    },
+    {
+      "filename": "POD ---2026.xlsx",
+      "sheets": 3,
+      "json_file": "POD_---2026_xlsx_info.json"
+    },
+    {
+      "filename": "POLICE FINE REPORT 2026.xlsx",
+      "sheets": 290,
+      "json_file": "POLICE_FINE_REPORT_2026_xlsx_info.json"
+    },
+    {
+      "filename": "TALANA NORTH BOUND TRACKING REPORT (1).xlsx",
+      "sheets": 2,
+      "json_file": "TALANA_NORTH_BOUND_TRACKING_REPORT_(1)_xlsx_info.json"
+    },
+    {
+      "filename": "Tracking Report - Mercuria (December).xlsx",
+      "sheets": 2,
+      "json_file": "Tracking_Report_-_Mercuria_(December)_xlsx_info.json"
+    },
+    {
+      "filename": "Tracking Report - Mercuria (January) -2026.xlsx",
+      "sheets": 2,
+      "json_file": "Tracking_Report_-_Mercuria_(January)_-2026_xlsx_info.json"
+    },
+    {
+      "filename": "TUNDUMA BORDER REPORT 20.01.2026.xlsx",
+      "sheets": 4,
+      "json_file": "TUNDUMA_BORDER_REPORT_20_01_2026_xlsx_info.json"
+    },
+    {
+      "filename": "WILLY_KSM.xlsx",
+      "sheets": 190,
+      "json_file": "WILLY_KSM_xlsx_info.json"
+    }
+  ]
+}

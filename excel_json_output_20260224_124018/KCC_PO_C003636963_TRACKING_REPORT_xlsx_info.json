@@ -1,0 +1,412 @@
+{
+  "filename": "KCC PO C003636963 TRACKING REPORT.xlsx",
+  "file_size": 146626,
+  "last_modified": "2026-01-26T09:29:45.962324",
+  "total_sheets": 2,
+  "sheets": {
+    "1": {
+      "total_rows": 34,
+      "total_columns": 37,
+      "columns": [
+        {
+          "name": "TripCode",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "OrderNumber",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Bag Number (qty of bags)",
+          "dtype": "float64",
+          "non_null_count": 30
+        },
+        {
+          "name": "Loaded Net Weight  (In MT)",
+          "dtype": "float64",
+          "non_null_count": 30
+        },
+        {
+          "name": "Loaded Gross Weight  (In MT)",
+          "dtype": "float64",
+          "non_null_count": 30
+        },
+        {
+          "name": "Invoice Number",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Consignment Number (Manifest)",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Supplier",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Product",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Origin Country",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Destination Country ",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Corridor  ",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "FXICode",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Bv Code",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Truck Reg",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "TrailerRegistration1",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "TrailerRegistration2",
+          "dtype": "object",
+          "non_null_count": 23
+        },
+        {
+          "name": "Nominated Haulier",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Drivers Name ",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "DriverPassport (Passport number only)",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Current Location                                                     (choose only from list)",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Inbound Status                                  (choose only from list)",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "DCG Kisarawe arrival date (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 29
+        },
+        {
+          "name": "Loading Date (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 29
+        },
+        {
+          "name": "Origin Dispatch Date (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 29
+        },
+        {
+          "name": "Tunduma arrival Date (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 29
+        },
+        {
+          "name": "Tunduma  Dispatch Date (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 29
+        },
+        {
+          "name": "Nakonde Dispatch Date (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 29
+        },
+        {
+          "name": "Last Update Date Position (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 29
+        },
+        {
+          "name": "Trip Duration in Days                (Qty of days on Route)",
+          "dtype": "float64",
+          "non_null_count": 29
+        },
+        {
+          "name": "Kasumbalesa Arrive date  (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 28
+        },
+        {
+          "name": "Kasumbalesa Dispatch Date (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 25
+        },
+        {
+          "name": "Border delays Days               (Qty of days on Route)",
+          "dtype": "float64",
+          "non_null_count": 29
+        },
+        {
+          "name": "KCC Arrive date  (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 25
+        },
+        {
+          "name": "KCC Offload Date (dd/mm/yyyy)",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 25
+        },
+        {
+          "name": "Offload delays Days      (Qty of days on Route)",
+          "dtype": "float64",
+          "non_null_count": 29
+        },
+        {
+          "name": "Clearing Agents",
+          "dtype": "object",
+          "non_null_count": 29
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TripCode": "",
+          "OrderNumber": "",
+          "Bag Number (qty of bags)": 36.0,
+          "Loaded Net Weight  (In MT)": 36.08,
+          "Loaded Gross Weight  (In MT)": 36.08,
+          "Invoice Number": "SL25157-6",
+          "Consignment Number (Manifest)": "PT77451",
+          "Supplier": "",
+          "Product": "SULPHUR",
+          "Origin Country": "Dar Es Salaam, Tanzania",
+          "Destination Country ": "DRC",
+          "Corridor  ": "Dar Es Salaam, Tanzania - DRC",
+          "FXICode": "FXI0011679773",
+          "Bv Code": "COD 2025 316788",
+          "Truck Reg": "T363DCA",
+          "TrailerRegistration1": "T810AEJ",
+          "TrailerRegistration2": "",
+          "Nominated Haulier": "overland",
+          "Drivers Name ": "EMMANUEL ANGWILILE MWANDENUKA",
+          "DriverPassport (Passport number only)": "",
+          "Current Location                                                     (choose only from list)": "At Destination",
+          "Inbound Status                                  (choose only from list)": "Offloaded",
+          "DCG Kisarawe arrival date (dd/mm/yyyy)": "2025-12-03T00:00:00",
+          "Loading Date (dd/mm/yyyy)": "2025-12-05T00:00:00",
+          "Origin Dispatch Date (dd/mm/yyyy)": "2025-12-08T00:00:00",
+          "Tunduma arrival Date (dd/mm/yyyy)": "2025-12-13T00:00:00",
+          "Tunduma  Dispatch Date (dd/mm/yyyy)": "2025-12-16T00:00:00",
+          "Nakonde Dispatch Date (dd/mm/yyyy)": "2025-12-18T00:00:00",
+          "Last Update Date Position (dd/mm/yyyy)": "2025-12-27T00:00:00",
+          "Trip Duration in Days                (Qty of days on Route)": 22.0,
+          "Kasumbalesa Arrive date  (dd/mm/yyyy)": "2025-12-21T00:00:00",
+          "Kasumbalesa Dispatch Date (dd/mm/yyyy)": "2025-12-24T00:00:00",
+          "Border delays Days               (Qty of days on Route)": 3.0,
+          "KCC Arrive date  (dd/mm/yyyy)": "2025-12-26T00:00:00",
+          "KCC Offload Date (dd/mm/yyyy)": "2025-12-27T00:00:00",
+          "Offload delays Days      (Qty of days on Route)": 1.0,
+          "Clearing Agents": "CONNEXAFRICA"
+        },
+        {
+          "TripCode": "",
+          "OrderNumber": "",
+          "Bag Number (qty of bags)": 35.0,
+          "Loaded Net Weight  (In MT)": 35.0,
+          "Loaded Gross Weight  (In MT)": 35.0,
+          "Invoice Number": "SL25157-5",
+          "Consignment Number (Manifest)": " PT77450",
+          "Supplier": "",
+          "Product": "SULPHUR",
+          "Origin Country": "Dar Es Salaam, Tanzania",
+          "Destination Country ": "DRC",
+          "Corridor  ": "Dar Es Salaam, Tanzania - DRC",
+          "FXICode": "FXI0011679773",
+          "Bv Code": "COD 2025 316788",
+          "Truck Reg": "T440BVZ",
+          "TrailerRegistration1": "T187DED",
+          "TrailerRegistration2": "T557DTR",
+          "Nominated Haulier": "overland",
+          "Drivers Name ": "EZEKIA EDWARD KYEJO",
+          "DriverPassport (Passport number only)": "",
+          "Current Location                                                     (choose only from list)": "At Destination",
+          "Inbound Status                                  (choose only from list)": "Offloaded",
+          "DCG Kisarawe arrival date (dd/mm/yyyy)": "2025-12-02T00:00:00",
+          "Loading Date (dd/mm/yyyy)": "2025-12-05T00:00:00",
+          "Origin Dispatch Date (dd/mm/yyyy)": "2025-12-08T00:00:00",
+          "Tunduma arrival Date (dd/mm/yyyy)": "2025-12-13T00:00:00",
+          "Tunduma  Dispatch Date (dd/mm/yyyy)": "2025-12-16T00:00:00",
+          "Nakonde Dispatch Date (dd/mm/yyyy)": "2025-12-18T00:00:00",
+          "Last Update Date Position (dd/mm/yyyy)": "2025-12-27T00:00:00",
+          "Trip Duration in Days                (Qty of days on Route)": 22.0,
+          "Kasumbalesa Arrive date  (dd/mm/yyyy)": "2025-12-22T00:00:00",
+          "Kasumbalesa Dispatch Date (dd/mm/yyyy)": "2025-12-24T00:00:00",
+          "Border delays Days               (Qty of days on Route)": 2.0,
+          "KCC Arrive date  (dd/mm/yyyy)": "2025-12-26T00:00:00",
+          "KCC Offload Date (dd/mm/yyyy)": "2025-12-27T00:00:00",
+          "Offload delays Days      (Qty of days on Route)": 1.0,
+          "Clearing Agents": "DOUANE EXPRESS"
+        },
+        {
+          "TripCode": "",
+          "OrderNumber": "",
+          "Bag Number (qty of bags)": 36.0,
+          "Loaded Net Weight  (In MT)": 36.0,
+          "Loaded Gross Weight  (In MT)": 36.0,
+          "Invoice Number": "SL25157-7",
+          "Consignment Number (Manifest)": "PT77452",
+          "Supplier": "",
+          "Product": "SULPHUR",
+          "Origin Country": "Dar Es Salaam, Tanzania",
+          "Destination Country ": "DRC",
+          "Corridor  ": "Dar Es Salaam, Tanzania - DRC",
+          "FXICode": "FXI0011679773",
+          "Bv Code": "COD 2025 316788",
+          "Truck Reg": "T339DWZ",
+          "TrailerRegistration1": "T192DXQ",
+          "TrailerRegistration2": "T193DXQ",
+          "Nominated Haulier": "overland",
+          "Drivers Name ": "OMARY HASHIM MBUNDA",
+          "DriverPassport (Passport number only)": "TAE720227",
+          "Current Location                                                     (choose only from list)": "At Destination",
+          "Inbound Status                                  (choose only from list)": "Offloaded",
+          "DCG Kisarawe arrival date (dd/mm/yyyy)": "2025-12-02T00:00:00",
+          "Loading Date (dd/mm/yyyy)": "2025-12-05T00:00:00",
+          "Origin Dispatch Date (dd/mm/yyyy)": "2025-12-10T00:00:00",
+          "Tunduma arrival Date (dd/mm/yyyy)": "2025-12-13T00:00:00",
+          "Tunduma  Dispatch Date (dd/mm/yyyy)": "2025-12-16T00:00:00",
+          "Nakonde Dispatch Date (dd/mm/yyyy)": "2025-12-18T00:00:00",
+          "Last Update Date Position (dd/mm/yyyy)": "2025-12-27T00:00:00",
+          "Trip Duration in Days                (Qty of days on Route)": 22.0,
+          "Kasumbalesa Arrive date  (dd/mm/yyyy)": "2025-12-21T00:00:00",
+          "Kasumbalesa Dispatch Date (dd/mm/yyyy)": "2025-12-25T00:00:00",
+          "Border delays Days               (Qty of days on Route)": 4.0,
+          "KCC Arrive date  (dd/mm/yyyy)": "2025-12-26T00:00:00",
+          "KCC Offload Date (dd/mm/yyyy)": "2025-12-27T00:00:00",
+          "Offload delays Days      (Qty of days on Route)": 1.0,
+          "Clearing Agents": "DOUANE EXPRESS"
+        }
+      ]
+    },
+    "Background Info": {
+      "total_rows": 216,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "Corridor Name",
+          "dtype": "object",
+          "non_null_count": 16
+        },
+        {
+          "name": "Legs",
+          "dtype": "object",
+          "non_null_count": 200
+        },
+        {
+          "name": "TripType",
+          "dtype": "object",
+          "non_null_count": 44
+        },
+        {
+          "name": "Days in Transit",
+          "dtype": "float64",
+          "non_null_count": 16
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "InboundStatus",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 73
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 53
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Corridor Name": "",
+          "Legs": "",
+          "TripType": "",
+          "Days in Transit": "",
+          "Unnamed: 4": "",
+          "InboundStatus": "Loaded",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "Corridor",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "Current location"
+        },
+        {
+          "Corridor Name": "Ndola, Zambia - DRC",
+          "Legs": "At origin - Ndola",
+          "TripType": "Inbound",
+          "Days in Transit": 13.0,
+          "Unnamed: 4": "",
+          "InboundStatus": "In Transit",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "Ndola, Zambia - DRC",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "At origin - Beira"
+        },
+        {
+          "Corridor Name": "",
+          "Legs": "Kasumbalesa (ZAM)",
+          "TripType": "Days In Transit",
+          "Days in Transit": "",
+          "Unnamed: 4": "",
+          "InboundStatus": "Offloaded",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "Dar Es Salaam, Tanzania - DRC",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "At origin - Dar es Salaam"
+        }
+      ]
+    }
+  }
+}

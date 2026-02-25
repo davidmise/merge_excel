@@ -1,0 +1,140 @@
+{
+  "filename": "Terry copy.xlsx",
+  "file_size": 19984,
+  "last_modified": "2026-01-27T09:45:54.848297",
+  "total_sheets": 2,
+  "sheets": {
+    "Summary Final": {
+      "total_rows": 9,
+      "total_columns": 6,
+      "columns": [
+        {
+          "name": "Overland Group ",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group ": "Depot  Summary Report",
+          "Unnamed: 1": null,
+          "Unnamed: 2": null,
+          "2026-01-23 00:00:00": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null
+        },
+        {
+          "Overland Group ": "Sn",
+          "Unnamed: 1": "Depot Name ",
+          "Unnamed: 2": "Number of Trucks",
+          "2026-01-23 00:00:00": "Waiting Release",
+          "Unnamed: 4": "Waiting to Load ",
+          "Unnamed: 5": "REMARKS"
+        },
+        {
+          "Overland Group ": 1,
+          "Unnamed: 1": "HASS ",
+          "Unnamed: 2": null,
+          "2026-01-23 00:00:00": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null
+        }
+      ]
+    },
+    "SB & NB Summary": {
+      "total_rows": 21,
+      "total_columns": 7,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": null,
+          "Unnamed: 1": "Overland Group.",
+          "Unnamed: 2": null,
+          "Unnamed: 3": "2026-01-23T00:00:00",
+          "Unnamed: 4": null,
+          "Unnamed: 5": "Remarks ",
+          "Unnamed: 6": null
+        },
+        {
+          "Unnamed: 0": null,
+          "Unnamed: 1": "Sn",
+          "Unnamed: 2": "Description ",
+          "Unnamed: 3": "Total No. of Trucks ",
+          "Unnamed: 4": "%",
+          "Unnamed: 5": null,
+          "Unnamed: 6": null
+        },
+        {
+          "Unnamed: 0": null,
+          "Unnamed: 1": "South Bound Summary",
+          "Unnamed: 2": null,
+          "Unnamed: 3": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null,
+          "Unnamed: 6": null
+        }
+      ]
+    }
+  }
+}

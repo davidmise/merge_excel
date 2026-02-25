@@ -1,0 +1,964 @@
+{
+  "filename": "Poseidon_Export Tracking Report_. 19-12-2025.xlsx",
+  "file_size": 1541241,
+  "last_modified": "2026-01-26T09:32:20.254028",
+  "total_sheets": 5,
+  "sheets": {
+    "LCS Kolwezi": {
+      "total_rows": 11,
+      "total_columns": 31,
+      "columns": [
+        {
+          "name": "OVERLAND -- Tracking Status report ",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "35",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Origin Site",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Whiskey",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "K-Lesa ",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Nakonde",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Tunduma",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 5
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "OVERLAND -- Tracking Status report ": "Sn",
+          "Unnamed: 1": "Lot no",
+          "Unnamed: 2": "Truck",
+          "Unnamed: 3": "Trailer I",
+          "Unnamed: 4": "Trailer II",
+          "Unnamed: 5": "Driver Name",
+          "Unnamed: 6": "Passport",
+          "35": "Booked Tonnages",
+          "Unnamed: 8": "Driver contact",
+          "Unnamed: 9": "Current Position",
+          "Unnamed: 10": "Remark/ETA",
+          "Origin Site": "Arrival Date on Site",
+          "Unnamed: 12": "Loading Date",
+          "Unnamed: 13": "Dispatched Date",
+          "Unnamed: 14": "Days",
+          "Whiskey": "Arival",
+          "Unnamed: 16": "Dispatced",
+          "K-Lesa ": "Arival",
+          "Unnamed: 18": "Dispatced",
+          "Nakonde": "Arival",
+          "Unnamed: 20": "Dispatced",
+          "Tunduma": "Arival",
+          "Unnamed: 22": "Dispatched",
+          "Unnamed: 23": "Arrival at AW DAR",
+          "Unnamed: 24": "Offloading Date ",
+          "Unnamed: 25": "Completed",
+          "Unnamed: 26": "Total Days",
+          "Unnamed: 27": "Free days",
+          "Unnamed: 28": "Chargable Days",
+          "Unnamed: 29": "Rate",
+          "Unnamed: 30": "Truck Demurrage Charges"
+        },
+        {
+          "OVERLAND -- Tracking Status report ": 1,
+          "Unnamed: 1": "MU-250813-473-993-SB",
+          "Unnamed: 2": "T193DYR",
+          "Unnamed: 3": "T643CKC",
+          "Unnamed: 4": "T258EMM",
+          "Unnamed: 5": "MBARAKA SALEHE SHENGOTO",
+          "Unnamed: 6": " TAE690838",
+          "35": 35,
+          "Unnamed: 8": "255692875979",
+          "Unnamed: 9": "AT DESINATION",
+          "Unnamed: 10": "Offloaded",
+          "Origin Site": "2025-08-16T00:00:00",
+          "Unnamed: 12": "2025-08-20T00:00:00",
+          "Unnamed: 13": "2025-09-02T00:00:00",
+          "Unnamed: 14": 17,
+          "Whiskey": "2025-09-03T00:00:00",
+          "Unnamed: 16": "2025-09-12T00:00:00",
+          "K-Lesa ": "2025-09-12T00:00:00",
+          "Unnamed: 18": "2025-09-13T00:00:00",
+          "Nakonde": "2025-09-15T00:00:00",
+          "Unnamed: 20": "2025-09-20T00:00:00",
+          "Tunduma": "2025-09-20T00:00:00",
+          "Unnamed: 22": "2025-09-21T00:00:00",
+          "Unnamed: 23": "2025-09-22T00:00:00",
+          "Unnamed: 24": "2025-09-24T00:00:00",
+          "Unnamed: 25": 2,
+          "Unnamed: 26": "",
+          "Unnamed: 27": 12,
+          "Unnamed: 28": 5,
+          "Unnamed: 29": 250,
+          "Unnamed: 30": 1250
+        },
+        {
+          "OVERLAND -- Tracking Status report ": 2,
+          "Unnamed: 1": "MU-250813-473-993-SB",
+          "Unnamed: 2": "T890ECV",
+          "Unnamed: 3": "T500AUU",
+          "Unnamed: 4": "T217EMM",
+          "Unnamed: 5": "MAURIDI ABASI AMIRY",
+          "Unnamed: 6": " TAE700469",
+          "35": 35,
+          "Unnamed: 8": "255752156069",
+          "Unnamed: 9": "AT DESINATION",
+          "Unnamed: 10": "Offloaded",
+          "Origin Site": "2025-08-16T00:00:00",
+          "Unnamed: 12": "2025-08-20T00:00:00",
+          "Unnamed: 13": "2025-09-06T00:00:00",
+          "Unnamed: 14": 21,
+          "Whiskey": "2025-09-11T00:00:00",
+          "Unnamed: 16": "2025-09-13T00:00:00",
+          "K-Lesa ": "2025-09-14T00:00:00",
+          "Unnamed: 18": "2025-09-14T00:00:00",
+          "Nakonde": "2025-09-17T00:00:00",
+          "Unnamed: 20": "2025-09-20T00:00:00",
+          "Tunduma": "2025-09-20T00:00:00",
+          "Unnamed: 22": "2025-09-21T00:00:00",
+          "Unnamed: 23": "2025-09-22T00:00:00",
+          "Unnamed: 24": "2025-09-24T00:00:00",
+          "Unnamed: 25": 2,
+          "Unnamed: 26": "",
+          "Unnamed: 27": 12,
+          "Unnamed: 28": 9,
+          "Unnamed: 29": 250,
+          "Unnamed: 30": 2250
+        }
+      ]
+    },
+    "Metal Mine -Likasi": {
+      "total_rows": 19,
+      "total_columns": 31,
+      "columns": [
+        {
+          "name": "OVERLAND -- Tracking Status report ",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "247",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Origin Site",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Whiskey",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "K-Lesa ",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Nakonde",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Tunduma",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 12
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "OVERLAND -- Tracking Status report ": "Sn",
+          "Unnamed: 1": "Lot no",
+          "Unnamed: 2": "Truck",
+          "Unnamed: 3": "Trailer I",
+          "Unnamed: 4": "Trailer II",
+          "Unnamed: 5": "Driver Name",
+          "Unnamed: 6": "Passport",
+          "247": "Booked Tonnages",
+          "Unnamed: 8": "Driver contact",
+          "Unnamed: 9": "Current Position",
+          "Unnamed: 10": "Remark/ETA",
+          "Origin Site": "Arrival Date on Site",
+          "Unnamed: 12": "Loading Date",
+          "Unnamed: 13": "Dispatched Date",
+          "Unnamed: 14": "Days",
+          "Whiskey": "Arival",
+          "Unnamed: 16": "Dispatced",
+          "K-Lesa ": "Arival",
+          "Unnamed: 18": "Dispatced",
+          "Nakonde": "Arival",
+          "Unnamed: 20": "Dispatced",
+          "Tunduma": "Arival",
+          "Unnamed: 22": "Dispatched",
+          "Unnamed: 23": "Arrival at AW DAR",
+          "Unnamed: 24": "Offloading Date ",
+          "Unnamed: 25": "Completed",
+          "Unnamed: 26": "Total Days",
+          "Unnamed: 27": "Free days",
+          "Unnamed: 28": "Chargable Days",
+          "Unnamed: 29": "Rate",
+          "Unnamed: 30": "Truck Demurrage Charges"
+        },
+        {
+          "OVERLAND -- Tracking Status report ": 1,
+          "Unnamed: 1": "MU-250829-499-047-SB",
+          "Unnamed: 2": "T561EHZ",
+          "Unnamed: 3": "T692EHV",
+          "Unnamed: 4": "T247EMP",
+          "Unnamed: 5": "NYASAHIRA WARYOBA DAMAS",
+          "Unnamed: 6": "TAE454531",
+          "247": 35,
+          "Unnamed: 8": "255768398248/255624878248",
+          "Unnamed: 9": "DESTINATION",
+          "Unnamed: 10": "Offloaded",
+          "Origin Site": "2025-09-06T00:00:00",
+          "Unnamed: 12": "2025-09-07T00:00:00",
+          "Unnamed: 13": "2025-09-19T00:00:00",
+          "Unnamed: 14": 13,
+          "Whiskey": "2025-09-20T00:00:00",
+          "Unnamed: 16": "2025-09-24T00:00:00",
+          "K-Lesa ": "2025-09-24T00:00:00",
+          "Unnamed: 18": "2025-09-25T00:00:00",
+          "Nakonde": "2025-09-28T00:00:00",
+          "Unnamed: 20": "2025-09-30T00:00:00",
+          "Tunduma": "2025-09-30T00:00:00",
+          "Unnamed: 22": "2025-10-02T00:00:00",
+          "Unnamed: 23": "2025-10-04T00:00:00",
+          "Unnamed: 24": "2025-10-06T00:00:00",
+          "Unnamed: 25": 2,
+          "Unnamed: 26": "",
+          "Unnamed: 27": 12,
+          "Unnamed: 28": 1,
+          "Unnamed: 29": 250,
+          "Unnamed: 30": 250
+        },
+        {
+          "OVERLAND -- Tracking Status report ": 2,
+          "Unnamed: 1": "MU-250829-499-047-SB",
+          "Unnamed: 2": "T197DYR",
+          "Unnamed: 3": "T637DRM",
+          "Unnamed: 4": "T629DRM",
+          "Unnamed: 5": "MGANGA ALLY MZUNGA",
+          "Unnamed: 6": "TAE686876",
+          "247": 35,
+          "Unnamed: 8": "255682 782832",
+          "Unnamed: 9": "DESTINATION",
+          "Unnamed: 10": "Offloaded",
+          "Origin Site": "2025-09-06T00:00:00",
+          "Unnamed: 12": "2025-09-07T00:00:00",
+          "Unnamed: 13": "2025-09-19T00:00:00",
+          "Unnamed: 14": 13,
+          "Whiskey": "2025-09-20T00:00:00",
+          "Unnamed: 16": "2025-09-24T00:00:00",
+          "K-Lesa ": "2025-09-24T00:00:00",
+          "Unnamed: 18": "2025-09-25T00:00:00",
+          "Nakonde": "2025-09-30T00:00:00",
+          "Unnamed: 20": "2025-09-30T00:00:00",
+          "Tunduma": "2025-10-01T00:00:00",
+          "Unnamed: 22": "2025-10-02T00:00:00",
+          "Unnamed: 23": "2025-10-04T00:00:00",
+          "Unnamed: 24": "2025-10-07T00:00:00",
+          "Unnamed: 25": 3,
+          "Unnamed: 26": "",
+          "Unnamed: 27": 12,
+          "Unnamed: 28": 1,
+          "Unnamed: 29": 250,
+          "Unnamed: 30": 250
+        }
+      ]
+    },
+    "LAMIKAL": {
+      "total_rows": 26,
+      "total_columns": 31,
+      "columns": [
+        {
+          "name": "OVERLAND -- Tracking Status report ",
+          "dtype": "object",
+          "non_null_count": 23
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "655",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Origin Site",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Whiskey",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "K-Lesa ",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Nakonde",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Tunduma",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "OVERLAND -- Tracking Status report ": "Sn",
+          "Unnamed: 1": "Lot no",
+          "Unnamed: 2": "Truck",
+          "Unnamed: 3": "Trailer I",
+          "Unnamed: 4": "Trailer II",
+          "Unnamed: 5": "Driver Name",
+          "Unnamed: 6": "Passport",
+          "655": "Booked Tonnages",
+          "Unnamed: 8": "Driver contact",
+          "Unnamed: 9": "Current Position",
+          "Unnamed: 10": "Remark/ETA",
+          "Origin Site": "Arrival Date on Site",
+          "Unnamed: 12": "Loading Date",
+          "Unnamed: 13": "Dispatched Date",
+          "Unnamed: 14": "Days",
+          "Whiskey": "Arival",
+          "Unnamed: 16": "Dispatced",
+          "K-Lesa ": "Arival",
+          "Unnamed: 18": "Dispatced",
+          "Nakonde": "Arival",
+          "Unnamed: 20": "Dispatced",
+          "Tunduma": "Arival",
+          "Unnamed: 22": "Dispatched",
+          "Unnamed: 23": "Arrival at AW DAR",
+          "Unnamed: 24": "Offloading Date ",
+          "Unnamed: 25": "Completed",
+          "Unnamed: 26": "Total Days",
+          "Unnamed: 27": "Free days",
+          "Unnamed: 28": "Chargable Days",
+          "Unnamed: 29": "Rate",
+          "Unnamed: 30": "Truck Demurrage Charges"
+        },
+        {
+          "OVERLAND -- Tracking Status report ": 1,
+          "Unnamed: 1": "LAMIKAL",
+          "Unnamed: 2": "TBA",
+          "Unnamed: 3": "TBA",
+          "Unnamed: 4": "TBA",
+          "Unnamed: 5": "TBA",
+          "Unnamed: 6": "TBA",
+          "655": "TBA",
+          "Unnamed: 8": "TBA",
+          "Unnamed: 9": "TBA",
+          "Unnamed: 10": "TBA",
+          "Origin Site": "TBA",
+          "Unnamed: 12": "TBA",
+          "Unnamed: 13": "TBA",
+          "Unnamed: 14": "",
+          "Whiskey": "TBA",
+          "Unnamed: 16": "TBA",
+          "K-Lesa ": "TBA",
+          "Unnamed: 18": "TBA",
+          "Nakonde": "TBA",
+          "Unnamed: 20": "TBA",
+          "Tunduma": "TBA",
+          "Unnamed: 22": "TBA",
+          "Unnamed: 23": "TBA",
+          "Unnamed: 24": "TBA",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": 12,
+          "Unnamed: 28": "",
+          "Unnamed: 29": 250,
+          "Unnamed: 30": ""
+        },
+        {
+          "OVERLAND -- Tracking Status report ": 2,
+          "Unnamed: 1": "LAMIKAL",
+          "Unnamed: 2": "TBA",
+          "Unnamed: 3": "TBA",
+          "Unnamed: 4": "TBA",
+          "Unnamed: 5": "TBA",
+          "Unnamed: 6": "TBA",
+          "655": "TBA",
+          "Unnamed: 8": "TBA",
+          "Unnamed: 9": "TBA",
+          "Unnamed: 10": "TBA",
+          "Origin Site": "TBA",
+          "Unnamed: 12": "TBA",
+          "Unnamed: 13": "TBA",
+          "Unnamed: 14": "",
+          "Whiskey": "TBA",
+          "Unnamed: 16": "TBA",
+          "K-Lesa ": "TBA",
+          "Unnamed: 18": "TBA",
+          "Nakonde": "TBA",
+          "Unnamed: 20": "TBA",
+          "Tunduma": "TBA",
+          "Unnamed: 22": "TBA",
+          "Unnamed: 23": "TBA",
+          "Unnamed: 24": "TBA",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": 12,
+          "Unnamed: 28": "",
+          "Unnamed: 29": 250,
+          "Unnamed: 30": ""
+        }
+      ]
+    },
+    "KAMOA": {
+      "total_rows": 14,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "OVERLAND -- Tracking Status report ",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 6
+        },
+        {
+          "name": "2025-12-22 00:00:00",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "329",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Origin Site",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Whiskey",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "K-Lesa ",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Nakonde",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Tunduma",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 11
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "OVERLAND -- Tracking Status report ": "Sn",
+          "Unnamed: 1": "Lot no",
+          "Unnamed: 2": "Truck",
+          "Unnamed: 3": "Trailer I",
+          "Unnamed: 4": "Trailer II"

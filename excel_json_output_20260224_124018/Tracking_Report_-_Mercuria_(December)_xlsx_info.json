@@ -1,0 +1,444 @@
+{
+  "filename": "Tracking Report - Mercuria (December).xlsx",
+  "file_size": 20974,
+  "last_modified": "2026-01-26T09:32:28.567733",
+  "total_sheets": 2,
+  "sheets": {
+    "TFM - DAR December": {
+      "total_rows": 22,
+      "total_columns": 34,
+      "columns": [
+        {
+          "name": "SN",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 16
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "570",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "601149",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "SN": "",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "PRODUCT",
+          "Unnamed: 4": "Transporter",
+          "Unnamed: 5": "Lot No",
+          "Unnamed: 6": "Truck",
+          "Unnamed: 7": "Trailer I",
+          "Unnamed: 8": "Trailer II",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "Passport",
+          "570": "Loading Capacities ",
+          "601149": "Loaded Weight (Kgs)",
+          "Unnamed: 14": "Type",
+          "Unnamed: 15": "Current Location",
+          "Unnamed: 16": "REMARK",
+          "Unnamed: 17": "L/SITE",
+          "Unnamed: 18": "Origins",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "WHISKY",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "KASUMBALESA/SAKANIA",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Nakonde border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Tunduma border",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "Final destination",
+          "Unnamed: 31": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        },
+        {
+          "SN": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "Driver Telephone No",
+          "Unnamed: 10": "Driver's Name",
+          "Unnamed: 11": "",
+          "570": "",
+          "601149": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "ETA",
+          "Unnamed: 18": "Arrival",
+          "Unnamed: 19": "Loaded",
+          "Unnamed: 20": "Departure",
+          "Unnamed: 21": "Days",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Arrival",
+          "Unnamed: 29": "Dispatch",
+          "Unnamed: 30": "Arrival",
+          "Unnamed: 31": "Offloaded",
+          "Unnamed: 32": "Days",
+          "Unnamed: 33": "Total delays"
+        },
+        {
+          "SN": 1,
+          "Unnamed: 1": "TFM",
+          "Unnamed: 2": "C-Steinweg Bridge WH   TAZARA",
+          "Unnamed: 3": "Copper Cathode",
+          "Unnamed: 4": "OVERLAND",
+          "Unnamed: 5": "TB06286/TFM/12/25",
+          "Unnamed: 6": "T154EJA",
+          "Unnamed: 7": "T693EHV",
+          "Unnamed: 8": "T227EMP",
+          "Unnamed: 9": "255742 282634",
+          "Unnamed: 10": "CLAUDY FRANK CHAMBULILA",
+          "Unnamed: 11": "TAE724508",
+          "570": 35,
+          "601149": 35119,
+          "Unnamed: 14": "FLATBED",
+          "Unnamed: 15": "WHISKEY",
+          "Unnamed: 16": "Clearnce",
+          "Unnamed: 17": "2025-12-22T00:00:00",
+          "Unnamed: 18": "2025-12-22T00:00:00",
+          "Unnamed: 19": "2025-12-25T00:00:00",
+          "Unnamed: 20": "2026-01-13T00:00:00",
+          "Unnamed: 21": 22,
+          "Unnamed: 22": "2026-01-14T00:00:00",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        }
+      ]
+    },
+    "Summary": {
+      "total_rows": 6,
+      "total_columns": 17,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 3
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": ""
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": ""
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": ""
+        }
+      ]
+    }
+  }
+}

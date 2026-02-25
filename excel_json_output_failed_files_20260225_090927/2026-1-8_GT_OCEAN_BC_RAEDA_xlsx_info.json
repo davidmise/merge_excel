@@ -1,0 +1,2600 @@
+{
+  "filename": "2026-1-8 GT OCEAN BC RAEDA.xlsx",
+  "file_size": 240158,
+  "last_modified": "2026-01-26T09:34:04.176529",
+  "total_sheets": 8,
+  "sheets": {
+    "Summary": {
+      "total_rows": 21,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 16
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 7
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": null,
+          "Unnamed: 1": "Summary Report - BC RAEDA 1A",
+          "Unnamed: 2": null,
+          "Unnamed: 3": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null,
+          "Unnamed: 6": null,
+          "Unnamed: 7": "Summary Report - BC RAEDA 1B",
+          "Unnamed: 8": null,
+          "Unnamed: 9": null,
+          "Unnamed: 10": null,
+          "Unnamed: 11": null,
+          "Unnamed: 12": null,
+          "Unnamed: 13": null,
+          "Unnamed: 14": null,
+          "Unnamed: 15": null
+        },
+        {
+          "Unnamed: 0": null,
+          "Unnamed: 1": "Type",
+          "Unnamed: 2": "No of Trucks Released from WH",
+          "Unnamed: 3": "Bags",
+          "Unnamed: 4": "Net",
+          "Unnamed: 5": "Gross",
+          "Unnamed: 6": null,
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "No of Trucks Released from WH",
+          "Unnamed: 9": "Bags",
+          "Unnamed: 10": "Net",
+          "Unnamed: 11": "Gross",
+          "Unnamed: 12": null,
+          "Unnamed: 13": "DESTINATION ",
+          "Unnamed: 14": "NET",
+          "Unnamed: 15": "GROSS"
+        },
+        {
+          "Unnamed: 0": null,
+          "Unnamed: 1": "Pumpi - 1A",
+          "Unnamed: 2": 53,
+          "Unnamed: 3": 1499,
+          "Unnamed: 4": 1871.603,
+          "Unnamed: 5": 1978.453,
+          "Unnamed: 6": null,
+          "Unnamed: 7": "Pumpi - 1B",
+          "Unnamed: 8": 54,
+          "Unnamed: 9": 1500,
+          "Unnamed: 10": 1875,
+          "Unnamed: 11": 1879.778,
+          "Unnamed: 12": null,
+          "Unnamed: 13": "PUMPI",
+          "Unnamed: 14": 3746.603,
+          "Unnamed: 15": 3858.2309999999998
+        }
+      ]
+    },
+    "Master": {
+      "total_rows": 288,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "BC RAEDA",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "H-DAN  ",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "3992",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "4990",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "5003.991",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "-4025",
+          "dtype": "object",
+          "non_null_count": 287
+        },
+        {
+          "name": "-5028.851000000001",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "-5426.2880000000005",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 283
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 89
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 77
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 77
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 77
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 280
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 280
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 280
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 280
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 43
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 280
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "\u5e8f\u53f7",
+          "Unnamed: 1": "\u63d0\u5355\u53f7",
+          "Unnamed: 2": "\u5361\u8f66\u724c\u53f7",
+          "Unnamed: 3": "\u62d6\u8f66\u724c\u53f7",
+          "2026-01-23 00:00:00": "\u53f8\u673a\u59d3\u540d",
+          "BC RAEDA": "\u76ee\u7684\u5730",
+          "H-DAN  ": "\u5f53\u524d\u4f4d\u7f6e",
+          "3992": "\u5428\u888b/bags",
+          "4990": "\u51c0\u91cd/N.W.",
+          "5003.991": "\u6bdb\u91cd/G.W.",
+          "-4025": null,
+          "-5028.851000000001": "\u6587\u4ef6\u63a5\u6536",
+          "-5426.2880000000005": "\u8239\u53f8",
+          "GT OCEAN TRANSPORTATION LIMITED": "\u8239\u540d",
+          "Unnamed: 14": "\u9884\u8ba1\u62b5\u6e2f",
+          "Unnamed: 15": "\u5b9e\u9645\u9760\u6cca",
+          "Unnamed: 16": "\u8239\u53f8\u653e\u884c",
+          "Unnamed: 17": "\u88c5\u8fd0\u65f6\u95f4",
+          "Unnamed: 18": "\u8d77\u8fd0\u65f6\u95f4",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "\u5230\u8fbeTUNDUMA",
+          "Unnamed: 20": "NAKONDE\u51fa\u53d1",
+          "Unnamed: 21": "\u5230\u8fbe\u5361\u677eZAMBIA",
+          "Unnamed: 22": "\u5361\u677eZAMBIA\u51fa\u53d1",
+          "Unnamed: 23": "\u5230\u8fbe\u5361\u677eDRC",
+          "Unnamed: 24": "\u5361\u677e\u51fa\u53d1DRC",
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": "\u5230\u8fbe\u76ee\u7684\u5730",
+          "Unnamed: 28": "\u5378\u8d27\u65f6\u95f4",
+          "Unnamed: 29": "\u5907\u6ce8",
+          "Unnamed: 30": "Border Delays",
+          "Unnamed: 31": null,
+          "Unnamed: 32": null,
+          "Unnamed: 33": null,
+          "Unnamed: 34": 11400,
+          "Unnamed: 35": "Offloading Delays",
+          "Unnamed: 36": null,
+          "Unnamed: 37": null,
+          "Unnamed: 38": null,
+          "Total Amount": 3400,
+          "Unnamed: 40": 2000,
+          "Unnamed: 41": 16800
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "No.",
+          "Unnamed: 1": "B/L",
+          "Unnamed: 2": "TRUCK\nNUMBER",
+          "Unnamed: 3": "TRAILER \nNUMBER",
+          "2026-01-23 00:00:00": "DRIVER\nNAME",
+          "BC RAEDA": "FINAL\nDESTINATION",
+          "H-DAN  ": "TRUCK POSITION",
+          "3992": 8017,
+          "4990": 10018.851,
+          "5003.991": 10430.279,
+          "-4025": "HDAN",
+          "-5028.851000000001": "DOCUMENTS RECEIVED",
+          "-5426.2880000000005": "SHIPPING\nLINE",
+          "GT OCEAN TRANSPORTATION LIMITED": "VESSEL",
+          "Unnamed: 14": "ETA",
+          "Unnamed: 15": "ATB",
+          "Unnamed: 16": "LINE RELEASE",
+          "Unnamed: 17": "DATE LOADED",
+          "Unnamed: 18": "DISPATCH DATE",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "ARRIVED TUNDUMA BORDER",
+          "Unnamed: 20": "DEPARTED\nNAKONDE",
+          "Unnamed: 21": "K-LESA ZAMBIA ARRIVED  ",
+          "Unnamed: 22": "K-LESA ZAMBIA DEPARTED",
+          "Unnamed: 23": "K-LESA DRC ARRIVED  ",
+          "Unnamed: 24": "K-LESA DRC DEPARTED",
+          "Unnamed: 25": "L-MBASHI ARRIVED",
+          "Unnamed: 26": "DEPARTED L-MBASHI",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "ARRIVED DESTINATION",
+          "Unnamed: 28": "OFFLOADED",
+          "Unnamed: 29": "COMMENTS",
+          "Unnamed: 30": "Border  Days",
+          "Unnamed: 31": "Free days",
+          "Unnamed: 32": "Chargable Days",
+          "Unnamed: 33": "Chargable Rate",
+          "Unnamed: 34": "Border Delays Amt",
+          "Unnamed: 35": "Offloading Days",
+          "Unnamed: 36": "Free days",
+          "Unnamed: 37": "Chargable Days",
+          "Unnamed: 38": "Chargable Rate",
+          "Total Amount": "Offloading Delays Amt",
+          "Unnamed: 40": "Parking Charges Amount",
+          "Unnamed: 41": "TOTAL"
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": 1,
+          "Unnamed: 1": "1B",
+          "Unnamed: 2": "T922EDD",
+          "Unnamed: 3": "T501EDC-T719EPL",
+          "2026-01-23 00:00:00": "OMARY HAMISI SALUM",
+          "BC RAEDA": "PUMPI ",
+          "H-DAN  ": "CFS VINGUNGUTI ",
+          "3992": 28,
+          "4990": 35000,
+          "5003.991": 35098,
+          "-4025": "AN-HDAN",
+          "-5028.851000000001": "2025-08-21T00:00:00",
+          "-5426.2880000000005": "ESL",
+          "GT OCEAN TRANSPORTATION LIMITED": "BC Raeda",
+          "Unnamed: 14": "2025-08-12T00:00:00",
+          "Unnamed: 15": "2025-09-07T00:00:00",
+          "Unnamed: 16": "2025-08-23T00:00:00",
+          "Unnamed: 17": "2026-01-18T00:00:00",
+          "Unnamed: 18": null,
+          "GT OCEAN TRANSPORTATION LIMITED.1": null,
+          "Unnamed: 20": null,
+          "Unnamed: 21": null,
+          "Unnamed: 22": null,
+          "Unnamed: 23": null,
+          "Unnamed: 24": null,
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": null,
+          "Unnamed: 28": null,
+          "Unnamed: 29": "Loaded waitig release",
+          "Unnamed: 30": 0,
+          "Unnamed: 31": 7,
+          "Unnamed: 32": 0,
+          "Unnamed: 33": 200,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": 0,
+          "Unnamed: 36": 2,
+          "Unnamed: 37": 0,
+          "Unnamed: 38": 200,
+          "Total Amount": 0,
+          "Unnamed: 40": null,
+          "Unnamed: 41": 0
+        }
+      ]
+    },
+    "BL-1A-Pumpi": {
+      "total_rows": 57,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "BC RAEDA",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "H-DAN ",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "3992",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "4990",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "5003.991",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 54
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 54
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 54
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 54
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 54
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 57
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 57
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 57
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 57
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 57
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "\u5e8f\u53f7",
+          "Unnamed: 1": "\u63d0\u5355\u53f7",
+          "Unnamed: 2": "\u5361\u8f66\u724c\u53f7",
+          "Unnamed: 3": "\u62d6\u8f66\u724c\u53f7",
+          "2026-01-23 00:00:00": "\u53f8\u673a\u59d3\u540d",
+          "BC RAEDA": "\u76ee\u7684\u5730",
+          "H-DAN ": "\u5f53\u524d\u4f4d\u7f6e",
+          "3992": "\u5428\u888b/bags",
+          "4990": "\u51c0\u91cd/N.W.",
+          "5003.991": "\u6bdb\u91cd/G.W.",
+          "Unnamed: 10": null,
+          "Unnamed: 11": "\u6587\u4ef6\u63a5\u6536",
+          "GT OCEAN TRANSPORTATION LIMITED": "\u8239\u53f8",
+          "Unnamed: 13": "\u8239\u540d",
+          "Unnamed: 14": "\u9884\u8ba1\u62b5\u6e2f",
+          "Unnamed: 15": "\u5b9e\u9645\u9760\u6cca",
+          "Unnamed: 16": "\u8239\u53f8\u653e\u884c",
+          "Unnamed: 17": "\u88c5\u8fd0\u65f6\u95f4",
+          "Unnamed: 18": "\u8d77\u8fd0\u65f6\u95f4",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "\u5230\u8fbeTUNDUMA",
+          "Unnamed: 20": "NAKONDE\u51fa\u53d1",
+          "Unnamed: 21": "\u5230\u8fbe\u5361\u677eZAMBIA",
+          "Unnamed: 22": "\u5361\u677eZAMBIA\u51fa\u53d1",
+          "Unnamed: 23": "\u5230\u8fbe\u5361\u677eDRC",
+          "Unnamed: 24": "\u5361\u677e\u51fa\u53d1DRC",
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": "\u5230\u8fbe\u76ee\u7684\u5730",
+          "Unnamed: 28": "\u5378\u8d27\u65f6\u95f4",
+          "Unnamed: 29": "\u5907\u6ce8",
+          "Unnamed: 30": "Border Delays",
+          "Unnamed: 31": null,
+          "Unnamed: 32": null,
+          "Unnamed: 33": null,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": "Offloading Delays",
+          "Unnamed: 36": null,
+          "Unnamed: 37": null,
+          "Unnamed: 38": null,
+          "Total Amount": 0,
+          "Unnamed: 40": 0,
+          "Unnamed: 41": 0
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "No.",
+          "Unnamed: 1": "B/L No.",
+          "Unnamed: 2": "TRUCK\nNUMBER",
+          "Unnamed: 3": "TRAILER \nNUMBER",
+          "2026-01-23 00:00:00": "DRIVER\nNAME",
+          "BC RAEDA": "FINAL\nDESTINATION",
+          "H-DAN ": "TRUCK POSITION",
+          "3992": 1499,
+          "4990": 1871.603,
+          "5003.991": 1978.453,
+          "Unnamed: 10": "HDAN",
+          "Unnamed: 11": "DOCUMENTS RECEIVED",
+          "GT OCEAN TRANSPORTATION LIMITED": "SHIPPING\nLINE",
+          "Unnamed: 13": "VESSEL",
+          "Unnamed: 14": "ETA",
+          "Unnamed: 15": "ATB",
+          "Unnamed: 16": "LINE RELEASE",
+          "Unnamed: 17": "DATE LOADED",
+          "Unnamed: 18": "DISPATCH DATE",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "ARRIVED TUNDUMA BORDER",
+          "Unnamed: 20": "DEPARTED\nNAKONDE",
+          "Unnamed: 21": "K-LESA ZAMBIA ARRIVED  ",
+          "Unnamed: 22": "K-LESA ZAMBIA DEPARTED",
+          "Unnamed: 23": "K-LESA DRC ARRIVED  ",
+          "Unnamed: 24": "K-LESA DRC DEPARTED",
+          "Unnamed: 25": "L-MBASHI ARRIVED",
+          "Unnamed: 26": "DEPARTED L-MBASHI",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "ARRIVED DESTINATION",
+          "Unnamed: 28": "OFFLOADED",
+          "Unnamed: 29": "COMMENTS",
+          "Unnamed: 30": "Border  Days",
+          "Unnamed: 31": "Free days",
+          "Unnamed: 32": "Chargable Days",
+          "Unnamed: 33": "Chargable Rate",
+          "Unnamed: 34": "Border Delays Amt",
+          "Unnamed: 35": "Offloading Days",
+          "Unnamed: 36": "Free days",
+          "Unnamed: 37": "Chargable Days",
+          "Unnamed: 38": "Chargable Rate",
+          "Total Amount": "Offloading Delays Amt",
+          "Unnamed: 40": "Parking Charges Amount",
+          "Unnamed: 41": "TOTAL"
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": 1,
+          "Unnamed: 1": "1A",
+          "Unnamed: 2": "T327CFY",
+          "Unnamed: 3": "T411BJE-T538EFH",
+          "2026-01-23 00:00:00": "STEVEN LUCAS MBANGA",
+          "BC RAEDA": "PUMPI",
+          "H-DAN ": "FUNGURUME   DRC",
+          "3992": 28,
+          "4990": 35000,
+          "5003.991": 35070,
+          "Unnamed: 10": "AN-HDAN",
+          "Unnamed: 11": "2025-08-21T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED": "ESL",
+          "Unnamed: 13": "BC Raeda",
+          "Unnamed: 14": "2025-08-12T00:00:00",
+          "Unnamed: 15": "2025-09-07T00:00:00",
+          "Unnamed: 16": "2025-08-23T00:00:00",
+          "Unnamed: 17": "2025-11-29T00:00:00",
+          "Unnamed: 18": "2025-12-01T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "2025-12-22T00:00:00",
+          "Unnamed: 20": "2025-12-24T00:00:00",
+          "Unnamed: 21": "2026-01-07T00:00:00",
+          "Unnamed: 22": "2026-01-07T00:00:00",
+          "Unnamed: 23": "2026-01-07T00:00:00",
+          "Unnamed: 24": "2026-01-14T00:00:00",
+          "Unnamed: 25": "2026-01-15T00:00:00",
+          "Unnamed: 26": "2026-01-15T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.2": null,
+          "Unnamed: 28": null,
+          "Unnamed: 29": "In Transit ",
+          "Unnamed: 30": 7,
+          "Unnamed: 31": 7,
+          "Unnamed: 32": 0,
+          "Unnamed: 33": 200,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": 0,
+          "Unnamed: 36": 2,
+          "Unnamed: 37": 0,
+          "Unnamed: 38": 200,
+          "Total Amount": 0,
+          "Unnamed: 40": null,
+          "Unnamed: 41": 0
+        }
+      ]
+    },
+    "BL-1A-Kolwezi": {
+      "total_rows": 34,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "BC RAEDA",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "H-DAN ",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "3992",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "4990",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "5003.991",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 34
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "\u5e8f\u53f7",
+          "Unnamed: 1": "\u63d0\u5355\u53f7",
+          "Unnamed: 2": "\u5361\u8f66\u724c\u53f7",
+          "Unnamed: 3": "\u62d6\u8f66\u724c\u53f7",
+          "2026-01-23 00:00:00": "\u53f8\u673a\u59d3\u540d",
+          "BC RAEDA": "\u76ee\u7684\u5730",
+          "H-DAN ": "\u5f53\u524d\u4f4d\u7f6e",
+          "3992": "\u5428\u888b/bags",
+          "4990": "\u51c0\u91cd/N.W.",
+          "5003.991": "\u6bdb\u91cd/G.W.",
+          "Unnamed: 10": null,
+          "Unnamed: 11": "\u6587\u4ef6\u63a5\u6536",
+          "GT OCEAN TRANSPORTATION LIMITED": "\u8239\u53f8",
+          "Unnamed: 13": "\u8239\u540d",
+          "Unnamed: 14": "\u9884\u8ba1\u62b5\u6e2f",
+          "Unnamed: 15": "\u5b9e\u9645\u9760\u6cca",
+          "Unnamed: 16": "\u8239\u53f8\u653e\u884c",
+          "Unnamed: 17": "\u88c5\u8fd0\u65f6\u95f4",
+          "Unnamed: 18": "\u8d77\u8fd0\u65f6\u95f4",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "\u5230\u8fbeTUNDUMA",
+          "Unnamed: 20": "NAKONDE\u51fa\u53d1",
+          "Unnamed: 21": "\u5230\u8fbe\u5361\u677eZAMBIA",
+          "Unnamed: 22": "\u5361\u677eZAMBIA\u51fa\u53d1",
+          "Unnamed: 23": "\u5230\u8fbe\u5361\u677eDRC",
+          "Unnamed: 24": "\u5361\u677e\u51fa\u53d1DRC",
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": "\u5230\u8fbe\u76ee\u7684\u5730",
+          "Unnamed: 28": "\u5378\u8d27\u65f6\u95f4",
+          "Unnamed: 29": "\u5907\u6ce8",
+          "Unnamed: 30": "Border Delays",
+          "Unnamed: 31": null,
+          "Unnamed: 32": null,
+          "Unnamed: 33": null,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": "Offloading Delays",
+          "Unnamed: 36": null,
+          "Unnamed: 37": null,
+          "Unnamed: 38": null,
+          "Total Amount": 600,
+          "Unnamed: 40": 200,
+          "Unnamed: 41": 800
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "No.",
+          "Unnamed: 1": "B/L No.",
+          "Unnamed: 2": "TRUCK\nNUMBER",
+          "Unnamed: 3": "TRAILER \nNUMBER",
+          "2026-01-23 00:00:00": "DRIVER\nNAME",
+          "BC RAEDA": "FINAL\nDESTINATION",
+          "H-DAN ": "TRUCK POSITION",
+          "3992": 476,
+          "4990": 595,
+          "5003.991": 596.216,
+          "Unnamed: 10": "HDAN",
+          "Unnamed: 11": "DOCUMENTS RECEIVED",
+          "GT OCEAN TRANSPORTATION LIMITED": "SHIPPING\nLINE",
+          "Unnamed: 13": "VESSEL",
+          "Unnamed: 14": "ETA",
+          "Unnamed: 15": "ATB",
+          "Unnamed: 16": "LINE RELEASE",
+          "Unnamed: 17": "DATE LOADED",
+          "Unnamed: 18": "DISPATCH DATE",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "ARRIVED TUNDUMA BORDER",
+          "Unnamed: 20": "DEPARTED\nNAKONDE",
+          "Unnamed: 21": "K-LESA ZAMBIA ARRIVED  ",
+          "Unnamed: 22": "K-LESA ZAMBIA DEPARTED",
+          "Unnamed: 23": "K-LESA DRC ARRIVED  ",
+          "Unnamed: 24": "K-LESA DRC DEPARTED",
+          "Unnamed: 25": "L-MBASHI ARRIVED",
+          "Unnamed: 26": "DEPARTED L-MBASHI",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "ARRIVED DESTINATION",
+          "Unnamed: 28": "OFFLOADED",
+          "Unnamed: 29": "COMMENTS",
+          "Unnamed: 30": "Border  Days",
+          "Unnamed: 31": "Free days",
+          "Unnamed: 32": "Chargable Days",
+          "Unnamed: 33": "Chargable Rate",
+          "Unnamed: 34": "Border Delays Amt",
+          "Unnamed: 35": "Offloading Days",
+          "Unnamed: 36": "Free days",
+          "Unnamed: 37": "Chargable Days",
+          "Unnamed: 38": "Chargable Rate",
+          "Total Amount": "Offloading Delays Amt",
+          "Unnamed: 40": "Parking Charges Amount",
+          "Unnamed: 41": "TOTAL"
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": 1,
+          "Unnamed: 1": "1A",
+          "Unnamed: 2": "T551DCZ",
+          "Unnamed: 3": "T515BWD",
+          "2026-01-23 00:00:00": "JUMAA HALFAN KIPANGA",
+          "BC RAEDA": "KOLWEZI",
+          "H-DAN ": "OFFLOADED",
+          "3992": 29,
+          "4990": 36250,
+          "5003.991": 36323,
+          "Unnamed: 10": "AN-HDAN",
+          "Unnamed: 11": "2025-08-21T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED": "ESL",
+          "Unnamed: 13": "BC Raeda",
+          "Unnamed: 14": "2025-08-12T00:00:00",
+          "Unnamed: 15": "2025-09-07T00:00:00",
+          "Unnamed: 16": "2025-08-23T00:00:00",
+          "Unnamed: 17": "2025-11-29T00:00:00",
+          "Unnamed: 18": "2025-12-11T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "2025-12-22T00:00:00",
+          "Unnamed: 20": "2025-12-26T00:00:00",
+          "Unnamed: 21": "2026-01-01T00:00:00",
+          "Unnamed: 22": "2026-01-01T00:00:00",
+          "Unnamed: 23": "2026-01-01T00:00:00",
+          "Unnamed: 24": "2026-01-05T00:00:00",
+          "Unnamed: 25": "2026-01-05T00:00:00",
+          "Unnamed: 26": "2026-01-06T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "2026-01-09T00:00:00",
+          "Unnamed: 28": "2026-01-12T00:00:00",
+          "Unnamed: 29": "COMPLETED",
+          "Unnamed: 30": 4,
+          "Unnamed: 31": 7,
+          "Unnamed: 32": 0,
+          "Unnamed: 33": 200,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": 3,
+          "Unnamed: 36": 2,
+          "Unnamed: 37": 1,
+          "Unnamed: 38": 200,
+          "Total Amount": 200,
+          "Unnamed: 40": null,
+          "Unnamed: 41": 200
+        }
+      ]
+    },
+    "BL-1A-Likasi": {
+      "total_rows": 85,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 85
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 85
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "BC RAEDA",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "H-DAN ",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "3992",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "4990",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "5003.991",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 73
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 73
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 73
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 74
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 85
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 84
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 84
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 84
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 85
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 85
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 84
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 84
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 84
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 85
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 85
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "\u5e8f\u53f7",
+          "Unnamed: 1": "\u63d0\u5355\u53f7",
+          "Unnamed: 2": "\u5361\u8f66\u724c\u53f7",
+          "Unnamed: 3": "\u62d6\u8f66\u724c\u53f7",
+          "2026-01-23 00:00:00": "\u53f8\u673a\u59d3\u540d",
+          "BC RAEDA": "\u76ee\u7684\u5730",
+          "H-DAN ": "\u5f53\u524d\u4f4d\u7f6e",
+          "3992": "\u5428\u888b/bags",
+          "4990": "\u51c0\u91cd/N.W.",
+          "5003.991": "\u6bdb\u91cd/G.W.",
+          "Unnamed: 10": null,
+          "Unnamed: 11": "\u6587\u4ef6\u63a5\u6536",
+          "GT OCEAN TRANSPORTATION LIMITED": "\u8239\u53f8",
+          "Unnamed: 13": "\u8239\u540d",
+          "Unnamed: 14": "\u9884\u8ba1\u62b5\u6e2f",
+          "Unnamed: 15": "\u5b9e\u9645\u9760\u6cca",
+          "Unnamed: 16": "\u8239\u53f8\u653e\u884c",
+          "Unnamed: 17": "\u88c5\u8fd0\u65f6\u95f4",
+          "Unnamed: 18": "\u8d77\u8fd0\u65f6\u95f4",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "\u5230\u8fbeTUNDUMA",
+          "Unnamed: 20": "NAKONDE\u51fa\u53d1",
+          "Unnamed: 21": "\u5230\u8fbe\u5361\u677eZAMBIA",
+          "Unnamed: 22": "\u5361\u677eZAMBIA\u51fa\u53d1",
+          "Unnamed: 23": "\u5230\u8fbe\u5361\u677eDRC",
+          "Unnamed: 24": "\u5361\u677e\u51fa\u53d1DRC",
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": "\u5230\u8fbe\u76ee\u7684\u5730",
+          "Unnamed: 28": "\u5378\u8d27\u65f6\u95f4",
+          "Unnamed: 29": "\u5907\u6ce8",
+          "Unnamed: 30": "Border Delays",
+          "Unnamed: 31": null,
+          "Unnamed: 32": null,
+          "Unnamed: 33": null,
+          "Unnamed: 34": 11400,
+          "Unnamed: 35": "Offloading Delays",
+          "Unnamed: 36": null,
+          "Unnamed: 37": null,
+          "Unnamed: 38": null,
+          "Total Amount": 2800,
+          "Unnamed: 40": 1800,
+          "Unnamed: 41": 16000
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "No.",
+          "Unnamed: 1": "B/L",
+          "Unnamed: 2": "TRUCK\nNUMBER",
+          "Unnamed: 3": "TRAILER \nNUMBER",
+          "2026-01-23 00:00:00": "DRIVER\nNAME",
+          "BC RAEDA": "FINAL\nDESTINATION",
+          "H-DAN ": "TRUCK POSITION",
+          "3992": 2024,
+          "4990": 2527.175,
+          "5003.991": 2798.254,
+          "Unnamed: 10": "HDAN",
+          "Unnamed: 11": "DOCUMENTS RECEIVED",
+          "GT OCEAN TRANSPORTATION LIMITED": "SHIPPING\nLINE",
+          "Unnamed: 13": "VESSEL",
+          "Unnamed: 14": "ETA",
+          "Unnamed: 15": "ATB",
+          "Unnamed: 16": "LINE RELEASE",
+          "Unnamed: 17": "DATE LOADED",
+          "Unnamed: 18": "DISPATCH DATE",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "ARRIVED TUNDUMA BORDER",
+          "Unnamed: 20": "DEPARTED\nNAKONDE",
+          "Unnamed: 21": "K-LESA ZAMBIA ARRIVED  ",
+          "Unnamed: 22": "K-LESA ZAMBIA DEPARTED",
+          "Unnamed: 23": "K-LESA DRC ARRIVED  ",
+          "Unnamed: 24": "K-LESA DRC DEPARTED",
+          "Unnamed: 25": "L-MBASHI ARRIVED",
+          "Unnamed: 26": "DEPARTED L-MBASHI",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "ARRIVED DESTINATION",
+          "Unnamed: 28": "OFFLOADED",
+          "Unnamed: 29": "COMMENTS",
+          "Unnamed: 30": "Border  Days",
+          "Unnamed: 31": "Free days",
+          "Unnamed: 32": "Chargable Days",
+          "Unnamed: 33": "Chargable Rate",
+          "Unnamed: 34": "Border Delays Amt",
+          "Unnamed: 35": "Offloading Days",
+          "Unnamed: 36": "Free days",
+          "Unnamed: 37": "Chargable Days",
+          "Unnamed: 38": "Chargable Rate",
+          "Total Amount": "Offloading Delays Amt",
+          "Unnamed: 40": "Parking Charges Amount",
+          "Unnamed: 41": "TOTAL"
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": 1,
+          "Unnamed: 1": "1A",
+          "Unnamed: 2": "T477DZH",
+          "Unnamed: 3": "T334EBB-T566EBB",
+          "2026-01-23 00:00:00": "JUMA FESTO PHINIAS",
+          "BC RAEDA": "LIKASI /SICODEX",
+          "H-DAN ": "OFFLOADED",
+          "3992": 28,
+          "4990": 35000,
+          "5003.991": 35070,
+          "Unnamed: 10": "AN-HDAN",
+          "Unnamed: 11": "2025-08-21T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED": "ESL",
+          "Unnamed: 13": "BC Raeda",
+          "Unnamed: 14": "2025-08-12T00:00:00",
+          "Unnamed: 15": "2025-09-07T00:00:00",
+          "Unnamed: 16": "2025-08-23T00:00:00",
+          "Unnamed: 17": "2025-12-11T00:00:00",
+          "Unnamed: 18": "2025-12-13T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "2025-12-17T00:00:00",
+          "Unnamed: 20": "2025-12-22T00:00:00",
+          "Unnamed: 21": "2025-12-25T00:00:00",
+          "Unnamed: 22": "2025-12-25T00:00:00",
+          "Unnamed: 23": "2025-12-25T00:00:00",
+          "Unnamed: 24": "2025-12-31T00:00:00",
+          "Unnamed: 25": "2025-12-31T00:00:00",
+          "Unnamed: 26": "2026-01-01T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "2026-01-01T00:00:00",
+          "Unnamed: 28": "2026-01-03T00:00:00",
+          "Unnamed: 29": "COMPLETED",
+          "Unnamed: 30": 6,
+          "Unnamed: 31": 7,
+          "Unnamed: 32": 0,
+          "Unnamed: 33": 200,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": 2,
+          "Unnamed: 36": 2,
+          "Unnamed: 37": 0,
+          "Unnamed: 38": 200,
+          "Total Amount": 0,
+          "Unnamed: 40": null,
+          "Unnamed: 41": 0
+        }
+      ]
+    },
+    "BL-1B-PUMPI": {
+      "total_rows": 56,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "BC RAEDA",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "H-DAN ",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "3992",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "4990",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "5003.991",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 46
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 27
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 56
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 56
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "\u5e8f\u53f7",
+          "Unnamed: 1": "\u63d0\u5355\u53f7",
+          "Unnamed: 2": "\u5361\u8f66\u724c\u53f7",
+          "Unnamed: 3": "\u62d6\u8f66\u724c\u53f7",
+          "2026-01-23 00:00:00": "\u53f8\u673a\u59d3\u540d",
+          "BC RAEDA": "\u76ee\u7684\u5730",
+          "H-DAN ": "\u5f53\u524d\u4f4d\u7f6e",
+          "3992": "\u5428\u888b/bags",
+          "4990": "\u51c0\u91cd/N.W.",
+          "5003.991": "\u6bdb\u91cd/G.W.",
+          "Unnamed: 10": null,
+          "Unnamed: 11": "\u6587\u4ef6\u63a5\u6536",
+          "GT OCEAN TRANSPORTATION LIMITED": "\u8239\u53f8",
+          "Unnamed: 13": "\u8239\u540d",
+          "Unnamed: 14": "\u9884\u8ba1\u62b5\u6e2f",
+          "Unnamed: 15": "\u5b9e\u9645\u9760\u6cca",
+          "Unnamed: 16": "\u8239\u53f8\u653e\u884c",
+          "Unnamed: 17": "\u88c5\u8fd0\u65f6\u95f4",
+          "Unnamed: 18": "\u8d77\u8fd0\u65f6\u95f4",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "\u5230\u8fbeTUNDUMA",
+          "Unnamed: 20": "NAKONDE\u51fa\u53d1",
+          "Unnamed: 21": "\u5230\u8fbe\u5361\u677eZAMBIA",
+          "Unnamed: 22": "\u5361\u677eZAMBIA\u51fa\u53d1",
+          "Unnamed: 23": "\u5230\u8fbe\u5361\u677eDRC",
+          "Unnamed: 24": "\u5361\u677e\u51fa\u53d1DRC",
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": "\u5230\u8fbe\u76ee\u7684\u5730",
+          "Unnamed: 28": "\u5378\u8d27\u65f6\u95f4",
+          "Unnamed: 29": "\u5907\u6ce8",
+          "Unnamed: 30": "Border Delays",
+          "Unnamed: 31": null,
+          "Unnamed: 32": null,
+          "Unnamed: 33": null,
+          "Unnamed: 34": 4200,
+          "Unnamed: 35": "Offloading Delays",
+          "Unnamed: 36": null,
+          "Unnamed: 37": null,
+          "Unnamed: 38": null,
+          "Total Amount": 0,
+          "Unnamed: 40": 2950,
+          "Unnamed: 41": 7150
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "No.",
+          "Unnamed: 1": "B/L",
+          "Unnamed: 2": "TRUCK\nNUMBER",
+          "Unnamed: 3": "TRAILER \nNUMBER",
+          "2026-01-23 00:00:00": "DRIVER\nNAME",
+          "BC RAEDA": "FINAL\nDESTINATION",
+          "H-DAN ": "TRUCK POSITION",
+          "3992": 1500,
+          "4990": 1875,
+          "5003.991": 1879.778,
+          "Unnamed: 10": "HDAN",
+          "Unnamed: 11": "DOCUMENTS RECEIVED",
+          "GT OCEAN TRANSPORTATION LIMITED": "SHIPPING\nLINE",
+          "Unnamed: 13": "VESSEL",
+          "Unnamed: 14": "ETA",
+          "Unnamed: 15": "ATB",
+          "Unnamed: 16": "LINE RELEASE",
+          "Unnamed: 17": "DATE LOADED",
+          "Unnamed: 18": "DISPATCH DATE",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "ARRIVED TUNDUMA BORDER",
+          "Unnamed: 20": "DEPARTED\nNAKONDE",
+          "Unnamed: 21": "K-LESA ZAMBIA ARRIVED  ",
+          "Unnamed: 22": "K-LESA ZAMBIA DEPARTED",
+          "Unnamed: 23": "K-LESA DRC ARRIVED  ",
+          "Unnamed: 24": "K-LESA DRC DEPARTED",
+          "Unnamed: 25": "L-MBASHI ARRIVED",
+          "Unnamed: 26": "DEPARTED L-MBASHI",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "ARRIVED DESTINATION",
+          "Unnamed: 28": "OFFLOADED",
+          "Unnamed: 29": "COMMENTS",
+          "Unnamed: 30": "Border  Days",
+          "Unnamed: 31": "Free days",
+          "Unnamed: 32": "Chargable Days",
+          "Unnamed: 33": "Chargable Rate",
+          "Unnamed: 34": "Border Delays Amt",
+          "Unnamed: 35": "Offloading Days",
+          "Unnamed: 36": "Free days",
+          "Unnamed: 37": "Chargable Days",
+          "Unnamed: 38": "Chargable Rate",
+          "Total Amount": "Offloading Delays Amt",
+          "Unnamed: 40": "Parking Charges Amount",
+          "Unnamed: 41": "TOTAL"
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": 1,
+          "Unnamed: 1": "1B",
+          "Unnamed: 2": "T922EDD",
+          "Unnamed: 3": "T501EDC-T719EPL",
+          "2026-01-23 00:00:00": "OMARY HAMISI SALUM",
+          "BC RAEDA": "PUMPI ",
+          "H-DAN ": "MBEYA  TZ",
+          "3992": 28,
+          "4990": 35000,
+          "5003.991": 35098,
+          "Unnamed: 10": "AN-HDAN",
+          "Unnamed: 11": "2025-08-21T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED": "ESL",
+          "Unnamed: 13": "BC Raeda",
+          "Unnamed: 14": "2025-08-12T00:00:00",
+          "Unnamed: 15": "2025-09-07T00:00:00",
+          "Unnamed: 16": "2025-08-23T00:00:00",
+          "Unnamed: 17": "2026-01-18T00:00:00",
+          "Unnamed: 18": "2026-01-19T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.1": null,
+          "Unnamed: 20": null,
+          "Unnamed: 21": null,
+          "Unnamed: 22": null,
+          "Unnamed: 23": null,
+          "Unnamed: 24": null,
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": null,
+          "Unnamed: 28": null,
+          "Unnamed: 29": "In Transit ",
+          "Unnamed: 30": 0,
+          "Unnamed: 31": 7,
+          "Unnamed: 32": 0,
+          "Unnamed: 33": 200,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": 0,
+          "Unnamed: 36": 2,
+          "Unnamed: 37": 0,
+          "Unnamed: 38": 200,
+          "Total Amount": 0,
+          "Unnamed: 40": null,
+          "Unnamed: 41": 0
+        }
+      ]
+    },
+    "BL-1B-Likasi ": {
+      "total_rows": 51,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "BC RAEDA",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "H-DAN ",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "3992",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "4990",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "5003.991",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 50
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 48
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 43
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 43
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 50
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 50
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 50
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 50
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 50
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 50
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 51
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "\u5e8f\u53f7",
+          "Unnamed: 1": "\u63d0\u5355\u53f7",
+          "Unnamed: 2": "\u5361\u8f66\u724c\u53f7",
+          "Unnamed: 3": "\u62d6\u8f66\u724c\u53f7",
+          "2026-01-23 00:00:00": "\u53f8\u673a\u59d3\u540d",
+          "BC RAEDA": "\u76ee\u7684\u5730",
+          "H-DAN ": "\u5f53\u524d\u4f4d\u7f6e",
+          "3992": "\u5428\u888b/bags",
+          "4990": "\u51c0\u91cd/N.W.",
+          "5003.991": "\u6bdb\u91cd/G.W.",
+          "Unnamed: 10": null,
+          "Unnamed: 11": "\u6587\u4ef6\u63a5\u6536",
+          "GT OCEAN TRANSPORTATION LIMITED": "\u8239\u53f8",
+          "Unnamed: 13": "\u8239\u540d",
+          "Unnamed: 14": "\u9884\u8ba1\u62b5\u6e2f",
+          "Unnamed: 15": "\u5b9e\u9645\u9760\u6cca",
+          "Unnamed: 16": "\u8239\u53f8\u653e\u884c",
+          "Unnamed: 17": "\u88c5\u8fd0\u65f6\u95f4",
+          "Unnamed: 18": "\u8d77\u8fd0\u65f6\u95f4",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "\u5230\u8fbeTUNDUMA",
+          "Unnamed: 20": "NAKONDE\u51fa\u53d1",
+          "Unnamed: 21": "\u5230\u8fbe\u5361\u677eZAMBIA",
+          "Unnamed: 22": "\u5361\u677eZAMBIA\u51fa\u53d1",
+          "Unnamed: 23": "\u5230\u8fbe\u5361\u677eDRC",
+          "Unnamed: 24": "\u5361\u677e\u51fa\u53d1DRC",
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": "\u5230\u8fbe\u76ee\u7684\u5730",
+          "Unnamed: 28": "\u5378\u8d27\u65f6\u95f4",
+          "Unnamed: 29": "\u5907\u6ce8",
+          "Unnamed: 30": "Border Delays",
+          "Unnamed: 31": null,
+          "Unnamed: 32": null,
+          "Unnamed: 33": null,
+          "Unnamed: 34": 200,
+          "Unnamed: 35": "Offloading Delays",
+          "Unnamed: 36": null,
+          "Unnamed: 37": null,
+          "Unnamed: 38": null,
+          "Total Amount": 800,
+          "Unnamed: 40": 0,
+          "Unnamed: 41": 1000
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "No.",
+          "Unnamed: 1": "B/L",
+          "Unnamed: 2": "TRUCK\nNUMBER",
+          "Unnamed: 3": "TRAILER \nNUMBER",
+          "2026-01-23 00:00:00": "DRIVER\nNAME",
+          "BC RAEDA": "FINAL\nDESTINATION",
+          "H-DAN ": "TRUCK POSITION",
+          "3992": 1365,
+          "4990": 1711.323,
+          "5003.991": 1734.737,
+          "Unnamed: 10": "HDAN",
+          "Unnamed: 11": "DOCUMENTS RECEIVED",
+          "GT OCEAN TRANSPORTATION LIMITED": "SHIPPING\nLINE",
+          "Unnamed: 13": "VESSEL",
+          "Unnamed: 14": "ETA",
+          "Unnamed: 15": "ATB",
+          "Unnamed: 16": "LINE RELEASE",
+          "Unnamed: 17": "DATE LOADED",
+          "Unnamed: 18": "DISPATCH DATE",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "ARRIVED TUNDUMA BORDER",
+          "Unnamed: 20": "DEPARTED\nNAKONDE",
+          "Unnamed: 21": "K-LESA ZAMBIA ARRIVED  ",
+          "Unnamed: 22": "K-LESA ZAMBIA DEPARTED",
+          "Unnamed: 23": "K-LESA DRC ARRIVED  ",
+          "Unnamed: 24": "K-LESA DRC DEPARTED",
+          "Unnamed: 25": "L-MBASHI ARRIVED",
+          "Unnamed: 26": "DEPARTED L-MBASHI",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "ARRIVED DESTINATION",
+          "Unnamed: 28": "OFFLOADED",
+          "Unnamed: 29": "COMMENTS",
+          "Unnamed: 30": "Border  Days",
+          "Unnamed: 31": "Free days",
+          "Unnamed: 32": "Chargable Days",
+          "Unnamed: 33": "Chargable Rate",
+          "Unnamed: 34": "Border Delays Amt",
+          "Unnamed: 35": "Offloading Days",
+          "Unnamed: 36": "Free days",
+          "Unnamed: 37": "Chargable Days",
+          "Unnamed: 38": "Chargable Rate",
+          "Total Amount": "Offloading Delays Amt",
+          "Unnamed: 40": "Parking Charges Amount",
+          "Unnamed: 41": "TOTAL"
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": 1,
+          "Unnamed: 1": "1B",
+          "Unnamed: 2": "T585DMJ",
+          "Unnamed: 3": "T709BMY-T965DWJ",
+          "2026-01-23 00:00:00": "ALLY HUSSEIN NG'OMBO",
+          "BC RAEDA": "LIKASI /SICODEX",
+          "H-DAN ": "CHIMOTO   ZM ",
+          "3992": 28,
+          "4990": 35000,
+          "5003.991": 35098,
+          "Unnamed: 10": "AN-HDAN",
+          "Unnamed: 11": "2025-08-21T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED": "ESL",
+          "Unnamed: 13": "BC Raeda",
+          "Unnamed: 14": "2025-08-12T00:00:00",
+          "Unnamed: 15": "2025-09-07T00:00:00",
+          "Unnamed: 16": "2025-08-23T00:00:00",
+          "Unnamed: 17": "2025-12-31T00:00:00",
+          "Unnamed: 18": "2026-12-31T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "2026-01-14T00:00:00",
+          "Unnamed: 20": "2026-01-18T00:00:00",
+          "Unnamed: 21": null,
+          "Unnamed: 22": null,
+          "Unnamed: 23": null,
+          "Unnamed: 24": null,
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": null,
+          "Unnamed: 28": null,
+          "Unnamed: 29": "In Transit ",
+          "Unnamed: 30": 0,
+          "Unnamed: 31": 7,
+          "Unnamed: 32": 0,
+          "Unnamed: 33": 200,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": 0,
+          "Unnamed: 36": 2,
+          "Unnamed: 37": 0,
+          "Unnamed: 38": 200,
+          "Total Amount": 0,
+          "Unnamed: 40": null,
+          "Unnamed: 41": 0
+        }
+      ]
+    },
+    "BL-1B-KOLWEZI": {
+      "total_rows": 42,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "BC RAEDA",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "H-DAN ",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "3992",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "4990",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "5003.991",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 6
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 42
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "\u5e8f\u53f7",
+          "Unnamed: 1": "\u63d0\u5355\u53f7",
+          "Unnamed: 2": "\u5361\u8f66\u724c\u53f7",
+          "Unnamed: 3": "\u62d6\u8f66\u724c\u53f7",
+          "2026-01-23 00:00:00": "\u53f8\u673a\u59d3\u540d",
+          "BC RAEDA": "\u76ee\u7684\u5730",
+          "H-DAN ": "\u5f53\u524d\u4f4d\u7f6e",
+          "3992": "\u5428\u888b/bags",
+          "4990": "\u51c0\u91cd/N.W.",
+          "5003.991": "\u6bdb\u91cd/G.W.",
+          "Unnamed: 10": null,
+          "Unnamed: 11": "\u6587\u4ef6\u63a5\u6536",
+          "GT OCEAN TRANSPORTATION LIMITED": "\u8239\u53f8",
+          "Unnamed: 13": "\u8239\u540d",
+          "Unnamed: 14": "\u9884\u8ba1\u62b5\u6e2f",
+          "Unnamed: 15": "\u5b9e\u9645\u9760\u6cca",
+          "Unnamed: 16": "\u8239\u53f8\u653e\u884c",
+          "Unnamed: 17": "\u88c5\u8fd0\u65f6\u95f4",
+          "Unnamed: 18": "\u8d77\u8fd0\u65f6\u95f4",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "\u5230\u8fbeTUNDUMA",
+          "Unnamed: 20": "NAKONDE\u51fa\u53d1",
+          "Unnamed: 21": "\u5230\u8fbe\u5361\u677eZAMBIA",
+          "Unnamed: 22": "\u5361\u677eZAMBIA\u51fa\u53d1",
+          "Unnamed: 23": "\u5230\u8fbe\u5361\u677eDRC",
+          "Unnamed: 24": "\u5361\u677e\u51fa\u53d1DRC",
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": "\u5230\u8fbe\u76ee\u7684\u5730",
+          "Unnamed: 28": "\u5378\u8d27\u65f6\u95f4",
+          "Unnamed: 29": "\u5907\u6ce8",
+          "Unnamed: 30": "Border Delays",
+          "Unnamed: 31": null,
+          "Unnamed: 32": null,
+          "Unnamed: 33": null,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": "Offloading Delays",
+          "Unnamed: 36": null,
+          "Unnamed: 37": null,
+          "Unnamed: 38": null,
+          "Total Amount": 0,
+          "Unnamed: 40": 0,
+          "Unnamed: 41": 0
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "No.",
+          "Unnamed: 1": "B/L",
+          "Unnamed: 2": "TRUCK\nNUMBER",
+          "Unnamed: 3": "TRAILER \nNUMBER",
+          "2026-01-23 00:00:00": "DRIVER\nNAME",
+          "BC RAEDA": "FINAL\nDESTINATION",
+          "H-DAN ": "TRUCK POSITION",
+          "3992": 1125,
+          "4990": 1407.5,
+          "5003.991": 1411.448,
+          "Unnamed: 10": "HDAN",
+          "Unnamed: 11": "DOCUMENTS RECEIVED",
+          "GT OCEAN TRANSPORTATION LIMITED": "SHIPPING\nLINE",
+          "Unnamed: 13": "VESSEL",
+          "Unnamed: 14": "ETA",
+          "Unnamed: 15": "ATB",
+          "Unnamed: 16": "LINE RELEASE",
+          "Unnamed: 17": "DATE LOADED",
+          "Unnamed: 18": "DISPATCH DATE",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "ARRIVED TUNDUMA BORDER",
+          "Unnamed: 20": "DEPARTED\nNAKONDE",
+          "Unnamed: 21": "K-LESA ZAMBIA ARRIVED  ",
+          "Unnamed: 22": "K-LESA ZAMBIA DEPARTED",
+          "Unnamed: 23": "K-LESA DRC ARRIVED  ",
+          "Unnamed: 24": "K-LESA DRC DEPARTED",
+          "Unnamed: 25": "L-MBASHI ARRIVED",
+          "Unnamed: 26": "DEPARTED L-MBASHI",
+          "GT OCEAN TRANSPORTATION LIMITED.2": "ARRIVED DESTINATION",
+          "Unnamed: 28": "OFFLOADED",
+          "Unnamed: 29": "COMMENTS",
+          "Unnamed: 30": "Border  Days",
+          "Unnamed: 31": "Free days",
+          "Unnamed: 32": "Chargable Days",
+          "Unnamed: 33": "Chargable Rate",
+          "Unnamed: 34": "Border Delays Amt",
+          "Unnamed: 35": "Offloading Days",
+          "Unnamed: 36": "Free days",
+          "Unnamed: 37": "Chargable Days",
+          "Unnamed: 38": "Chargable Rate",
+          "Total Amount": "Offloading Delays Amt",
+          "Unnamed: 40": "Parking Charges Amount",
+          "Unnamed: 41": "TOTAL"
+        },
+        {
+          "DAILY TRACKING REPORT - FORWARDING": 1,
+          "Unnamed: 1": "1B",
+          "Unnamed: 2": "T872CQL",
+          "Unnamed: 3": "T455CRA-T322DUD",
+          "2026-01-23 00:00:00": "ABUBAKAR JUMA KIZENGA",
+          "BC RAEDA": "SICODEX KOLWEZI ",
+          "H-DAN ": "TUNDUMA ",
+          "3992": 28,
+          "4990": 35000,
+          "5003.991": 35098,
+          "Unnamed: 10": "AN-HDAN",
+          "Unnamed: 11": "2025-08-21T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED": "ESL",
+          "Unnamed: 13": "BC Raeda",
+          "Unnamed: 14": "2025-08-12T00:00:00",
+          "Unnamed: 15": "2025-09-07T00:00:00",
+          "Unnamed: 16": "2025-08-23T00:00:00",
+          "Unnamed: 17": "2026-01-09T00:00:00",
+          "Unnamed: 18": "2026-01-10T00:00:00",
+          "GT OCEAN TRANSPORTATION LIMITED.1": "2026-01-14T00:00:00",
+          "Unnamed: 20": null,
+          "Unnamed: 21": null,
+          "Unnamed: 22": null,
+          "Unnamed: 23": null,
+          "Unnamed: 24": null,
+          "Unnamed: 25": null,
+          "Unnamed: 26": null,
+          "GT OCEAN TRANSPORTATION LIMITED.2": null,
+          "Unnamed: 28": null,
+          "Unnamed: 29": "In Transit ",
+          "Unnamed: 30": 0,
+          "Unnamed: 31": 7,
+          "Unnamed: 32": 0,
+          "Unnamed: 33": 200,
+          "Unnamed: 34": 0,
+          "Unnamed: 35": 0,
+          "Unnamed: 36": 2,
+          "Unnamed: 37": 0,
+          "Unnamed: 38": 200,
+          "Total Amount": 0,
+          "Unnamed: 40": null,
+          "Unnamed: 41": 0
+        }
+      ]
+    }
+  }
+}

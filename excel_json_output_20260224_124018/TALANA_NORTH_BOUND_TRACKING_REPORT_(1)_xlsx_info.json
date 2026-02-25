@@ -1,0 +1,452 @@
+{
+  "filename": "TALANA NORTH BOUND TRACKING REPORT (1).xlsx",
+  "file_size": 21302,
+  "last_modified": "2026-01-26T09:41:05.506286",
+  "total_sheets": 2,
+  "sheets": {
+    "TALANA": {
+      "total_rows": 18,
+      "total_columns": 36,
+      "columns": [
+        {
+          "name": "Overland - Tracking updates",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "TALANA TRACKING REPORT",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 14
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland - Tracking updates": "  Cargo Type: Deziwa_TALM0498_400mt MgO ",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "TALANA TRACKING REPORT": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": 400000,
+          "Unnamed: 9": 404000,
+          "Unnamed: 10": 705500,
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "Dar es salaam(Tanzania)",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "Tunduma / Nakonde (Zambia)",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Kasumbalesa/Sakania/Whisky",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Offloading Site- /DEZIWA MINE/KOLWEZI",
+          "Unnamed: 32": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": "",
+          "Unnamed: 35": ""
+        },
+        {
+          "Overland - Tracking updates": "Sn.",
+          "Unnamed: 1": "Truck",
+          "Unnamed: 2": "Trailer",
+          "Unnamed: 3": "Trailer II",
+          "TALANA TRACKING REPORT": "Bol",
+          "Unnamed: 5": "Current Location",
+          "Unnamed: 6": "Comments",
+          "Unnamed: 7": "BAGS LOADED",
+          "Unnamed: 8": "Net",
+          "Unnamed: 9": "Gross",
+          "Unnamed: 10": "Gvm ",
+          "Unnamed: 11": "Driver Name",
+          "Unnamed: 12": "Passport",
+          "Unnamed: 13": "D/Licence",
+          "Unnamed: 14": "Route",
+          "Unnamed: 15": "Allocation Date",
+          "Unnamed: 16": "Arrive At Loading point",
+          "Unnamed: 17": "Loading",
+          "Unnamed: 18": "Dispatch Dar",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Tunduma Arrival",
+          "Unnamed: 21": "Tunduma desp",
+          "Unnamed: 22": "Nakonde Arrival",
+          "Unnamed: 23": "Nakonde Dispatch",
+          "Unnamed: 24": "Days",
+          "Unnamed: 25": "Zambia Side Arrival",
+          "Unnamed: 26": "Drc Side Arrival",
+          "Unnamed: 27": "Drc Side Dispatch",
+          "Unnamed: 28": "Whiskey Arrival ",
+          "Unnamed: 29": "Whiskey desp ",
+          "Unnamed: 30": "Border days",
+          "Unnamed: 31": "Arrival",
+          "Unnamed: 32": "Offloaded",
+          "Unnamed: 33": "Days",
+          "Unnamed: 34": "Transit days",
+          "Unnamed: 35": "Driver Contact"
+        },
+        {
+          "Overland - Tracking updates": 1,
+          "Unnamed: 1": "T781CRG",
+          "Unnamed: 2": "T695BMY",
+          "Unnamed: 3": "T580DTR",
+          "TALANA TRACKING REPORT": "MEDUUL769855",
+          "Unnamed: 5": "MKAMBARANI",
+          "Unnamed: 6": "En route to Deziwa",
+          "Unnamed: 7": 35,
+          "Unnamed: 8": 35000,
+          "Unnamed: 9": 35350,
+          "Unnamed: 10": 56000,
+          "Unnamed: 11": "JUMA RAJABU SAID",
+          "Unnamed: 12": "TAE422055",
+          "Unnamed: 13": 4001664322,
+          "Unnamed: 14": "DEZIWA MINE/KOLWEZI",
+          "Unnamed: 15": "2025-12-24T00:00:00",
+          "Unnamed: 16": "2025-12-25T00:00:00",
+          "Unnamed: 17": "2025-12-27T00:00:00",
+          "Unnamed: 18": "2025-12-29T00:00:00",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": "",
+          "Unnamed: 35": "255784787434"
+        }
+      ]
+    },
+    "SUMMARY": {
+      "total_rows": 9,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 2
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": ""
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": ""
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": ""
+        }
+      ]
+    }
+  }
+}

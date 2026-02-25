@@ -1,0 +1,2810 @@
+{
+  "filename": "NST....DEZIWA - Dar Tracking report..xlsx",
+  "file_size": 232967,
+  "last_modified": "2026-01-26T09:33:34.623434",
+  "total_sheets": 11,
+  "sheets": {
+    "Feb DEZIWA- DAR": {
+      "total_rows": 37,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "970.7930000000001",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "967",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "970.7930000000001": "Loaded Mt",
+          "967": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "970.7930000000001": "",
+          "967": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "Overland Warehouse, Dar es Salaam",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU-2025-157",
+          "Unnamed: 5": "T635CKK",
+          "Unnamed: 6": "T747BAK",
+          "Unnamed: 7": "T526EFH",
+          "Unnamed: 8": "MESHACK OSCAR MLANGWI",
+          "Unnamed: 9": "255758 298196",
+          "Unnamed: 10": "AB1751503",
+          "970.7930000000001": 34.771,
+          "967": 35,
+          "Unnamed: 13": "OFFLOADED",
+          "Unnamed: 14": "COMPLETED",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "2025-02-10T00:00:00",
+          "Unnamed: 17": "2025-02-12T00:00:00",
+          "Unnamed: 18": "2025-02-28T00:00:00",
+          "Unnamed: 19": 18,
+          "Unnamed: 20": "2025-03-05T00:00:00",
+          "Unnamed: 21": "2025-03-13T00:00:00",
+          "Unnamed: 22": "2025-03-13T00:00:00",
+          "Unnamed: 23": "2025-03-25T00:00:00",
+          "Unnamed: 24": "2025-04-02T00:00:00",
+          "Unnamed: 25": "2025-04-11T00:00:00",
+          "Unnamed: 26": "2025-04-11T00:00:00",
+          "Unnamed: 27": "2025-04-17T00:00:00",
+          "Unnamed: 28": "2025-04-20T00:00:00",
+          "Unnamed: 29": "2025-04-22T00:00:00",
+          "Unnamed: 30": "",
+          "Unnamed: 31": ""
+        }
+      ]
+    },
+    "April": {
+      "total_rows": 56,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 55
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "1667486",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "1673",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "1667486": "Loaded Mt",
+          "1673": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "1667486": "",
+          "1673": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "RELOAD TANZANIA (TPA)",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU-2025-638",
+          "Unnamed: 5": "T658BVB",
+          "Unnamed: 6": "T977ASG",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "THOBIAS NICOLUS ANDREA",
+          "Unnamed: 9": "TBA",
+          "Unnamed: 10": "AB10011647",
+          "1667486": 29942,
+          "1673": 30,
+          "Unnamed: 13": "Offloaded",
+          "Unnamed: 14": "Completed",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "2025-05-08T00:00:00",
+          "Unnamed: 17": "2025-05-13T00:00:00",
+          "Unnamed: 18": "2025-05-24T00:00:00",
+          "Unnamed: 19": 16,
+          "Unnamed: 20": "2025-05-28T00:00:00",
+          "Unnamed: 21": "2025-05-29T00:00:00",
+          "Unnamed: 22": "2025-05-29T00:00:00",
+          "Unnamed: 23": "2025-06-01T00:00:00",
+          "Unnamed: 24": "2025-06-04T00:00:00",
+          "Unnamed: 25": "2025-06-05T00:00:00",
+          "Unnamed: 26": "2025-06-05T00:00:00",
+          "Unnamed: 27": "2025-06-07T00:00:00",
+          "Unnamed: 28": "2025-06-09T00:00:00",
+          "Unnamed: 29": "2025-06-12T00:00:00",
+          "Unnamed: 30": "",
+          "Unnamed: 31": ""
+        }
+      ]
+    },
+    "May": {
+      "total_rows": 46,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 44
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "1342522",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "1348",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 41
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "1342522": "Loaded Mt",
+          "1348": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "1342522": "",
+          "1348": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "RELOAD TANZANIA (TPA)",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU-2025-781",
+          "Unnamed: 5": "T226DNF",
+          "Unnamed: 6": "T634AVR",
+          "Unnamed: 7": "T384DSM",
+          "Unnamed: 8": "BILALI ATHUMANI MTINDA",
+          "Unnamed: 9": "255655 424748",
+          "Unnamed: 10": "AB100147477",
+          "1342522": 35512,
+          "1348": 35,
+          "Unnamed: 13": "Offloaded",
+          "Unnamed: 14": "Completed",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "2025-05-30T00:00:00",
+          "Unnamed: 17": "2025-06-09T00:00:00",
+          "Unnamed: 18": "2025-06-19T00:00:00",
+          "Unnamed: 19": 20,
+          "Unnamed: 20": "2025-06-21T00:00:00",
+          "Unnamed: 21": "2025-06-26T00:00:00",
+          "Unnamed: 22": "2025-06-27T00:00:00",
+          "Unnamed: 23": "2025-06-28T00:00:00",
+          "Unnamed: 24": "2025-07-01T00:00:00",
+          "Unnamed: 25": "2025-07-04T00:00:00",
+          "Unnamed: 26": "2025-07-04T00:00:00",
+          "Unnamed: 27": "2025-07-10T00:00:00",
+          "Unnamed: 28": "2025-07-18T00:00:00",
+          "Unnamed: 29": "2025-07-22T00:00:00",
+          "Unnamed: 30": 12,
+          "Unnamed: 31": 32
+        }
+      ]
+    },
+    "May Additional 1000'MT": {
+      "total_rows": 38,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "901396",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "903",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 28
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 28
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 28
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 28
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 28
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 28
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 28
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "901396": "Loaded Mt",
+          "903": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "901396": "",
+          "903": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "RELOAD TANZANIA (TPA)",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU-2025-738",
+          "Unnamed: 5": "T326EJU",
+          "Unnamed: 6": "T645EKY",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "KASSIM MKIKIMA ",
+          "Unnamed: 9": "TBA",
+          "Unnamed: 10": "AB1741297",
+          "901396": 36809,
+          "903": 37,
+          "Unnamed: 13": "Offloaded",
+          "Unnamed: 14": "Completed",
+          "Unnamed: 15": "2025-05-29T00:00:00",
+          "Unnamed: 16": "2025-05-29T00:00:00",
+          "Unnamed: 17": "2025-05-30T00:00:00",
+          "Unnamed: 18": "2025-06-08T00:00:00",
+          "Unnamed: 19": 10,
+          "Unnamed: 20": "2025-06-11T00:00:00",
+          "Unnamed: 21": "2025-06-13T00:00:00",
+          "Unnamed: 22": "2025-06-13T00:00:00",
+          "Unnamed: 23": "2025-06-16T00:00:00",
+          "Unnamed: 24": "2025-06-25T00:00:00",
+          "Unnamed: 25": "2025-07-02T00:00:00",
+          "Unnamed: 26": "2025-07-03T00:00:00",
+          "Unnamed: 27": "2025-07-04T00:00:00",
+          "Unnamed: 28": "2025-07-09T00:00:00",
+          "Unnamed: 29": "2025-07-14T00:00:00",
+          "Unnamed: 30": 10,
+          "Unnamed: 31": ""
+        }
+      ]
+    },
+    "June": {
+      "total_rows": 22,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "560.182",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "562",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "560.182": "Loaded Mt",
+          "562": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "560.182": "",
+          "562": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "C. Steinweg Bridge Tanzania Ltd",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU-2025-COSMOS-018",
+          "Unnamed: 5": "T699DRY",
+          "Unnamed: 6": "T207DSK",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "DAUDI OMARI MDOE ",
+          "Unnamed: 9": "255653 105272/255743611581",
+          "Unnamed: 10": "AB10016817",
+          "560.182": 36.937,
+          "562": 37,
+          "Unnamed: 13": "OFFLOADED",
+          "Unnamed: 14": "Completed",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "2025-06-26T00:00:00",
+          "Unnamed: 17": "2025-07-04T00:00:00",
+          "Unnamed: 18": "2025-07-11T00:00:00",
+          "Unnamed: 19": 15,
+          "Unnamed: 20": "2025-07-12T00:00:00",
+          "Unnamed: 21": "2025-07-17T00:00:00",
+          "Unnamed: 22": "2025-07-17T00:00:00",
+          "Unnamed: 23": "2025-07-19T00:00:00",
+          "Unnamed: 24": "2025-07-21T00:00:00",
+          "Unnamed: 25": "2025-07-24T00:00:00",
+          "Unnamed: 26": "2025-07-24T00:00:00",
+          "Unnamed: 27": "2025-08-03T00:00:00",
+          "Unnamed: 28": "2025-08-10T00:00:00",
+          "Unnamed: 29": "2025-08-25T00:00:00",
+          "Unnamed: 30": 22,
+          "Unnamed: 31": ""
+        }
+      ]
+    },
+    "July Deziwa -Ndola": {
+      "total_rows": 26,
+      "total_columns": 28,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "718.2080000000001",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "720",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "718.2080000000001": "Loaded Mt",
+          "720": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Final destination",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "718.2080000000001": "",
+          "720": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Final destination",
+          "Unnamed: 25": "Offloaded",
+          "Unnamed: 26": "Days",
+          "Unnamed: 27": ""
+        },
+        {
+          "Overland -- Tracking Status report": 19,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "Ndola Bridge ",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU25-CSM-131",
+          "Unnamed: 5": "BCB8101ZM",
+          "Unnamed: 6": "BCF3181ZM",
+          "Unnamed: 7": "BCF3180ZM",
+          "Unnamed: 8": "ROBERT BANDA",
+          "Unnamed: 9": 971103063,
+          "Unnamed: 10": "ZN789926",
+          "718.2080000000001": 35.402,
+          "720": 36,
+          "Unnamed: 13": "NDOLA",
+          "Unnamed: 14": "Offloaded",
+          "Unnamed: 15": "2025-07-26T00:00:00",
+          "Unnamed: 16": "2025-07-26T00:00:00",
+          "Unnamed: 17": "2025-08-15T00:00:00",
+          "Unnamed: 18": "2025-08-25T00:00:00",
+          "Unnamed: 19": 0,
+          "Unnamed: 20": "2025-08-27T00:00:00",
+          "Unnamed: 21": "2025-08-28T00:00:00",
+          "Unnamed: 22": "2025-08-28T00:00:00",
+          "Unnamed: 23": "2025-08-30T00:00:00",
+          "Unnamed: 24": "2025-08-31T00:00:00",
+          "Unnamed: 25": "2025-09-02T00:00:00",
+          "Unnamed: 26": 3,
+          "Unnamed: 27": ""
+        }
+      ]
+    },
+    "July": {
+      "total_rows": 41,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "1090.031",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "1095",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "1090.031": "Loaded Mt",
+          "1095": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "1090.031": "",
+          "1095": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "C. Steinweg Bridge Tanzania Ltd",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU25-CSM-092",
+          "Unnamed: 5": "T156DDY",
+          "Unnamed: 6": "T848CBB",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "BAKARI SEIF NGOO",
+          "Unnamed: 9": "255787 491400",
+          "Unnamed: 10": "AB10043251",
+          "1090.031": 30.368,
+          "1095": 30,
+          "Unnamed: 13": "OFFLOADED",
+          "Unnamed: 14": "Completed",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "2025-07-20T00:00:00",
+          "Unnamed: 17": "2025-07-23T00:00:00",
+          "Unnamed: 18": "2025-07-29T00:00:00",
+          "Unnamed: 19": 9,
+          "Unnamed: 20": "2025-07-31T00:00:00",
+          "Unnamed: 21": "2025-08-05T00:00:00",
+          "Unnamed: 22": "2025-08-05T00:00:00",
+          "Unnamed: 23": "2025-08-09T00:00:00",
+          "Unnamed: 24": "2025-08-15T00:00:00",
+          "Unnamed: 25": "2025-08-19T00:00:00",
+          "Unnamed: 26": "2025-08-19T00:00:00",
+          "Unnamed: 27": "2025-09-01T00:00:00",
+          "Unnamed: 28": "2025-09-05T00:00:00",
+          "Unnamed: 29": "2025-09-08T00:00:00",
+          "Unnamed: 30": 7,
+          "Unnamed: 31": ""
+        }
+      ]
+    },
+    "August ": {
+      "total_rows": 46,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 43
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "1303.8850000000002",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "1306",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 37
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "1303.8850000000002": "Loaded Mt",
+          "1306": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "1303.8850000000002": "",
+          "1306": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "Dar Reload",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU25-CSM-201",
+          "Unnamed: 5": "T694CXU/T942DEY",
+          "Unnamed: 6": "T623ARM",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "SAID ISMAIL MUHELO",
+          "Unnamed: 9": "255788206979",
+          "Unnamed: 10": "AB10030273",
+          "1303.8850000000002": 37.082,
+          "1306": 37,
+          "Unnamed: 13": "OFFLOADED",
+          "Unnamed: 14": "Completed",
+          "Unnamed: 15": "2025-08-20T00:00:00",
+          "Unnamed: 16": "2025-08-20T00:00:00",
+          "Unnamed: 17": "2025-08-20T00:00:00",
+          "Unnamed: 18": "2025-08-28T00:00:00",
+          "Unnamed: 19": 8,
+          "Unnamed: 20": "2025-09-06T00:00:00",
+          "Unnamed: 21": "2025-09-06T00:00:00",
+          "Unnamed: 22": "2025-09-06T00:00:00",
+          "Unnamed: 23": "2025-09-23T00:00:00",
+          "Unnamed: 24": "2025-10-02T00:00:00",
+          "Unnamed: 25": "2025-10-04T00:00:00",
+          "Unnamed: 26": "2025-10-04T00:00:00",
+          "Unnamed: 27": "2025-10-08T00:00:00",
+          "Unnamed: 28": "2025-11-04T00:00:00",
+          "Unnamed: 29": "2025-11-10T00:00:00",
+          "Unnamed: 30": 33,
+          "Unnamed: 31": ""
+        }
+      ]
+    },
+    "September": {
+      "total_rows": 28,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 26
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "701.4629999999999",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "702",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 23
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver 's Details",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "Passport",
+          "701.4629999999999": "Loaded Mt",
+          "702": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "First",
+          "Unnamed: 9": "Telephone no",
+          "Unnamed: 10": "",
+          "701.4629999999999": "",
+          "702": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "Dar Reload",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU-2025-1142",
+          "Unnamed: 5": "T580DMJ",
+          "Unnamed: 6": "T735BAK",
+          "Unnamed: 7": "T935DWJ",
+          "Unnamed: 8": "IDDY SHABAN RAMADHAN ",
+          "Unnamed: 9": "255755240624",
+          "Unnamed: 10": "AB10097680",
+          "701.4629999999999": 34.325,
+          "702": 35,
+          "Unnamed: 13": "OFFLOADED",
+          "Unnamed: 14": "Completed",
+          "Unnamed: 15": "2025-09-24T00:00:00",
+          "Unnamed: 16": "2025-09-24T00:00:00",
+          "Unnamed: 17": "2025-09-29T00:00:00",
+          "Unnamed: 18": "2025-10-08T00:00:00",
+          "Unnamed: 19": 14,
+          "Unnamed: 20": "2025-10-11T00:00:00",
+          "Unnamed: 21": "2025-10-16T00:00:00",
+          "Unnamed: 22": "2025-10-16T00:00:00",
+          "Unnamed: 23": "2025-10-17T00:00:00",
+          "Unnamed: 24": "2025-11-01T00:00:00",
+          "Unnamed: 25": "2025-11-02T00:00:00",
+          "Unnamed: 26": "2025-11-02T00:00:00",
+          "Unnamed: 27": "2025-11-08T00:00:00",
+          "Unnamed: 28": "2025-11-13T00:00:00",
+          "Unnamed: 29": "2025-11-17T00:00:00",
+          "Unnamed: 30": 9,
+          "Unnamed: 31": ""
+        }
+      ]
+    },
+    "October": {
+      "total_rows": 55,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "Overland -- Tracking Status report",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "1250617.663",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "1281",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 17
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland -- Tracking Status report": "SN#",
+          "Unnamed: 1": "Uplift",
+          "Unnamed: 2": "Offloading Point",
+          "Unnamed: 3": "Transporter",
+          "Unnamed: 4": "Lot No",
+          "Unnamed: 5": "Truck",
+          "Unnamed: 6": "Trailer I",
+          "Unnamed: 7": "Trailer II",
+          "Unnamed: 8": "Driver's Name",
+          "Unnamed: 9": "Tel. number",
+          "Unnamed: 10": "Passport",
+          "1250617.663": "Loaded Mt",
+          "1281": "Truck's Capacities ",
+          "Unnamed: 13": "Current Location",
+          "Unnamed: 14": "REMARK",
+          "Unnamed: 15": "L/SITE",
+          "Unnamed: 16": "Origins",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "WHISKY",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "KASUMBALESA/SAKANIA",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Nakonde border",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "Tunduma border",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "Total delays"
+        },
+        {
+          "Overland -- Tracking Status report": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "1250617.663": "",
+          "1281": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "ETA",
+          "Unnamed: 16": "Arrival",
+          "Unnamed: 17": "Loaded",
+          "Unnamed: 18": "Departure",
+          "Unnamed: 19": "Days",
+          "Unnamed: 20": "Arrival",
+          "Unnamed: 21": "Dispatch",
+          "Unnamed: 22": "Arrival",
+          "Unnamed: 23": "Dispatch",
+          "Unnamed: 24": "Arrival",
+          "Unnamed: 25": "Dispatch",
+          "Unnamed: 26": "Arrival",
+          "Unnamed: 27": "Dispatch",
+          "Unnamed: 28": "Final destination",
+          "Unnamed: 29": "Offloaded",
+          "Unnamed: 30": "Days",
+          "Unnamed: 31": ""
+        },
+        {
+          "Overland -- Tracking Status report": 1,
+          "Unnamed: 1": "DEZIWA",
+          "Unnamed: 2": "RELOAD DAR",
+          "Unnamed: 3": "OVERLAND",
+          "Unnamed: 4": "SMD-CU25-CSM-575",
+          "Unnamed: 5": "T595BXN/T642BZY",
+          "Unnamed: 6": "T127ATF",
+          "Unnamed: 7": "T228EMP",
+          "Unnamed: 8": "SHABANI MOHAMEDI MAKANDAWILE",
+          "Unnamed: 9": "255749 330253",
+          "Unnamed: 10": "TAE726947",
+          "1250617.663": 35509,
+          "1281": 35,
+          "Unnamed: 13": "OFFLODED",
+          "Unnamed: 14": "Completed",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "2025-10-30T00:00:00",
+          "Unnamed: 17": "2025-10-30T00:00:00",
+          "Unnamed: 18": "2025-11-07T00:00:00",
+          "Unnamed: 19": 8,
+          "Unnamed: 20": "2025-11-30T00:00:00",
+          "Unnamed: 21": "2025-12-03T00:00:00",
+          "Unnamed: 22": "2025-12-03T00:00:00",
+          "Unnamed: 23": "2025-12-07T00:00:00",
+          "Unnamed: 24": "2025-12-10T00:00:00",
+          "Unnamed: 25": "2025-12-15T00:00:00",
+          "Unnamed: 26": "2025-12-15T00:00:00",
+          "Unnamed: 27": "2025-12-19T00:00:00",
+          "Unnamed: 28": "2025-12-21T00:00:00",
+          "Unnamed: 29": "2025-12-24T00:00:00",
+          "Unnamed: 30": "",
+          "Unnamed: 31": ""
+        }
+      ]
+    },
+    "Summary": {
+      "total_rows": 5,
+      "total_columns": 15,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 5
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "NO",
+          "Unnamed: 2": "MINE",
+          "Unnamed: 3": "Total Allocations",
+          "Unnamed: 4": "Waiting to load",
+          "Unnamed: 5": "Loaded waiting for release",
+          "Unnamed: 6": "In -Transit (DRC)",
+          "Unnamed: 7": "whisky border",
+          "Unnamed: 8": "At K-lesa/Sakania border",
+          "Unnamed: 9": "In -Transit (ZMB)",
+          "Unnamed: 10": "At Nakonde/Tunduma Border",
+          "Unnamed: 11": "In -Transit (TZ)",
+          "Unnamed: 12": "Waiting to Offload ",
+          "Unnamed: 13": "Offloaded",
+          "Unnamed: 14": "Total Active"
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": 1,
+          "Unnamed: 2": "August",
+          "Unnamed: 3": 37,
+          "Unnamed: 4": 0,
+          "Unnamed: 5": 0,
+          "Unnamed: 6": 0,
+          "Unnamed: 7": 0,
+          "Unnamed: 8": 0,
+          "Unnamed: 9": 0,
+          "Unnamed: 10": 0,
+          "Unnamed: 11": 0,
+          "Unnamed: 12": 0,
+          "Unnamed: 13": 37,
+          "Unnamed: 14": 0
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": 1,
+          "Unnamed: 2": "September",
+          "Unnamed: 3": 20,
+          "Unnamed: 4": 0,
+          "Unnamed: 5": 0,
+          "Unnamed: 6": 0,
+          "Unnamed: 7": 0,
+          "Unnamed: 8": 0,
+          "Unnamed: 9": 0,
+          "Unnamed: 10": 0,
+          "Unnamed: 11": 0,
+          "Unnamed: 12": 0,
+          "Unnamed: 13": 20,
+          "Unnamed: 14": 0
+        }
+      ]
+    }
+  }
+}

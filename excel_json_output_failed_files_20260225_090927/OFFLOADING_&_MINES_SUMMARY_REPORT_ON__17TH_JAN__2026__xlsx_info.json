@@ -1,0 +1,242 @@
+{
+  "filename": "OFFLOADING & MINES SUMMARY REPORT ON  17TH JAN  2026..xlsx",
+  "file_size": 26217,
+  "last_modified": "2026-01-26T09:29:21.939065",
+  "total_sheets": 3,
+  "sheets": {
+    "Offloading DAR": {
+      "total_rows": 14,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Sn",
+          "dtype": "float64",
+          "non_null_count": 7
+        },
+        {
+          "name": "Truck",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Client",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Arrived at  offloading Site",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Days",
+          "dtype": "float64",
+          "non_null_count": 7
+        },
+        {
+          "name": "Warehouse ",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Driver name",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Phone number",
+          "dtype": "object",
+          "non_null_count": 7
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": null,
+          "Sn": null,
+          "Truck": null,
+          "Client": null,
+          "Arrived at  offloading Site": null,
+          "Unnamed: 5": null,
+          "Days": null,
+          "Warehouse ": null,
+          "Driver name": null,
+          "Phone number": null
+        },
+        {
+          "Unnamed: 0": null,
+          "Sn": 1.0,
+          "Truck": "T500DMH",
+          "Client": "Mercuria",
+          "Arrived at  offloading Site": "2026-01-15T00:00:00",
+          "Unnamed: 5": "2026-01-17T00:00:00",
+          "Days": 2.0,
+          "Warehouse ": "BRIDGE,TAZARA",
+          "Driver name": "HEZRON GEORGE NSONGAMA",
+          "Phone number": "255742368180/255717487998"
+        },
+        {
+          "Unnamed: 0": null,
+          "Sn": null,
+          "Truck": null,
+          "Client": null,
+          "Arrived at  offloading Site": null,
+          "Unnamed: 5": null,
+          "Days": null,
+          "Warehouse ": null,
+          "Driver name": null,
+          "Phone number": null
+        }
+      ]
+    },
+    "Export Mines": {
+      "total_rows": 120,
+      "total_columns": 8,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Mines Daily Tracking Update Report 16th Dec 2025",
+          "dtype": "object",
+          "non_null_count": 110
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 110
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 110
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 110
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 110
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 110
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 110
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": null,
+          "Mines Daily Tracking Update Report 16th Dec 2025": null,
+          "Unnamed: 2": null,
+          "Unnamed: 3": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null,
+          "Unnamed: 6": null,
+          "Unnamed: 7": null
+        },
+        {
+          "Unnamed: 0": null,
+          "Mines Daily Tracking Update Report 16th Dec 2025": null,
+          "Unnamed: 2": null,
+          "Unnamed: 3": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null,
+          "Unnamed: 6": null,
+          "Unnamed: 7": null
+        },
+        {
+          "Unnamed: 0": null,
+          "Mines Daily Tracking Update Report 16th Dec 2025": "NO",
+          "Unnamed: 2": "Truck No.",
+          "Unnamed: 3": "Driver Name",
+          "Unnamed: 4": "Mine Name",
+          "Unnamed: 5": "Status",
+          "Unnamed: 6": "Days",
+          "Unnamed: 7": "Client"
+        }
+      ]
+    },
+    "Summary Final": {
+      "total_rows": 10,
+      "total_columns": 6,
+      "columns": [
+        {
+          "name": "Overland Group ",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "2026-01-17 00:00:00",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group ": "Mines  Summary Report",
+          "Unnamed: 1": null,
+          "Unnamed: 2": null,
+          "2026-01-17 00:00:00": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null
+        },
+        {
+          "Overland Group ": "Sn",
+          "Unnamed: 1": "Mine Name ",
+          "Unnamed: 2": "Number of Trucks",
+          "2026-01-17 00:00:00": "Waiting Release",
+          "Unnamed: 4": "Waiting to Load ",
+          "Unnamed: 5": "REMARKS"
+        },
+        {
+          "Overland Group ": 1,
+          "Unnamed: 1": "TFM",
+          "Unnamed: 2": 9,
+          "2026-01-17 00:00:00": 9,
+          "Unnamed: 4": 0,
+          "Unnamed: 5": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "filename": "POD ---2026.xlsx",
+  "file_size": 34440,
+  "last_modified": "2026-01-26T09:32:10.648889",
+  "total_sheets": 3,
+  "sheets": {
+    "November": {
+      "total_rows": 3,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "SN",
+          "dtype": "float64",
+          "non_null_count": 2
+        },
+        {
+          "name": "S/ORDER ",
+          "dtype": "float64",
+          "non_null_count": 2
+        },
+        {
+          "name": "TRUCK",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "DRIVER NAME",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Loading  Date",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 2
+        },
+        {
+          "name": "Offloading Date",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Days since offloaded",
+          "dtype": "float64",
+          "non_null_count": 2
+        },
+        {
+          "name": "Current location",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Transporter",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Loading point",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Client",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Destination",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Telephone",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "B/Lading ",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Pod Status",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Remark",
+          "dtype": "float64",
+          "non_null_count": 0
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "SN": 1.0,
+          "S/ORDER ": 28837.0,
+          "TRUCK": "T613CKK/T161DDY",
+          "DRIVER NAME": "ALEX CHALRES PASCHAL",
+          "Loading  Date": "2025-11-08T00:00:00",
+          "Offloading Date": "",
+          "Days since offloaded": 46044.0,
+          "Current location": "",
+          "Transporter": "OVERLAND",
+          "Loading point": "TANGA",
+          "Client": "GLENCORE",
+          "Destination": "TANGA TO MUTANDA",
+          "Telephone": "255658 360815/255625 360815",
+          "B/Lading ": "105970LYG065",
+          "Pod Status": "",
+          "Remark": ""
+        },
+        {
+          "SN": "",
+          "S/ORDER ": "",
+          "TRUCK": "",
+          "DRIVER NAME": "",
+          "Loading  Date": null,
+          "Offloading Date": "",
+          "Days since offloaded": "",
+          "Current location": "",
+          "Transporter": "",
+          "Loading point": "",
+          "Client": "",
+          "Destination": "",
+          "Telephone": "",
+          "B/Lading ": "",
+          "Pod Status": "",
+          "Remark": ""
+        },
+        {
+          "SN": 1.0,
+          "S/ORDER ": 29200.0,
+          "TRUCK": "T320CFY",
+          "DRIVER NAME": "MORICE MWEMEZI KATUNZI",
+          "Loading  Date": "2025-11-30T00:00:00",
+          "Offloading Date": "",
+          "Days since offloaded": 46044.0,
+          "Current location": "",
+          "Transporter": "OVERLAND",
+          "Loading point": "TANGA PORT",
+          "Client": "BASHI",
+          "Destination": "SHITURU/LIKASI",
+          "Telephone": "255713723072",
+          "B/Lading ": "CBW2520LT131",
+          "Pod Status": "",
+          "Remark": ""
+        }
+      ]
+    },
+    "December": {
+      "total_rows": 114,
+      "total_columns": 17,
+      "columns": [
+        {
+          "name": "SN",
+          "dtype": "float64",
+          "non_null_count": 106
+        },
+        {
+          "name": "SN.1",
+          "dtype": "float64",
+          "non_null_count": 53
+        },
+        {
+          "name": "S/ORDER ",
+          "dtype": "float64",
+          "non_null_count": 106
+        },
+        {
+          "name": "TRUCK",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "DRIVER NAME",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "Loading  Date",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 106
+        },
+        {
+          "name": "Offloading Date",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "Days since offloaded",
+          "dtype": "float64",
+          "non_null_count": 76
+        },
+        {
+          "name": "Current location",
+          "dtype": "object",
+          "non_null_count": 81
+        },
+        {
+          "name": "Transporter",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "Loading point",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "Client",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "Destination",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "Telephone",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "B/Lading ",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "Pod Status",
+          "dtype": "object",
+          "non_null_count": 106
+        },
+        {
+          "name": "Remark",
+          "dtype": "object",
+          "non_null_count": 106
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "SN": 1.0,
+          "SN.1": "",
+          "S/ORDER ": 29254.0,
+          "TRUCK": "T440BVZ",
+          "DRIVER NAME": "EZEKIA EDWARD KYEJO",
+          "Loading  Date": "2025-12-05T00:00:00",
+          "Offloading Date": "2025-12-27T00:00:00",
+          "Days since offloaded": 26.0,
+          "Current location": "",
+          "Transporter": "OVERLAND",
+          "Loading point": "DCG/KISARAWE",
+          "Client": "GLENCORE",
+          "Destination": "KCC MINE",
+          "Telephone": "255758 151860",
+          "B/Lading ": 1,
+          "Pod Status": "RECEIVED",
+          "Remark": "COMPLETED"
+        },
+        {
+          "SN": 2.0,
+          "SN.1": "",
+          "S/ORDER ": 29257.0,
+          "TRUCK": "T339DWZ",
+          "DRIVER NAME": "OMARY HASHIM MBUNDA",
+          "Loading  Date": "2025-12-05T00:00:00",
+          "Offloading Date": "2025-12-27T00:00:00",
+          "Days since offloaded": 26.0,
+          "Current location": "",
+          "Transporter": "OVERLAND",
+          "Loading point": "DCG/KISARAWE",
+          "Client": "GLENCORE",
+          "Destination": "KCC MINE",
+          "Telephone": "255745848380",
+          "B/Lading ": 1,
+          "Pod Status": "RECEIVED",
+          "Remark": "COMPLETED"
+        },
+        {
+          "SN": 3.0,
+          "SN.1": "",
+          "S/ORDER ": 29265.0,
+          "TRUCK": "T363DCA",
+          "DRIVER NAME": "EMMANUEL ANGWILILE MWANDENUKA",
+          "Loading  Date": "2025-12-05T00:00:00",
+          "Offloading Date": "2025-12-27T00:00:00",
+          "Days since offloaded": 26.0,
+          "Current location": "",
+          "Transporter": "OVERLAND",
+          "Loading point": "DCG/KISARAWE",
+          "Client": "GLENCORE",
+          "Destination": "KCC MINE",
+          "Telephone": "255768070557",
+          "B/Lading ": 1,
+          "Pod Status": "RECEIVED",
+          "Remark": "COMPLETED"
+        }
+      ]
+    },
+    "SITES WITHOUT W.B": {
+      "total_rows": 4,
+      "total_columns": 3,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "int64",
+          "non_null_count": 4
+        },
+        {
+          "name": "OFFLOADING",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "SITESWITHOUTWEIGHBRIDGE",
+          "dtype": "float64",
+          "non_null_count": 0
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": 1,
+          "OFFLOADING": "LUBUMBASHI",
+          "SITESWITHOUTWEIGHBRIDGE": ""
+        },
+        {
+          "Unnamed: 0": 2,
+          "OFFLOADING": "KPM-LIKASI",
+          "SITESWITHOUTWEIGHBRIDGE": ""
+        },
+        {
+          "Unnamed: 0": 3,
+          "OFFLOADING": "SICODEXKOLWEZI",
+          "SITESWITHOUTWEIGHBRIDGE": ""
+        }
+      ]
+    }
+  }
+}

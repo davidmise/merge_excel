@@ -1,0 +1,86 @@
+{
+  "filename": "Ndola Export & Import report.xlsx",
+  "file_size": 13728,
+  "last_modified": "2026-01-26T09:34:39.797927",
+  "total_sheets": 1,
+  "sheets": {
+    "20.01.2026": {
+      "total_rows": 12,
+      "total_columns": 8,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 5
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "IMPORT-NDOLA",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "2026-01-20T00:00:00"
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "Sl.No",
+          "Unnamed: 2": "Truck",
+          "Unnamed: 3": "Client",
+          "Unnamed: 4": "Location",
+          "Unnamed: 5": "Days ",
+          "Unnamed: 6": "Ndola Arrived Date",
+          "Unnamed: 7": "Remarks"
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": 1,
+          "Unnamed: 2": "T697DRY",
+          "Unnamed: 3": "GT OCEAN ",
+          "Unnamed: 4": "NDOLA",
+          "Unnamed: 5": 22,
+          "Unnamed: 6": "2025-12-29T00:00:00",
+          "Unnamed: 7": "Fuel top-up & Toll Fee"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "filename": "2026.01.09 HML TO DAR TRACKING  BRILLIANT REPORT.xlsx",
+  "file_size": 526241,
+  "last_modified": "2026-01-26T09:33:16.285744",
+  "total_sheets": 3,
+  "sheets": {
+    "BRILLIANT K-LESA BORDER DELAYS": {
+      "total_rows": 4,
+      "total_columns": 20,
+      "columns": [
+        {
+          "name": "Overland Group of Companies",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Total Amount in USD",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "6475",
+          "dtype": "object",
+          "non_null_count": 3
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group of Companies": "HML-- Overland Truck demurrage charges report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Total Amount in USD": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "6475": ""
+        },
+        {
+          "Overland Group of Companies": "Mine",
+          "Unnamed: 1": "Haulier Name",
+          "Unnamed: 2": "Truck Registration",
+          "Unnamed: 3": "Corridor",
+          "Unnamed: 4": "Commodity",
+          "Unnamed: 5": "Current Location",
+          "Unnamed: 6": "Remark",
+          "Unnamed: 7": "Date Reported For Loading ",
+          "Unnamed: 8": "Loading Date ",
+          "Unnamed: 9": "Dispatch Date",
+          "Unnamed: 10": "Empty-to-Dispatch",
+          "Unnamed: 11": "Free Days",
+          "Total Amount in USD": "Chargeable Demurrage Days",
+          "Unnamed: 13": "ARRIVAL  K-LESA ",
+          "Unnamed: 14": "DISPARTCH   K-LESA",
+          "Unnamed: 15": "Total days",
+          "Unnamed: 16": "Total chargable days",
+          "Unnamed: 17": "K-lesa Parking charges",
+          "Unnamed: 18": "Rate",
+          "6475": "Total"
+        },
+        {
+          "Overland Group of Companies": "HML",
+          "Unnamed: 1": "Overland",
+          "Unnamed: 2": "T857CJS",
+          "Unnamed: 3": "Reload TPA",
+          "Unnamed: 4": "Copper Cathodes",
+          "Unnamed: 5": "K-LESA ZMB",
+          "Unnamed: 6": "In Transit to DAR ",
+          "Unnamed: 7": "2025-10-07T00:00:00",
+          "Unnamed: 8": "2025-10-08T00:00:00",
+          "Unnamed: 9": "2025-10-10T00:00:00",
+          "Unnamed: 10": 3,
+          "Unnamed: 11": 13,
+          "Total Amount in USD": 0,
+          "Unnamed: 13": "2025-10-16T00:00:00",
+          "Unnamed: 14": "2025-11-09T00:00:00",
+          "Unnamed: 15": 24,
+          "Unnamed: 16": 21,
+          "Unnamed: 17": 1225,
+          "Unnamed: 18": 250,
+          "6475": 6475
+        }
+      ]
+    },
+    "第一批": {
+      "total_rows": 14,
+      "total_columns": 24,
+      "columns": [
+        {
+          "name": "BRILLIANT - HML  TO DAR ES SALAAM-TRACKING REPORT",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "2026-01-09 00:00:00",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 14
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "BRILLIANT - HML  TO DAR ES SALAAM-TRACKING REPORT": "SL NO",
+          "Unnamed: 1": "TRANSPORTER",
+          "Unnamed: 2": "TRUCK#",
+          "Unnamed: 3": "TRAILER#",
+          "Unnamed: 4": "DRIVER NAME"

@@ -1,0 +1,1840 @@
+{
+  "filename": "JOSE KSM.xlsx",
+  "file_size": 116353,
+  "last_modified": "2026-01-26T09:29:58.538058",
+  "total_sheets": 20,
+  "sheets": {
+    "11.8.2025": {
+      "total_rows": 55,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 43
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 40
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": 1,
+          "Unnamed: 1": "T354DCA",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "KCC",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "DOUANE",
+          "Unnamed: 7": 5,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA "
+        },
+        {
+          "TUNDUMA TO K-LESA": 2,
+          "Unnamed: 1": "T706EHZ",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "MKM",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "CONNEX",
+          "Unnamed: 7": 1,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA"
+        }
+      ]
+    },
+    "12.8.2025": {
+      "total_rows": 53,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 45
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 37
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 41
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": 1,
+          "Unnamed: 1": "T354DCA",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "KCC",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "DOUANE",
+          "Unnamed: 7": 5,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA "
+        },
+        {
+          "TUNDUMA TO K-LESA": 2,
+          "Unnamed: 1": "T706EHZ",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "MKM",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "CONNEX",
+          "Unnamed: 7": 1,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA"
+        }
+      ]
+    },
+    "13.8.2025": {
+      "total_rows": 53,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 45
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 41
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": 1,
+          "Unnamed: 1": "T354DCA",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "KCC",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "DOUANE",
+          "Unnamed: 7": 5,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA "
+        },
+        {
+          "TUNDUMA TO K-LESA": 2,
+          "Unnamed: 1": "T901ECV",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "MKM",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "CONNEX",
+          "Unnamed: 7": 1,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA"
+        }
+      ]
+    },
+    "14.8.2025": {
+      "total_rows": 53,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 45
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 41
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": 1,
+          "Unnamed: 1": "T354DCA",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "KCC",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "DOUANE",
+          "Unnamed: 7": 5,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA "
+        },
+        {
+          "TUNDUMA TO K-LESA": 2,
+          "Unnamed: 1": "T901ECV",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "MKM",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "CONNEX",
+          "Unnamed: 7": 1,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA"
+        }
+      ]
+    },
+    "15.8.2025": {
+      "total_rows": 84,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 69
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 62
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 62
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 62
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 62
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 62
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 62
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": 1,
+          "Unnamed: 1": "T141EES",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "MKM",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "CONNEX",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA"
+        },
+        {
+          "TUNDUMA TO K-LESA": 2,
+          "Unnamed: 1": "T364EFR",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "SLS",
+          "Unnamed: 4": "MKM",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "CONNEX",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "K-LESA"
+        }
+      ]
+    },
+    "18.8.2025 ": {
+      "total_rows": 83,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 72
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 67
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 67
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 67
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 67
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 67
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 67
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 48
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 67
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "20.8.2025 ": {
+      "total_rows": 80,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 69
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 64
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 64
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 64
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 64
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 64
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 64
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 58
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 64
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "23.8.2025": {
+      "total_rows": 57,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 48
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 44
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 44
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 44
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 44
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 44
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 44
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 28
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 44
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "25.8.2025": {
+      "total_rows": 49,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 36
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "03.9.2025 ": {
+      "total_rows": 58,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 46
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 33
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 41
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "08.9.2025": {
+      "total_rows": 59,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 46
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 41
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 36
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 40
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "17.9.2025": {
+      "total_rows": 40,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 29
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 25
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 25
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 25
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 25
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 25
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 25
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 25
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "23.9.2025": {
+      "total_rows": 54,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 27
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 38
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "26.9.2025": {
+      "total_rows": 49,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 38
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 34
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 25
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 33
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "27.9.2025": {
+      "total_rows": 46,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 35
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 30
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DAYS",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "6.10.2025": {
+      "total_rows": 32,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "TUNDUMA TO K-LESA",
+          "dtype": "object",
+          "non_null_count": 22
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 18
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 18
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "TUNDUMA TO K-LESA": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": null,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": null,
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "TUNDUMA TO K-LESA": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": null,
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "8.10.2025": {
+      "total_rows": 32,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 20
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 16
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 20
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "TUNDUMA",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": null,
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "Unnamed: 0": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": null,
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "Unnamed: 0": 1,
+          "Unnamed: 1": "T859DVK",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "GLENCORE ",
+          "Unnamed: 4": "MMT",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "TBA",
+          "Unnamed: 7": "2025-10-04T00:00:00",
+          "Unnamed: 8": 109,
+          "Unnamed: 9": "K-LESA"
+        }
+      ]
+    },
+    "23.11.2025": {
+      "total_rows": 39,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "object",
+          "non_null_count": 26
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 21
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "TUNDUMA",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "Unnamed: 0": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DATE",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        }
+      ]
+    },
+    "20.01.2026": {
+      "total_rows": 40,
+      "total_columns": 10,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 24
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 24
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "TUNDUMA",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": ""
+        },
+        {
+          "Unnamed: 0": "NO",
+          "Unnamed: 1": "TRUCK NO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "CLIENT",
+          "Unnamed: 4": "CONSIGNEE",
+          "Unnamed: 5": "RUNNER",
+          "Unnamed: 6": "AGENT",
+          "Unnamed: 7": "DATE",
+          "Unnamed: 8": "DAYS",
+          "Unnamed: 9": "BORDER"
+        },
+        {
+          "Unnamed: 0": 1,
+          "Unnamed: 1": "T586DPW",
+          "Unnamed: 2": "TUNDUMA",
+          "Unnamed: 3": "GLENCORE ",
+          "Unnamed: 4": "MUMI ",
+          "Unnamed: 5": "JOSE",
+          "Unnamed: 6": "DOUANE",
+          "Unnamed: 7": "2026-01-09T00:00:00",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "SAKANIA"
+        }
+      ]
+    },
+    "Sheet1": {
+      "total_rows": 14,
+      "total_columns": 4,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 13
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": ""
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "TRUCKS",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "STATUS"
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "T583ENQ",
+          "Unnamed: 2": "Tunduma",
+          "Unnamed: 3": "Waiting for amended pre alert"
+        }
+      ]
+    }
+  }
+}

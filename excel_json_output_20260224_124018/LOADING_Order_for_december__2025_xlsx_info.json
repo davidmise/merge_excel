@@ -1,0 +1,4218 @@
+{
+  "filename": "LOADING Order for december  2025.xlsx",
+  "file_size": 1692696,
+  "last_modified": "2026-01-26T09:40:57.756322",
+  "total_sheets": 17,
+  "sheets": {
+    "TANKRES--23": {
+      "total_rows": 560,
+      "total_columns": 15,
+      "columns": [
+        {
+          "name": "S.NO",
+          "dtype": "float64",
+          "non_null_count": 507
+        },
+        {
+          "name": "S.NO.1",
+          "dtype": "float64",
+          "non_null_count": 507
+        },
+        {
+          "name": "DATE LOADED",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 506
+        },
+        {
+          "name": "SH/ORDER",
+          "dtype": "float64",
+          "non_null_count": 507
+        },
+        {
+          "name": "Truck REG #",
+          "dtype": "object",
+          "non_null_count": 507
+        },
+        {
+          "name": "Trailer REG #",
+          "dtype": "object",
+          "non_null_count": 507
+        },
+        {
+          "name": "DRIVER NAME",
+          "dtype": "object",
+          "non_null_count": 507
+        },
+        {
+          "name": "CLIENT",
+          "dtype": "object",
+          "non_null_count": 507
+        },
+        {
+          "name": "ITERMS",
+          "dtype": "object",
+          "non_null_count": 460
+        },
+        {
+          "name": "MOBILE",
+          "dtype": "object",
+          "non_null_count": 507
+        },
+        {
+          "name": "PASSPORT",
+          "dtype": "object",
+          "non_null_count": 507
+        },
+        {
+          "name": "D/LICENCE",
+          "dtype": "float64",
+          "non_null_count": 507
+        },
+        {
+          "name": "LITRES",
+          "dtype": "object",
+          "non_null_count": 393
+        },
+        {
+          "name": "DESTINATION",
+          "dtype": "object",
+          "non_null_count": 507
+        },
+        {
+          "name": "TYPE",
+          "dtype": "object",
+          "non_null_count": 507
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "S.NO": 1.0,
+          "S.NO.1": 1.0,
+          "DATE LOADED": "2023-01-05T00:00:00",
+          "SH/ORDER": 11854.0,
+          "Truck REG #": "T256DWQ",
+          "Trailer REG #": "T122DXE",
+          "DRIVER NAME": "JONATHAN JOHN KULINDWA",
+          "CLIENT": "LAKE TRANS",
+          "ITERMS": "PMS",
+          "MOBILE": "255762 925382",
+          "PASSPORT": "TAE323298",
+          "D/LICENCE": 4000051223.0,
+          "LITRES": 42000,
+          "DESTINATION": "BUJUMBURA/BURUNDI",
+          "TYPE": "TANKER"
+        },
+        {
+          "S.NO": 2.0,
+          "S.NO.1": 2.0,
+          "DATE LOADED": "2023-01-05T00:00:00",
+          "SH/ORDER": 11855.0,
+          "Truck REG #": "T461DZH",
+          "Trailer REG #": "T845DZR",
+          "DRIVER NAME": "DONALD DAVID MALULU",
+          "CLIENT": "LAKE TRANS",
+          "ITERMS": "PMS",
+          "MOBILE": "255756 099823",
+          "PASSPORT": "TAE429676",
+          "D/LICENCE": 4000046209.0,
+          "LITRES": 44000,
+          "DESTINATION": "BUJUMBURA/BURUNDI",
+          "TYPE": "TANKER"
+        },
+        {
+          "S.NO": 3.0,
+          "S.NO.1": 3.0,
+          "DATE LOADED": "2023-01-06T00:00:00",
+          "SH/ORDER": 11856.0,
+          "Truck REG #": "T355DZH",
+          "Trailer REG #": "T643DZT",
+          "DRIVER NAME": "PETER GERVAS LUTEMELA",
+          "CLIENT": "LAKE TRANS",
+          "ITERMS": "PMS",
+          "MOBILE": "255752 157910",
+          "PASSPORT": "TAE381286",
+          "D/LICENCE": 4000070282.0,
+          "LITRES": 44000,
+          "DESTINATION": "BUJUMBURA/BURUNDI",
+          "TYPE": "TANKER"
+        }
+      ]
+    },
+    "AGUST": {
+      "total_rows": 1,
+      "total_columns": 32,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer1",
+          "Unnamed: 6": "Type",
+          "Unnamed: 7": "DRIVER NAME",
+          "GOING CARGO": "Allocated",
+          "Unnamed: 9": "Loading ",
+          "Unnamed: 10": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 12": "Offloading",
+          "Unnamed: 13": "Trip Days",
+          "Unnamed: 14": "Transporter",
+          "Unnamed: 15": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 17": "Destination",
+          "Unnamed: 18": "Telephone",
+          "Unnamed: 19": "Passport ",
+          "Unnamed: 20": "D/licence ",
+          "Unnamed: 21": "File ",
+          "Unnamed: 22": "Type",
+          "Unnamed: 23": "B/Lading ",
+          "Unnamed: 24": "Iterms",
+          "Unnamed: 25": "Net",
+          "Unnamed: 26": "Gross",
+          "Unnamed: 27": "Gvm ",
+          "Unnamed: 28": "AGENT",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 30": "LOADING POINT",
+          "Unnamed: 31": "ORDER SENT &\nConfirmed"
+        }
+      ]
+    },
+    "JAN-25": {
+      "total_rows": 222,
+      "total_columns": 35,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 121
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 133
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 215
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 190
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "Type",
+          "Unnamed: 25": "B/Lading ",
+          "Unnamed: 26": "Iterms",
+          "Unnamed: 27": "Net",
+          "Unnamed: 28": "Gross",
+          "Unnamed: 29": "Gvm ",
+          "Unnamed: 30": "AGENT DAR",
+          "Unnamed: 31": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 33": "LOADING POINT",
+          "Unnamed: 34": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 24247,
+          "Unnamed: 3": "T168EES",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T398BQX",
+          "Unnamed: 6": "T531EFH",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "EPRO GWIDO MVANDA",
+          "Unnamed: 9": "255764119258/255653758128",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4000036131,
+          "GOING CARGO": "2025-01-02T00:00:00",
+          "Unnamed: 13": "2025-01-02T00:00:00",
+          "Unnamed: 14": "2025-01-03T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-03-06T00:00:00",
+          "Unnamed: 18": 62,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "AFICD",
+          "GOING": "SLS",
+          "Unnamed: 22": "SICOMINE",
+          "Unnamed: 23": "004",
+          "Unnamed: 24": "DENGLOUR",
+          "Unnamed: 25": "DQ/001",
+          "Unnamed: 26": "LOOSE-SULPHER",
+          "Unnamed: 27": 35000,
+          "Unnamed: 28": 35000,
+          "Unnamed: 29": 56000,
+          "Unnamed: 30": "TRANSPORTER ONLY",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 24248,
+          "Unnamed: 3": "T621DZH",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T303EBB",
+          "Unnamed: 6": "T571EBB",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "KHAMIS ABDALLAH MKASI",
+          "Unnamed: 9": "255786 103844",
+          "Unnamed: 10": "TAE635265",
+          "Unnamed: 11": 4000259810,
+          "GOING CARGO": "2025-01-02T00:00:00",
+          "Unnamed: 13": "2025-01-02T00:00:00",
+          "Unnamed: 14": "2025-01-03T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-03-19T00:00:00",
+          "Unnamed: 18": 75,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "AFICD",
+          "GOING": "SLS",
+          "Unnamed: 22": "SICOMINE",
+          "Unnamed: 23": "004",
+          "Unnamed: 24": "DENGLOUR",
+          "Unnamed: 25": "DQ/001",
+          "Unnamed: 26": "LOOSE-SULPHER",
+          "Unnamed: 27": 36000,
+          "Unnamed: 28": 36000,
+          "Unnamed: 29": 56000,
+          "Unnamed: 30": "TRANSPORTER ONLY",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        }
+      ]
+    },
+    "FEBR-25": {
+      "total_rows": 71,
+      "total_columns": 35,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 65
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 26
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 47
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 60
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 42
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "Type",
+          "Unnamed: 25": "B/Lading ",
+          "Unnamed: 26": "Iterms",
+          "Unnamed: 27": "Net",
+          "Unnamed: 28": "Gross",
+          "Unnamed: 29": "Gvm ",
+          "Unnamed: 30": "AGENT DAR",
+          "Unnamed: 31": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 33": "LOADING POINT",
+          "Unnamed: 34": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 24814,
+          "Unnamed: 3": "T695DZQ",
+          "Unnamed: 4": "TBA",
+          "Unnamed: 5": "T901DZW",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "TBA",
+          "Unnamed: 8": "OSIAH CHARLES MWASHAMBWA",
+          "Unnamed: 9": "255743025202",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "GOING CARGO": "2025-02-03T00:00:00",
+          "Unnamed: 13": "2025-02-03T00:00:00",
+          "Unnamed: 14": "2025-02-04T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": 0,
+          "Unnamed: 19": "MARUTI",
+          "Unnamed: 20": "PMM-ICD",
+          "GOING": "MARIMPEX",
+          "Unnamed: 22": "KAMBOVE/KPM",
+          "Unnamed: 23": "5",
+          "Unnamed: 24": "TBA",
+          "Unnamed: 25": "CHN1763072",
+          "Unnamed: 26": "CMAU4203799-40FT",
+          "Unnamed: 27": 22904,
+          "Unnamed: 28": 22904,
+          "Unnamed: 29": "TBA",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 24815,
+          "Unnamed: 3": "T173EDC",
+          "Unnamed: 4": "TBA",
+          "Unnamed: 5": "T368EDH",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "TBA",
+          "Unnamed: 8": "SIXBERT L PHILIPO",
+          "Unnamed: 9": "255679787287",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "GOING CARGO": "2025-02-03T00:00:00",
+          "Unnamed: 13": "2025-02-03T00:00:00",
+          "Unnamed: 14": "2025-02-04T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": 0,
+          "Unnamed: 19": "MARUTI",
+          "Unnamed: 20": "PMM-ICD",
+          "GOING": "MARIMPEX",
+          "Unnamed: 22": "KAMBOVE/KPM",
+          "Unnamed: 23": "5",
+          "Unnamed: 24": "TBA",
+          "Unnamed: 25": "CHN1763072",
+          "Unnamed: 26": "CMAU7425911-40FT",
+          "Unnamed: 27": 11281,
+          "Unnamed: 28": 11281,
+          "Unnamed: 29": "TBA",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        }
+      ]
+    },
+    "APRIL-25": {
+      "total_rows": 167,
+      "total_columns": 35,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 66
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 155
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 103
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 158
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 107
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 159
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "Type",
+          "Unnamed: 25": "B/Lading ",
+          "Unnamed: 26": "Iterms",
+          "Unnamed: 27": "Net",
+          "Unnamed: 28": "Gross",
+          "Unnamed: 29": "Gvm ",
+          "Unnamed: 30": "AGENT DAR",
+          "Unnamed: 31": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 33": "LOADING POINT",
+          "Unnamed: 34": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 25599,
+          "Unnamed: 3": "T580DMJ",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T735BAK",
+          "Unnamed: 6": "T935DWJ",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "IDDY SHABAN RAMADHAN ",
+          "Unnamed: 9": "255755 240624",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4006268976,
+          "GOING CARGO": "2025-04-03T00:00:00",
+          "Unnamed: 13": "2025-04-04T00:00:00",
+          "Unnamed: 14": "2025-04-07T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-06-25T00:00:00",
+          "Unnamed: 18": 79,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "KOLWEZI/SICODEX",
+          "Unnamed: 23": 358,
+          "Unnamed: 24": "DENGLOUR",
+          "Unnamed: 25": "695734959",
+          "Unnamed: 26": "AMMONIUM-LDAN",
+          "Unnamed: 27": 35000,
+          "Unnamed: 28": 35070,
+          "Unnamed: 29": 56000,
+          "Unnamed: 30": "OVERLAND",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 25600,
+          "Unnamed: 3": "T684BZY",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T534CTF",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "SUPERSINGLE",
+          "Unnamed: 8": "SAID ABDALAH ALLY",
+          "Unnamed: 9": "255685835545",
+          "Unnamed: 10": "TAE655427",
+          "Unnamed: 11": 4001175939,
+          "GOING CARGO": "2025-04-03T00:00:00",
+          "Unnamed: 13": "2025-04-04T00:00:00",
+          "Unnamed: 14": "2025-04-07T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-05-29T00:00:00",
+          "Unnamed: 18": 52,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "KOLWEZI/SICODEX",
+          "Unnamed: 23": 358,
+          "Unnamed: 24": "SEMI",
+          "Unnamed: 25": "695734959",
+          "Unnamed: 26": "AMMONIUM-LDAN",
+          "Unnamed: 27": 30000,
+          "Unnamed: 28": 30060,
+          "Unnamed: 29": 48500,
+          "Unnamed: 30": "OVERLAND",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        }
+      ]
+    },
+    "MARCH-25": {
+      "total_rows": 229,
+      "total_columns": 35,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 100
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 172
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 216
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "Type",
+          "Unnamed: 25": "B/Lading ",
+          "Unnamed: 26": "Iterms",
+          "Unnamed: 27": "Net",
+          "Unnamed: 28": "Gross",
+          "Unnamed: 29": "Gvm ",
+          "Unnamed: 30": "AGENT DAR",
+          "Unnamed: 31": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 33": "LOADING POINT",
+          "Unnamed: 34": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 25083,
+          "Unnamed: 3": "T200DYR",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T706BMY",
+          "Unnamed: 6": "T570DTR",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "RASHID DADI SWALEH",
+          "Unnamed: 9": "255760507424",
+          "Unnamed: 10": "TAE694994",
+          "Unnamed: 11": 4002353523,
+          "GOING CARGO": "2025-03-01T00:00:00",
+          "Unnamed: 13": "2025-03-01T00:00:00",
+          "Unnamed: 14": "2025-03-01T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-04-27T00:00:00",
+          "Unnamed: 18": 57,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "AFICD/TAZARA",
+          "GOING": "GLENCORE",
+          "Unnamed: 22": "KCC MINE",
+          "Unnamed: 23": 32,
+          "Unnamed: 24": "DENGLOUR",
+          "Unnamed: 25": "53856-70",
+          "Unnamed: 26": "LOOSE-SULPHER",
+          "Unnamed: 27": 35000,
+          "Unnamed: 28": 35000,
+          "Unnamed: 29": 56000,
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 25082,
+          "Unnamed: 3": "T297EJA",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T151EHW",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "DOUBLETYRE",
+          "Unnamed: 8": "ABDALLAH ATHUMANI ALLY",
+          "Unnamed: 9": "255687 944329",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4000158680,
+          "GOING CARGO": "2025-03-01T00:00:00",
+          "Unnamed: 13": "2025-03-01T00:00:00",
+          "Unnamed: 14": "2025-03-01T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-04-22T00:00:00",
+          "Unnamed: 18": 52,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "AFICD/TAZARA",
+          "GOING": "GLENCORE",
+          "Unnamed: 22": "KCC MINE",
+          "Unnamed: 23": 32,
+          "Unnamed: 24": "DOUBLETYRE",
+          "Unnamed: 25": "53856-70",
+          "Unnamed: 26": "LOOSE-SULPHER",
+          "Unnamed: 27": 32000,
+          "Unnamed: 28": 32000,
+          "Unnamed: 29": 50000,
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        }
+      ]
+    },
+    "TANKERS -24": {
+      "total_rows": 581,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "S.NO",
+          "dtype": "float64",
+          "non_null_count": 532
+        },
+        {
+          "name": "S.NO.1",
+          "dtype": "float64",
+          "non_null_count": 532
+        },
+        {
+          "name": "DATE LOADED",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 531
+        },
+        {
+          "name": "SH/ORDER",
+          "dtype": "float64",
+          "non_null_count": 532
+        },
+        {
+          "name": "Truck REG #",
+          "dtype": "object",
+          "non_null_count": 532
+        },
+        {
+          "name": "Trailer REG #",
+          "dtype": "object",
+          "non_null_count": 532
+        },
+        {
+          "name": "DRIVER NAME",
+          "dtype": "object",
+          "non_null_count": 532
+        },
+        {
+          "name": "TRANSPORTER",
+          "dtype": "object",
+          "non_null_count": 532
+        },
+        {
+          "name": "CLIENT",
+          "dtype": "object",
+          "non_null_count": 532
+        },
+        {
+          "name": "ITERMS",
+          "dtype": "object",
+          "non_null_count": 532
+        },
+        {
+          "name": "MOBILE",
+          "dtype": "object",
+          "non_null_count": 524
+        },
+        {
+          "name": "PASSPORT",
+          "dtype": "object",
+          "non_null_count": 531
+        },
+        {
+          "name": "D/LICENCE",
+          "dtype": "float64",
+          "non_null_count": 531
+        },
+        {
+          "name": "LITRES",
+          "dtype": "object",
+          "non_null_count": 532
+        },
+        {
+          "name": "DESTINATION",
+          "dtype": "object",
+          "non_null_count": 532
+        },
+        {
+          "name": "TYPE",
+          "dtype": "object",
+          "non_null_count": 532
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "S.NO": 1.0,
+          "S.NO.1": 1.0,
+          "DATE LOADED": "2024-01-15T00:00:00",
+          "SH/ORDER": 18518.0,
+          "Truck REG #": "T160EBA",
+          "Trailer REG #": "T725DZK",
+          "DRIVER NAME": "YAHAYA MSABAHA MASUNGA",
+          "TRANSPORTER": "OVERLAND",
+          "CLIENT": "KEMEXON",
+          "ITERMS": "AGO",
+          "MOBILE": "255757 922887/255786 243285",
+          "PASSPORT": "TAE509260",
+          "D/LICENCE": 4000755843.0,
+          "LITRES": "           41,000",
+          "DESTINATION": "TANGA TO LUBUMBASHI",
+          "TYPE": "TANKER"
+        },
+        {
+          "S.NO": 2.0,
+          "S.NO.1": 2.0,
+          "DATE LOADED": "2024-01-15T00:00:00",
+          "SH/ORDER": 18519.0,
+          "Truck REG #": "T164EBA",
+          "Trailer REG #": "T720DZK",
+          "DRIVER NAME": "NASSOR ALLY NASSOR",
+          "TRANSPORTER": "OVERLAND",
+          "CLIENT": "KEMEXON",
+          "ITERMS": "AGO",
+          "MOBILE": "255745 939383",
+          "PASSPORT": "TAE656114",
+          "D/LICENCE": 4000339624.0,
+          "LITRES": "           41,000",
+          "DESTINATION": "TANGA TO LUBUMBASHI",
+          "TYPE": "TANKER"
+        },
+        {
+          "S.NO": 3.0,
+          "S.NO.1": 3.0,
+          "DATE LOADED": "2024-01-13T00:00:00",
+          "SH/ORDER": 18520.0,
+          "Truck REG #": "T165EBA",
+          "Trailer REG #": "T175DZC",
+          "DRIVER NAME": "SAMWEL STEPHEN MSITA",
+          "TRANSPORTER": "OVERLAND",
+          "CLIENT": "KEMEXON",
+          "ITERMS": "AGO",
+          "MOBILE": "255755 678661/255686 283420",
+          "PASSPORT": "AB0423142",
+          "D/LICENCE": 4000266209.0,
+          "LITRES": "           41,000",
+          "DESTINATION": "TANGA TO LUBUMBASHI",
+          "TYPE": "TANKER"
+        }
+      ]
+    },
+    "MAY-25": {
+      "total_rows": 309,
+      "total_columns": 35,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 298
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 163
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 296
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 184
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 283
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 248
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 297
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "Type",
+          "Unnamed: 25": "B/Lading ",
+          "Unnamed: 26": "Iterms",
+          "Unnamed: 27": "Net",
+          "Unnamed: 28": "Gross",
+          "Unnamed: 29": "Gvm ",
+          "Unnamed: 30": "AGENT DAR",
+          "Unnamed: 31": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 33": "LOADING POINT",
+          "Unnamed: 34": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 25698,
+          "Unnamed: 3": "T223EES",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T186DED",
+          "Unnamed: 6": "T575DTR",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "RASHID ADAM RASHID",
+          "Unnamed: 9": "255620 592983/255766568121",
+          "Unnamed: 10": "TAE687849",
+          "Unnamed: 11": 4006356600,
+          "GOING CARGO": "2025-04-28T00:00:00",
+          "Unnamed: 13": "2025-05-02T00:00:00",
+          "Unnamed: 14": "2025-05-05T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-06-24T00:00:00",
+          "Unnamed: 18": 50,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "KOLWEZI/SICODEX",
+          "Unnamed: 23": 342,
+          "Unnamed: 24": "DENGLOUR",
+          "Unnamed: 25": 203,
+          "Unnamed: 26": "AN-HDAN",
+          "Unnamed: 27": 35000,
+          "Unnamed: 28": 35098,
+          "Unnamed: 29": 56000,
+          "Unnamed: 30": "OVERLAND",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 25764,
+          "Unnamed: 3": "T892ECV",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T699CKC",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "PULLING",
+          "Unnamed: 8": "PAUL STEVEN SIANGA",
+          "Unnamed: 9": "255785 340349/255767674442",
+          "Unnamed: 10": "TAE499713",
+          "Unnamed: 11": 4001678517,
+          "GOING CARGO": "2025-04-28T00:00:00",
+          "Unnamed: 13": "2025-05-02T00:00:00",
+          "Unnamed: 14": "2025-05-05T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-06-22T00:00:00",
+          "Unnamed: 18": 48,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "KOLWEZI/SICODEX",
+          "Unnamed: 23": 342,
+          "Unnamed: 24": "PULLING",
+          "Unnamed: 25": 203,
+          "Unnamed: 26": "AN-HDAN",
+          "Unnamed: 27": 36250,
+          "Unnamed: 28": 36252,
+          "Unnamed: 29": 56000,
+          "Unnamed: 30": "OVERLAND",
+          "Unnamed: 31": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": ""
+        }
+      ]
+    },
+    "JUNE-25": {
+      "total_rows": 145,
+      "total_columns": 34,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 64
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 137
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 76
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 137
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 115
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 142
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "B/Lading ",
+          "Unnamed: 25": "Iterms",
+          "Unnamed: 26": "Net",
+          "Unnamed: 27": "Gross",
+          "Unnamed: 28": "Gvm ",
+          "Unnamed: 29": "AGENT DAR",
+          "Unnamed: 30": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 32": "LOADING POINT",
+          "Unnamed: 33": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 26479,
+          "Unnamed: 3": "T399DZH",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T344EBB",
+          "Unnamed: 6": "T561EBB",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "MSAFIRI BAKARI MBEJA",
+          "Unnamed: 9": "255716 389866",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4000259475,
+          "GOING CARGO": "2025-06-02T00:00:00",
+          "Unnamed: 13": "2025-06-02T00:00:00",
+          "Unnamed: 14": "2025-06-04T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-07-27T00:00:00",
+          "Unnamed: 18": 53,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "PUMPI lamikal /KOLWEZI",
+          "Unnamed: 23": 358,
+          "Unnamed: 24": "695734959",
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 36250,
+          "Unnamed: 27": 36323,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 26467,
+          "Unnamed: 3": "T691CXU",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T185DED",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "SUPERSINGLE",
+          "Unnamed: 8": "MATHIAS RICHARD NGAA",
+          "Unnamed: 9": "255678 121082",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4001592057,
+          "GOING CARGO": "2025-06-02T00:00:00",
+          "Unnamed: 13": "2025-06-02T00:00:00",
+          "Unnamed: 14": "2025-06-04T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-08-01T00:00:00",
+          "Unnamed: 18": 58,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "PUMPI lamikal /KOLWEZI",
+          "Unnamed: 23": 358,
+          "Unnamed: 24": "695734959",
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 30000,
+          "Unnamed: 27": 30060,
+          "Unnamed: 28": 48500,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        }
+      ]
+    },
+    "JULLY-25": {
+      "total_rows": 188,
+      "total_columns": 34,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 121
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 180
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 133
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 181
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 156
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 153
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 181
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 182
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "B/Lading ",
+          "Unnamed: 25": "Iterms",
+          "Unnamed: 26": "Net",
+          "Unnamed: 27": "Gross",
+          "Unnamed: 28": "Gvm ",
+          "Unnamed: 29": "AGENT DAR",
+          "Unnamed: 30": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 32": "LOADING POINT",
+          "Unnamed: 33": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 26969,
+          "Unnamed: 3": "T892ECV",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T699CKC",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "PULLING",
+          "Unnamed: 8": "PAUL STEVEN SIANGA",
+          "Unnamed: 9": "255785 340349",
+          "Unnamed: 10": "TAE499713",
+          "Unnamed: 11": 4001678517,
+          "GOING CARGO": "2025-07-01T00:00:00",
+          "Unnamed: 13": "2025-07-09T00:00:00",
+          "Unnamed: 14": "2025-07-11T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-09-26T00:00:00",
+          "Unnamed: 18": 77,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "LIKASI/SICODEX",
+          "Unnamed: 23": 358,
+          "Unnamed: 24": "695734959",
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 36250,
+          "Unnamed: 27": 36323,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 26970,
+          "Unnamed: 3": "T869DRL",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T396DRY",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "PULLING",
+          "Unnamed: 8": "WILSON REVERIANI NGAIZA",
+          "Unnamed: 9": "255719540085/255755504646",
+          "Unnamed: 10": "TAE696314",
+          "Unnamed: 11": 4000652763,
+          "GOING CARGO": "2025-07-01T00:00:00",
+          "Unnamed: 13": "2025-07-09T00:00:00",
+          "Unnamed: 14": "2025-07-11T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-10-02T00:00:00",
+          "Unnamed: 18": 83,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "LIKASI/SICODEX",
+          "Unnamed: 23": 358,
+          "Unnamed: 24": "695734959",
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 36250,
+          "Unnamed: 27": 36323,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        }
+      ]
+    },
+    "AUGUST-25": {
+      "total_rows": 236,
+      "total_columns": 34,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 133
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 146
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 178
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "B/Lading ",
+          "Unnamed: 25": "Iterms",
+          "Unnamed: 26": "Net",
+          "Unnamed: 27": "Gross",
+          "Unnamed: 28": "Gvm ",
+          "Unnamed: 29": "AGENT DAR",
+          "Unnamed: 30": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 32": "LOADING POINT",
+          "Unnamed: 33": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 27375,
+          "Unnamed: 3": "T716DMS",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T270DQD",
+          "Unnamed: 6": "T507DQD",
+          "Unnamed: 7": "INTERLINK",
+          "Unnamed: 8": "DEOGRATIAS ENYASI SHIYO",
+          "Unnamed: 9": "255757 090940/255684 207007",
+          "Unnamed: 10": "TAE657209",
+          "Unnamed: 11": 4000355085,
+          "GOING CARGO": "2025-08-01T00:00:00",
+          "Unnamed: 13": "2025-08-01T00:00:00",
+          "Unnamed: 14": "2025-08-02T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-09-09T00:00:00",
+          "Unnamed: 18": 38,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "PUMP LAMIKAL/SICODEX",
+          "Unnamed: 23": 38,
+          "Unnamed: 24": 696066666,
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 33750,
+          "Unnamed: 27": 33818,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 27398,
+          "Unnamed: 3": "T207DYR",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T742BAK",
+          "Unnamed: 6": "T567DTR",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "EDGAR FRANCIS LALISA",
+          "Unnamed: 9": "255765 333402",
+          "Unnamed: 10": "TAE747922",
+          "Unnamed: 11": 4000404958,
+          "GOING CARGO": "2025-08-01T00:00:00",
+          "Unnamed: 13": "2025-08-01T00:00:00",
+          "Unnamed: 14": "2025-08-02T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-09-10T00:00:00",
+          "Unnamed: 18": 39,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "PUMP LAMIKAL/SICODEX",
+          "Unnamed: 23": 38,
+          "Unnamed: 24": 696066666,
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 35000,
+          "Unnamed: 27": 35070,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        }
+      ]
+    },
+    "SEPT-25": {
+      "total_rows": 140,
+      "total_columns": 34,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 84
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 89
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 121
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "B/Lading ",
+          "Unnamed: 25": "Iterms",
+          "Unnamed: 26": "Net",
+          "Unnamed: 27": "Gross",
+          "Unnamed: 28": "Gvm ",
+          "Unnamed: 29": "AGENT DAR",
+          "Unnamed: 30": "AGENT KASUMBALESA",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 32": "LOADING POINT",
+          "Unnamed: 33": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 27888,
+          "Unnamed: 3": "T200DYR",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T706BMY",
+          "Unnamed: 6": "T570DTR",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "RASHID DADI SWALEH",
+          "Unnamed: 9": "255760507424",
+          "Unnamed: 10": "TAE694994",
+          "Unnamed: 11": 4002353523,
+          "GOING CARGO": "2025-09-01T00:00:00",
+          "Unnamed: 13": "2025-09-02T00:00:00",
+          "Unnamed: 14": "2025-09-03T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-10-28T00:00:00",
+          "Unnamed: 18": 55,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "LIKASI/SICODEX",
+          "Unnamed: 23": 38,
+          "Unnamed: 24": 696066666,
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 35000,
+          "Unnamed: 27": 35070,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 27889,
+          "Unnamed: 3": "T660BXN",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T187DED",
+          "Unnamed: 6": "T557DTR",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "EZEKIA EDWARD KYEJO",
+          "Unnamed: 9": "255758 151860",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4002052275,
+          "GOING CARGO": "2025-09-01T00:00:00",
+          "Unnamed: 13": "2025-09-02T00:00:00",
+          "Unnamed: 14": "2025-09-03T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-11-26T00:00:00",
+          "Unnamed: 18": 84,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "LIKASI/SICODEX",
+          "Unnamed: 23": 38,
+          "Unnamed: 24": 696066666,
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 35000,
+          "Unnamed: 27": 35070,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        }
+      ]
+    },
+    "OCTOBER-25": {
+      "total_rows": 181,
+      "total_columns": 34,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 126
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 169
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 121
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 145
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "B/Lading ",
+          "Unnamed: 25": "Iterms",
+          "Unnamed: 26": "Net",
+          "Unnamed: 27": "Gross",
+          "Unnamed: 28": "Gvm ",
+          "Unnamed: 29": "AGENT DAR",
+          "Unnamed: 30": "BAGS",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 32": "LOADING POINT",
+          "Unnamed: 33": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 28358,
+          "Unnamed: 3": "T620DPV",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T209DEG",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "DOUBLETYRE",
+          "Unnamed: 8": "NASSORO THABITI KASSIMU",
+          "Unnamed: 9": "255674996452",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4005100217,
+          "GOING CARGO": "2025-10-01T00:00:00",
+          "Unnamed: 13": "2025-10-02T00:00:00",
+          "Unnamed: 14": "2025-10-03T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-11-30T00:00:00",
+          "Unnamed: 18": 58,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "LIKASI/SICODEX",
+          "Unnamed: 23": 37,
+          "Unnamed: 24": 696048438,
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 31250,
+          "Unnamed: 27": 31313,
+          "Unnamed: 28": 50000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 28359,
+          "Unnamed: 3": "T223DNF",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T810BYV",
+          "Unnamed: 6": "T253EMM",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "ANTHONY E NGUMBI",
+          "Unnamed: 9": "25576 2059139/255712 594175",
+          "Unnamed: 10": "TAE679312",
+          "Unnamed: 11": 4000223248,
+          "GOING CARGO": "2025-10-01T00:00:00",
+          "Unnamed: 13": "2025-10-02T00:00:00",
+          "Unnamed: 14": "2025-10-03T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "2025-11-22T00:00:00",
+          "Unnamed: 18": 50,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "LIKASI/SICODEX",
+          "Unnamed: 23": 37,
+          "Unnamed: 24": 696048438,
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 35000,
+          "Unnamed: 27": 35070,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        }
+      ]
+    },
+    "NOVEMBER-25": {
+      "total_rows": 158,
+      "total_columns": 34,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 107
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 21
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 152
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "B/Lading ",
+          "Unnamed: 25": "Iterms",
+          "Unnamed: 26": "Net",
+          "Unnamed: 27": "Gross",
+          "Unnamed: 28": "Gvm ",
+          "Unnamed: 29": "AGENT DAR",
+          "Unnamed: 30": "BAGS",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 32": "LOADING POINT",
+          "Unnamed: 33": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 28808,
+          "Unnamed: 3": "T249CVP",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T759AXN",
+          "Unnamed: 6": "T341DXR",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "JUMANNE MAMBO KINYALA",
+          "Unnamed: 9": "255713578888/255689578888",
+          "Unnamed: 10": "TAE680708",
+          "Unnamed: 11": 4000685970,
+          "GOING CARGO": "2025-10-24T00:00:00",
+          "Unnamed: 13": "2025-11-05T00:00:00",
+          "Unnamed: 14": "2025-11-06T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": 0,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "KOLWEZI/SICODEX",
+          "Unnamed: 23": 37,
+          "Unnamed: 24": 696048438,
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 35000,
+          "Unnamed: 27": 35070,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 28830,
+          "Unnamed: 3": "T426BVZ",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T192BED",
+          "Unnamed: 6": "T233EMP",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "EMMANUEL BETHODI MGOMAHENGA",
+          "Unnamed: 9": "255761 477280",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4002303011,
+          "GOING CARGO": "2025-10-27T00:00:00",
+          "Unnamed: 13": "2025-11-05T00:00:00",
+          "Unnamed: 14": "2025-11-06T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": 0,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "CFS/VINGUNGUTI",
+          "GOING": "SICODEX",
+          "Unnamed: 22": "KOLWEZI/SICODEX",
+          "Unnamed: 23": 37,
+          "Unnamed: 24": 696048438,
+          "Unnamed: 25": "AN-LDAN",
+          "Unnamed: 26": 35000,
+          "Unnamed: 27": 35070,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "OVERLAND",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        }
+      ]
+    },
+    "DECEMBER-25": {
+      "total_rows": 221,
+      "total_columns": 34,
+      "columns": [
+        {
+          "name": "E. AWADH AND CO. LIMITED",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 160
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 157
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 205
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 205
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 212
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "RETURN CARGO.1",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "E. AWADH AND CO. LIMITED": "SN",
+          "Unnamed: 1": "SN",
+          "Unnamed: 2": "S/ORDER ",
+          "Unnamed: 3": "TRUCK",
+          "Unnamed: 4": "Type",
+          "Unnamed: 5": "Trailer I",
+          "Unnamed: 6": "Trailer II",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "DRIVER NAME",
+          "Unnamed: 9": "Telephone",
+          "Unnamed: 10": "Passport ",
+          "Unnamed: 11": "D/licence ",
+          "GOING CARGO": "Allocated ",
+          "Unnamed: 13": "Dispatch Date",
+          "Unnamed: 14": "Loading ",
+          "Unnamed: 15": "Offloading",
+          "RETURN CARGO": "Loading ",
+          "Unnamed: 17": "Offloading",
+          "Unnamed: 18": "Trip Days",
+          "Unnamed: 19": "Transporter",
+          "Unnamed: 20": "Loading point",
+          "GOING": "Client",
+          "Unnamed: 22": "Destination",
+          "Unnamed: 23": "File ",
+          "Unnamed: 24": "B/Lading ",
+          "Unnamed: 25": "Iterms",
+          "Unnamed: 26": "Net",
+          "Unnamed: 27": "Gross",
+          "Unnamed: 28": "Gvm ",
+          "Unnamed: 29": "AGENT DAR",
+          "Unnamed: 30": "BAGS",
+          "RETURN CARGO.1": "CLIENT",
+          "Unnamed: 32": "LOADING POINT",
+          "Unnamed: 33": "ORDER SENT &\nConfirmed"
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 1,
+          "Unnamed: 1": 1,
+          "Unnamed: 2": 29252,
+          "Unnamed: 3": "T561EHZ",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T692EHV",
+          "Unnamed: 6": "T247EMP",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "NYASAHIRA WARYOBA DAMAS",
+          "Unnamed: 9": "255768398248/255624878248",
+          "Unnamed: 10": "TAE454531",
+          "Unnamed: 11": 4004608909,
+          "GOING CARGO": "2025-12-01T00:00:00",
+          "Unnamed: 13": "2025-12-02T00:00:00",
+          "Unnamed: 14": "2025-12-05T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": 0,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "DCG/KISARAWE",
+          "GOING": "GLENCORE",
+          "Unnamed: 22": "KCC MINE",
+          "Unnamed: 23": 121,
+          "Unnamed: 24": 1,
+          "Unnamed: 25": "SULPHER",
+          "Unnamed: 26": 35000,
+          "Unnamed: 27": 35000,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "TRANSPORTER ONLY",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        },
+        {
+          "E. AWADH AND CO. LIMITED": 2,
+          "Unnamed: 1": 2,
+          "Unnamed: 2": 29254,
+          "Unnamed: 3": "T440BVZ",
+          "Unnamed: 4": "DOUBLE DIFF",
+          "Unnamed: 5": "T187DED",
+          "Unnamed: 6": "T557DTR",
+          "Unnamed: 7": "DENGLOUR",
+          "Unnamed: 8": "EZEKIA EDWARD KYEJO",
+          "Unnamed: 9": "255758 151860",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 4002052275,
+          "GOING CARGO": "2025-12-01T00:00:00",
+          "Unnamed: 13": "2025-12-02T00:00:00",
+          "Unnamed: 14": "2025-12-05T00:00:00",
+          "Unnamed: 15": "",
+          "RETURN CARGO": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": 0,
+          "Unnamed: 19": "OVERLAND",
+          "Unnamed: 20": "DCG/KISARAWE",
+          "GOING": "GLENCORE",
+          "Unnamed: 22": "KCC MINE",
+          "Unnamed: 23": 121,
+          "Unnamed: 24": 1,
+          "Unnamed: 25": "SULPHER",
+          "Unnamed: 26": 35000,
+          "Unnamed: 27": 35000,
+          "Unnamed: 28": 56000,
+          "Unnamed: 29": "TRANSPORTER ONLY",
+          "Unnamed: 30": "",
+          "RETURN CARGO.1": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": ""
+        }
+      ]
+    },
+    "TANKERS-25": {
+      "total_rows": 720,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "S.NO",
+          "dtype": "float64",
+          "non_null_count": 655
+        },
+        {
+          "name": "S.NO.1",
+          "dtype": "float64",
+          "non_null_count": 655
+        },
+        {
+          "name": "DATE LOADED",
+          "dtype": "datetime64[ns]",
+          "non_null_count": 606
+        },
+        {
+          "name": "SH/ORDER",
+          "dtype": "float64",
+          "non_null_count": 655
+        },
+        {
+          "name": "Truck REG #",
+          "dtype": "object",
+          "non_null_count": 655
+        },
+        {
+          "name": "Trailer REG #",
+          "dtype": "object",
+          "non_null_count": 655
+        },
+        {
+          "name": "DRIVER NAME",
+          "dtype": "object",
+          "non_null_count": 655
+        },
+        {
+          "name": "TRANSPORTER",
+          "dtype": "object",
+          "non_null_count": 655
+        },
+        {
+          "name": "CLIENT",
+          "dtype": "object",
+          "non_null_count": 655
+        },
+        {
+          "name": "ITERMS",
+          "dtype": "object",
+          "non_null_count": 655
+        },
+        {
+          "name": "MOBILE",
+          "dtype": "object",
+          "non_null_count": 649
+        },
+        {
+          "name": "PASSPORT",
+          "dtype": "object",
+          "non_null_count": 646
+        },
+        {
+          "name": "D/LICENCE",
+          "dtype": "object",
+          "non_null_count": 642
+        },
+        {
+          "name": "LITRES",
+          "dtype": "object",
+          "non_null_count": 655
+        },
+        {
+          "name": "DESTINATION",
+          "dtype": "object",
+          "non_null_count": 655
+        },
+        {
+          "name": "TYPE",
+          "dtype": "object",
+          "non_null_count": 655
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "S.NO": 1.0,
+          "S.NO.1": 1.0,
+          "DATE LOADED": "2025-01-04T00:00:00",
+          "SH/ORDER": 24113.0,
+          "Truck REG #": "T548EHZ",
+          "Trailer REG #": "T862DZR",
+          "DRIVER NAME": "FREDY JUMA LONGO",
+          "TRANSPORTER": "OVERLAND",
+          "CLIENT": "LAKE OIL FUEL TANK",
+          "ITERMS": "PMS",
+          "MOBILE": "255788 484600",
+          "PASSPORT": "TAE669551",
+          "D/LICENCE": 4001040106,
+          "LITRES": 43000,
+          "DESTINATION": "DAR TO LILONGWE",
+          "TYPE": "TANKER"
+        },
+        {
+          "S.NO": 2.0,
+          "S.NO.1": 2.0,
+          "DATE LOADED": "2025-01-04T00:00:00",
+          "SH/ORDER": 24114.0,
+          "Truck REG #": "T708EHZ",
+          "Trailer REG #": "T858DZR",
+          "DRIVER NAME": "ALLY AHMAD SWALEHE",
+          "TRANSPORTER": "OVERLAND",
+          "CLIENT": "LAKE OIL FUEL TANK",
+          "ITERMS": "PMS",
+          "MOBILE": "255684 385458",
+          "PASSPORT": "TAE678751",
+          "D/LICENCE": 4002135112,
+          "LITRES": 43000,
+          "DESTINATION": "DAR TO LILONGWE",
+          "TYPE": "TANKER"
+        },
+        {
+          "S.NO": 3.0,
+          "S.NO.1": 3.0,
+          "DATE LOADED": "2025-01-04T00:00:00",
+          "SH/ORDER": 24115.0,
+          "Truck REG #": "T936EGG",
+          "Trailer REG #": "T823DZR",
+          "DRIVER NAME": "ALBERT GABRIEL MGALLE",
+          "TRANSPORTER": "OVERLAND",
+          "CLIENT": "LAKE OIL FUEL TANK",
+          "ITERMS": "PMS",
+          "MOBILE": "255755 072222",
+          "PASSPORT": "TAE238979",
+          "D/LICENCE": 4000691853,
+          "LITRES": 43000,
+          "DESTINATION": "DAR TO LILONGWE",
+          "TYPE": "TANKER"
+        }
+      ]
+    },
+    " LOCAL -CTS CLIENT.": {
+      "total_rows": 120,
+      "total_columns": 13,
+      "columns": [
+        {
+          "name": "1",
+          "dtype": "object",
+          "non_null_count": 107
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 99
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 49
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 99
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "1": "S/NO",
+          "Unnamed: 1": "FILE",
+          "Unnamed: 2": "SH/ORDER",
+          "Unnamed: 3": "TRUCKS",
+          "Unnamed: 4": "TRAILER",
+          "Unnamed: 5": "DRIVER NAME",
+          "Unnamed: 6": "MOBILE",
+          "Unnamed: 7": "D/LICENCE",
+          "Unnamed: 8": "DESTINATION",
+          "Unnamed: 9": "CONT NO.",
+          "Unnamed: 10": "CONT",
+          "Unnamed: 11": "ALLOCATED DATE ",
+          "Unnamed: 12": "LOADING DATE"
+        },
+        {
+          "1": 1,
+          "Unnamed: 1": "CTS MWANZA",
+          "Unnamed: 2": 20495,
+          "Unnamed: 3": "T708DMS",
+          "Unnamed: 4": "T201DZH",
+          "Unnamed: 5": "HURUKA SALUMU MOHAMEDI",
+          "Unnamed: 6": "255655 142190",
+          "Unnamed: 7": 4000090644,
+          "Unnamed: 8": "MWANZA",
+          "Unnamed: 9": "UETU2386379",
+          "Unnamed: 10": "20FT",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "2024-05-13T00:00:00"
+        },
+        {
+          "1": 2,
+          "Unnamed: 1": "CTS MWANZA",
+          "Unnamed: 2": 20486,
+          "Unnamed: 3": "T668BZY",
+          "Unnamed: 4": "T896CBB",
+          "Unnamed: 5": "LUCAS CHARLES HENRY",
+          "Unnamed: 6": "255714 393160",
+          "Unnamed: 7": 4000472830,
+          "Unnamed: 8": "MWANZA",
+          "Unnamed: 9": "TEMU5776287",
+          "Unnamed: 10": "20FT",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "2024-05-13T00:00:00"
+        }
+      ]
+    }
+  }
+}

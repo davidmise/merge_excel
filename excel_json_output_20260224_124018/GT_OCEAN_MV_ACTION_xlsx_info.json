@@ -1,0 +1,222 @@
+{
+  "filename": "GT OCEAN_MV ACTION.xlsx",
+  "file_size": 598642,
+  "last_modified": "2026-01-26T09:34:00.414275",
+  "total_sheets": 4,
+  "sheets": {
+    "Kolwezi-696048438 ": {
+      "total_rows": 32,
+      "total_columns": 41,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "MV Action Trader",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "L-DAN 3146  / HDAN 8",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "3154",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "3942500",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "3950395",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 32
+        },
+        {
+          "name": "Unnamed: 39",
+          "dtype": "object",
+          "non_null_count": 31
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 32
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "序号",
+          "Unnamed: 1": "提单号",
+          "Unnamed: 2": "卡车牌号",
+          "Unnamed: 3": "拖车牌号"

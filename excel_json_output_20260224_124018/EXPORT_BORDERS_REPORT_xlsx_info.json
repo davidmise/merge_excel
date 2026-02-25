@@ -1,0 +1,638 @@
+{
+  "filename": "EXPORT BORDERS REPORT.xlsx",
+  "file_size": 18355,
+  "last_modified": "2026-01-26T09:35:06.638816",
+  "total_sheets": 1,
+  "sheets": {
+    "Sheet1": {
+      "total_rows": 74,
+      "total_columns": 77,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "object",
+          "non_null_count": 63
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 53
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 52
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 51
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 23
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 19
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 39",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 42",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 43",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 44",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 45",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 46",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 47",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 48",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 49",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 50",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 51",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 52",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 53",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 54",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 55",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 56",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 57",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 58",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 59",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 60",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 61",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 62",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 63",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 64",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 65",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 66",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 67",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 68",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 69",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 70",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 71",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 72",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 73",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 74",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 75",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 76",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "`",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": "",
+          "Unnamed: 35": "",
+          "Unnamed: 36": "",
+          "Unnamed: 37": "",
+          "Unnamed: 38": "",
+          "Unnamed: 39": "",
+          "Unnamed: 40": "",
+          "Unnamed: 41": "",
+          "Unnamed: 42": "",
+          "Unnamed: 43": "",
+          "Unnamed: 44": "",
+          "Unnamed: 45": "",
+          "Unnamed: 46": "",
+          "Unnamed: 47": "",
+          "Unnamed: 48": "",
+          "Unnamed: 49": "",
+          "Unnamed: 50": "",
+          "Unnamed: 51": "",
+          "Unnamed: 52": "",
+          "Unnamed: 53": "",
+          "Unnamed: 54": "",
+          "Unnamed: 55": "",
+          "Unnamed: 56": "",
+          "Unnamed: 57": "",
+          "Unnamed: 58": "",
+          "Unnamed: 59": "",
+          "Unnamed: 60": "",
+          "Unnamed: 61": "",
+          "Unnamed: 62": "",
+          "Unnamed: 63": "",
+          "Unnamed: 64": "",
+          "Unnamed: 65": "",
+          "Unnamed: 66": "",
+          "Unnamed: 67": "",
+          "Unnamed: 68": "",
+          "Unnamed: 69": "",
+          "Unnamed: 70": "",
+          "Unnamed: 71": "",
+          "Unnamed: 72": "",
+          "Unnamed: 73": "",
+          "Unnamed: 74": "",
+          "Unnamed: 75": "",
+          "Unnamed: 76": ""
+        },
+        {
+          "Unnamed: 0": "EXPORT",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": "",
+          "Unnamed: 35": "",
+          "Unnamed: 36": "",
+          "Unnamed: 37": "",
+          "Unnamed: 38": "",
+          "Unnamed: 39": "",
+          "Unnamed: 40": "",
+          "Unnamed: 41": "",
+          "Unnamed: 42": "",
+          "Unnamed: 43": "",
+          "Unnamed: 44": "",
+          "Unnamed: 45": "",
+          "Unnamed: 46": "",
+          "Unnamed: 47": "",
+          "Unnamed: 48": "",
+          "Unnamed: 49": "",
+          "Unnamed: 50": "",
+          "Unnamed: 51": "",
+          "Unnamed: 52": "",
+          "Unnamed: 53": "",
+          "Unnamed: 54": "",
+          "Unnamed: 55": "",
+          "Unnamed: 56": "",
+          "Unnamed: 57": "",
+          "Unnamed: 58": "",
+          "Unnamed: 59": "",
+          "Unnamed: 60": "",
+          "Unnamed: 61": "",
+          "Unnamed: 62": "",
+          "Unnamed: 63": "",
+          "Unnamed: 64": "",
+          "Unnamed: 65": "",
+          "Unnamed: 66": "",
+          "Unnamed: 67": "",
+          "Unnamed: 68": "",
+          "Unnamed: 69": "",
+          "Unnamed: 70": "",
+          "Unnamed: 71": "",
+          "Unnamed: 72": "",
+          "Unnamed: 73": "",
+          "Unnamed: 74": "",
+          "Unnamed: 75": "",
+          "Unnamed: 76": "24TH MAR 2022 TIME 08:30AM"
+        },
+        {
+          "Unnamed: 0": "S/N",
+          "Unnamed: 1": "TRUCKNO",
+          "Unnamed: 2": "LOCATION",
+          "Unnamed: 3": "AGENT",
+          "Unnamed: 4": "ARRIVAL DATE",
+          "Unnamed: 5": "DAYS",
+          "Unnamed: 6": "REMARKS",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": "",
+          "Unnamed: 28": "",
+          "Unnamed: 29": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "Unnamed: 32": "",
+          "Unnamed: 33": "",
+          "Unnamed: 34": "",
+          "Unnamed: 35": "",
+          "Unnamed: 36": "",
+          "Unnamed: 37": "",
+          "Unnamed: 38": "",
+          "Unnamed: 39": "",
+          "Unnamed: 40": "",
+          "Unnamed: 41": "",
+          "Unnamed: 42": "",
+          "Unnamed: 43": "",
+          "Unnamed: 44": "",
+          "Unnamed: 45": "",
+          "Unnamed: 46": "",
+          "Unnamed: 47": "",
+          "Unnamed: 48": "",
+          "Unnamed: 49": "",
+          "Unnamed: 50": "",
+          "Unnamed: 51": "",
+          "Unnamed: 52": "",
+          "Unnamed: 53": "",
+          "Unnamed: 54": "",
+          "Unnamed: 55": "",
+          "Unnamed: 56": "",
+          "Unnamed: 57": "",
+          "Unnamed: 58": "",
+          "Unnamed: 59": "",
+          "Unnamed: 60": "",
+          "Unnamed: 61": "",
+          "Unnamed: 62": "",
+          "Unnamed: 63": "",
+          "Unnamed: 64": "",
+          "Unnamed: 65": "",
+          "Unnamed: 66": "",
+          "Unnamed: 67": "",
+          "Unnamed: 68": "",
+          "Unnamed: 69": "",
+          "Unnamed: 70": "",
+          "Unnamed: 71": "",
+          "Unnamed: 72": "",
+          "Unnamed: 73": "",
+          "Unnamed: 74": "",
+          "Unnamed: 75": "",
+          "Unnamed: 76": ""
+        }
+      ]
+    }
+  }
+}

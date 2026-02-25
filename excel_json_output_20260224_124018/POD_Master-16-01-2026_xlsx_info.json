@@ -1,0 +1,118 @@
+{
+  "filename": "POD Master-16-01-2026.xlsx",
+  "file_size": 1249957,
+  "last_modified": "2026-01-26T09:29:14.517080",
+  "total_sheets": 26,
+  "sheets": {
+    "MARCH-24": {
+      "total_rows": 145,
+      "total_columns": 21,
+      "columns": [
+        {
+          "name": "2024-05-25 00:00:00",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Master Pod report",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "GOING CARGO",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "GOING",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 125
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 133
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 133
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 134
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 2
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {

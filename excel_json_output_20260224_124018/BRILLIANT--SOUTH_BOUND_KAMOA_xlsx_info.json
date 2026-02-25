@@ -1,0 +1,682 @@
+{
+  "filename": "BRILLIANT--SOUTH BOUND KAMOA.xlsx",
+  "file_size": 1885357,
+  "last_modified": "2026-01-26T09:33:02.063648",
+  "total_sheets": 3,
+  "sheets": {
+    "KAMOA": {
+      "total_rows": 19,
+      "total_columns": 25,
+      "columns": [
+        {
+          "name": "BRILLIANT- SOUTH BOUND ",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 9
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "BRILLIANT- SOUTH BOUND ": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": ""
+        },
+        {
+          "BRILLIANT- SOUTH BOUND ": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": ""
+        },
+        {
+          "BRILLIANT- SOUTH BOUND ": "Overeland",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "Date:",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "2025-11-19T00:00:00",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": ""
+        }
+      ]
+    },
+    "LCS": {
+      "total_rows": 12,
+      "total_columns": 26,
+      "columns": [
+        {
+          "name": "BRILLIANT- SOUTH BOUND ",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 6
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 8
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "BRILLIANT- SOUTH BOUND ": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": ""
+        },
+        {
+          "BRILLIANT- SOUTH BOUND ": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": ""
+        },
+        {
+          "BRILLIANT- SOUTH BOUND ": "Overeland",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "Date:",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "2025-11-19T00:00:00",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": ""
+        }
+      ]
+    },
+    "KAMOA-2": {
+      "total_rows": 13,
+      "total_columns": 28,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": ""
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "Loading Date",
+          "Unnamed: 15": "Dispatch Date",
+          "Unnamed: 16": "Kasumbalesa DRC",
+          "Unnamed: 17": "",
+          "Unnamed: 18": "Kasumbalesa Zambia",
+          "Unnamed: 19": "",
+          "Unnamed: 20": "NAKONDE ZMB ",
+          "Unnamed: 21": "",
+          "Unnamed: 22": "TUNDUMA TZ ",
+          "Unnamed: 23": "",
+          "Unnamed: 24": "Arrive on Site",
+          "Unnamed: 25": "Offload Date",
+          "Unnamed: 26": "Offload Site",
+          "Unnamed: 27": "POD sent to BRILLIANT"
+        },
+        {
+          "Unnamed: 0": "Sn",
+          "Unnamed: 1": "S.O",
+          "Unnamed: 2": "Truck",
+          "Unnamed: 3": "TrailerI",
+          "Unnamed: 4": "BlNumner",
+          "Unnamed: 5": "Container",
+          "Unnamed: 6": "Total Tons",
+          "Unnamed: 7": "DriverName",
+          "Unnamed: 8": "Passport",
+          "Unnamed: 9": "LoadingMine",
+          "Unnamed: 10": "OffloadingWHDar",
+          "Unnamed: 11": "Current location",
+          "Unnamed: 12": "Status",
+          "Unnamed: 13": "ETA ",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "Unnamed: 16": "Arrival K-LESA DRC",
+          "Unnamed: 17": "Departure",
+          "Unnamed: 18": "Arrival K-LESA ZMB",
+          "Unnamed: 19": "Departure",
+          "Unnamed: 20": "Arrival NAKONDE",
+          "Unnamed: 21": "Departure",
+          "Unnamed: 22": "Arrival TUNDUMA",
+          "Unnamed: 23": "Departure",
+          "Unnamed: 24": "",
+          "Unnamed: 25": "",
+          "Unnamed: 26": "",
+          "Unnamed: 27": ""
+        }
+      ]
+    }
+  }
+}

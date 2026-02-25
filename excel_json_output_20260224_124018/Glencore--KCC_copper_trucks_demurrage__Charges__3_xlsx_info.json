@@ -1,0 +1,166 @@
+{
+  "filename": "Glencore--KCC copper trucks demurrage  Charges. 3.xlsx",
+  "file_size": 23759,
+  "last_modified": "2026-01-26T09:30:02.604782",
+  "total_sheets": 1,
+  "sheets": {
+    "Glencore KCC Site Delays": {
+      "total_rows": 41,
+      "total_columns": 18,
+      "columns": [
+        {
+          "name": "Overland Group of Companies",
+          "dtype": "object",
+          "non_null_count": 40
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 30
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Total Amount in USD",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 39
+        },
+        {
+          "name": "7500",
+          "dtype": "object",
+          "non_null_count": 40
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group of Companies": "KCC -- Overland Truck demurrage charges report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Total Amount in USD": "",
+          "Unnamed: 16": "",
+          "7500": ""
+        },
+        {
+          "Overland Group of Companies": "Mine",
+          "Unnamed: 1": "Haulier Name",
+          "Unnamed: 2": "Truck Registration",
+          "Unnamed: 3": "Trailer 1",
+          "Unnamed: 4": "Trailer 2",
+          "Unnamed: 5": "Corridor",
+          "Unnamed: 6": "Commodity",
+          "Unnamed: 7": "Export Lot ",
+          "Unnamed: 8": "Current Location",
+          "Unnamed: 9": "Remark",
+          "Unnamed: 10": "Date Reported For Loading ",
+          "Unnamed: 11": "Loading Date ",
+          "Unnamed: 12": "Dispatch Date",
+          "Unnamed: 13": "Empty-to-Dispatch",
+          "Unnamed: 14": "Free Days",
+          "Total Amount in USD": "Chargeable Demurrage Days",
+          "Unnamed: 16": "Rate",
+          "7500": "Total"
+        },
+        {
+          "Overland Group of Companies": "KCC",
+          "Unnamed: 1": "Overland",
+          "Unnamed: 2": "T311EES",
+          "Unnamed: 3": "T988ANZ",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "DCG DAR",
+          "Unnamed: 6": "Copper cathodes",
+          "Unnamed: 7": "KC3/24863",
+          "Unnamed: 8": "MKUSHI",
+          "Unnamed: 9": "In transit",
+          "Unnamed: 10": "2025-10-13T00:00:00",
+          "Unnamed: 11": "2025-10-23T00:00:00",
+          "Unnamed: 12": "2025-10-29T00:00:00",
+          "Unnamed: 13": 16,
+          "Unnamed: 14": 13,
+          "Total Amount in USD": 3,
+          "Unnamed: 16": 250,
+          "7500": 750
+        }
+      ]
+    }
+  }
+}

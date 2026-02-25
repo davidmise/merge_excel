@@ -1,0 +1,46 @@
+{
+  "filename": "Terry copy.xlsx",
+  "file_size": 19984,
+  "last_modified": "2026-01-27T09:45:54.848297",
+  "total_sheets": 2,
+  "sheets": {
+    "Summary Final": {
+      "total_rows": 9,
+      "total_columns": 6,
+      "columns": [
+        {
+          "name": "Overland Group ",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group ": "Depot  Summary Report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": ""

@@ -1,0 +1,644 @@
+{
+  "filename": "OVERLAND MAIN MASTER REPORT.xlsx",
+  "file_size": 327401,
+  "last_modified": "2026-01-26T09:35:28.018848",
+  "total_sheets": 2,
+  "sheets": {
+    "Sheet1": {
+      "total_rows": 580,
+      "total_columns": 74,
+      "columns": [
+        {
+          "name": "OVERLAND TRACKING REPORT",
+          "dtype": "object",
+          "non_null_count": 556
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 555
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 555
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 565
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 565
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 564
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 555
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 555
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 555
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 554
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 554
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 554
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 554
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 553
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 39",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 42",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 43",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 44",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 45",
+          "dtype": "object",
+          "non_null_count": 551
+        },
+        {
+          "name": "Unnamed: 46",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 47",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 48",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 49",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 50",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 51",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 52",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 53",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 54",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 55",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 56",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 57",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 58",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 59",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 60",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 61",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 62",
+          "dtype": "object",
+          "non_null_count": 552
+        },
+        {
+          "name": "Unnamed: 63",
+          "dtype": "object",
+          "non_null_count": 520
+        },
+        {
+          "name": "Unnamed: 64",
+          "dtype": "object",
+          "non_null_count": 520
+        },
+        {
+          "name": "Unnamed: 65",
+          "dtype": "object",
+          "non_null_count": 519
+        },
+        {
+          "name": "Unnamed: 66",
+          "dtype": "object",
+          "non_null_count": 519
+        },
+        {
+          "name": "Unnamed: 67",
+          "dtype": "object",
+          "non_null_count": 519
+        },
+        {
+          "name": "Unnamed: 68",
+          "dtype": "object",
+          "non_null_count": 519
+        },
+        {
+          "name": "Unnamed: 69",
+          "dtype": "object",
+          "non_null_count": 500
+        },
+        {
+          "name": "Unnamed: 70",
+          "dtype": "object",
+          "non_null_count": 500
+        },
+        {
+          "name": "Unnamed: 71",
+          "dtype": "object",
+          "non_null_count": 500
+        },
+        {
+          "name": "Unnamed: 72",
+          "dtype": "object",
+          "non_null_count": 499
+        },
+        {
+          "name": "Unnamed: 73",
+          "dtype": "object",
+          "non_null_count": 500
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "OVERLAND TRACKING REPORT": "TRUCK 0WNER",
+          "Unnamed: 1": "S/NO",
+          "Unnamed: 2": "TRUCKS",
+          "Unnamed: 3": "TRAILER 1",
+          "Unnamed: 4": "DRIVER NAME",
+          "Unnamed: 5": "TYPE",
+          "Unnamed: 6": "CLIENT",
+          "Unnamed: 7": "DESTINATION",
+          "Unnamed: 8": "20th  January  2026; TIME: 1130HRS",
+          "Unnamed: 9": "19th  January  2026; TIME: 1130HRS",
+          "Unnamed: 10": "18th  January  2026; TIME: 1130HRS",
+          "Unnamed: 11": "17th  January  2026; TIME: 1230HRS",
+          "Unnamed: 12": "16th  January  2026; TIME: 1230HRS",
+          "Unnamed: 13": "15th  January  2026; TIME: 1230HRS",
+          "Unnamed: 14": "14th  January  2026; TIME: 1230HRS",
+          "Unnamed: 15": "13th  January  2026; TIME: 1230HRS",
+          "Unnamed: 16": "12th  January  2026; TIME: 1230HRS",
+          "Unnamed: 17": "11th  January  2026; TIME: 1230HRS",
+          "Unnamed: 18": "10th  January  2026; TIME: 1230HRS",
+          "Unnamed: 19": "9th  January  2026; TIME: 1230HRS",
+          "Unnamed: 20": "8th  January  2026; TIME: 1230HRS",
+          "Unnamed: 21": "7th  January  2026; TIME: 1230HRS",
+          "Unnamed: 22": "6th  January  2026; TIME: 1230HRS",
+          "Unnamed: 23": "5th  January  2026; TIME: 1230HRS",
+          "Unnamed: 24": "4th  January  2026; TIME: 1230HRS",
+          "Unnamed: 25": "3rd January  2026; TIME: 1230HRS",
+          "Unnamed: 26": "2ND January  2026; TIME: 1230HRS",
+          "Unnamed: 27": "1ST January  2026; TIME: 1230HRS",
+          "Unnamed: 28": "31st  DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 29": "30th DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 30": "29th DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 31": "28th DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 32": "27th DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 33": "26th DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 34": "25th DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 35": "24th DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 36": "23rd DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 37": "22nd DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 38": "21st DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 39": "20TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 40": "19TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 41": "18TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 42": "17TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 43": "16TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 44": "15H DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 45": "14TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 46": "13TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 47": "12TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 48": "11TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 49": "10TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 50": "9TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 51": "8TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 52": "7TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 53": "6TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 54": "5TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 55": "4TH DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 56": "3RD DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 57": "2ND DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 58": "1ST DECEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 59": "30TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 60": "29TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 61": "28TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 62": "26TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 63": "25TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 64": "24TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 65": "23RD NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 66": "22ND NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 67": "21ST NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 68": "20TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 69": "19TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 70": "18TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 71": "17TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 72": "16TH NOVEMBER  2025; TIME: 1230HRS",
+          "Unnamed: 73": "15TH NOVEMBER  2025; TIME: 1230HRS"
+        },
+        {
+          "OVERLAND TRACKING REPORT": "MBARAKA",
+          "Unnamed: 1": 1,
+          "Unnamed: 2": "T320CFY",
+          "Unnamed: 3": "T326BXG-T525EFH",
+          "Unnamed: 4": "MBWANA SAID ALLY",
+          "Unnamed: 5": "IMPORT",
+          "Unnamed: 6": "BASHI",
+          "Unnamed: 7": "TANGA/LIKASI",
+          "Unnamed: 8": "Konkola enroute to Shituru ",
+          "Unnamed: 9": "Konkola enroute to Shituru ",
+          "Unnamed: 10": "K-lesa   enroute to Shituru ",
+          "Unnamed: 11": "Kapiri  enroute to Shituru ",
+          "Unnamed: 12": "Kapiri  enroute to Shituru ",
+          "Unnamed: 13": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 14": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 15": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 16": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 17": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 18": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 19": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 20": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 21": "Mpika  enroute to Shituru B/D",
+          "Unnamed: 22": "Mpika  enroute to Shituru",
+          "Unnamed: 23": "Mpika  enroute to Shituru",
+          "Unnamed: 24": "Chinsali   enroute to Shituru",
+          "Unnamed: 25": "Nakonde day 2  enroute to Shituru",
+          "Unnamed: 26": "Nakonde enroute to Shituru",
+          "Unnamed: 27": "Nakonde day 6 enroute to shituru",
+          "Unnamed: 28": "Nakonde day 5 enroute to shituru",
+          "Unnamed: 29": "Nakonde day 4 enroute to shituru",
+          "Unnamed: 30": "Nakonde day 3 enroute to shituru",
+          "Unnamed: 31": "Nakonde day 2 enroute to shituru",
+          "Unnamed: 32": "Nakonde enroute to shituru",
+          "Unnamed: 33": "Tunduma day 4  enroute to shituru",
+          "Unnamed: 34": "Tunduma day 3  enroute to shituru",
+          "Unnamed: 35": "Tunduma day 2  enroute to shituru",
+          "Unnamed: 36": "Tunduma  to enroute to shituru",
+          "Unnamed: 37": "Mlowo  to enroute to shituru",
+          "Unnamed: 38": "Mafinga  to enroute to shituru",
+          "Unnamed: 39": "Mafinga ",
+          "Unnamed: 40": "Mafinga ",
+          "Unnamed: 41": "Mafinga ",
+          "Unnamed: 42": "Ilula",
+          "Unnamed: 43": "Edha Yard ",
+          "Unnamed: 44": "Edha Yard ",
+          "Unnamed: 45": "Edha Yard ",
+          "Unnamed: 46": "Edha Yard ",
+          "Unnamed: 47": "Edha Yard ",
+          "Unnamed: 48": "Edha Yard ",
+          "Unnamed: 49": "Edha Yard ",
+          "Unnamed: 50": "Edha Yard ",
+          "Unnamed: 51": "Edha Yard ",
+          "Unnamed: 52": "Edha Yard ",
+          "Unnamed: 53": "Edha Yard ",
+          "Unnamed: 54": "Edha Yard",
+          "Unnamed: 55": "Edha Yard",
+          "Unnamed: 56": "Edha  Yard ",
+          "Unnamed: 57": "Edha Yard",
+          "Unnamed: 58": "Sokota Yard enroute to Tazara Dar",
+          "Unnamed: 59": "Sokota Yard enroute to Tazara Dar",
+          "Unnamed: 60": "Sokota Yard enroute to Tazara Dar",
+          "Unnamed: 61": "Morogoro enroute to Tazara Dar",
+          "Unnamed: 62": "Tunduma enroute to Tazara Dar",
+          "Unnamed: 63": "Nakonde day 3  enroute to Tazara Dar",
+          "Unnamed: 64": "Nakonde day 2  enroute to Tazara Dar",
+          "Unnamed: 65": "Nakonde  enroute to Tazara Dar",
+          "Unnamed: 66": "Mutoweka  enroute to Tazara Dar",
+          "Unnamed: 67": "Ndola enroute to Tazara Dar",
+          "Unnamed: 68": "K-lesa enroute to Tazara Dar",
+          "Unnamed: 69": "Whiskey enroute to Tazara Dar",
+          "Unnamed: 70": "K-lesa enroute to Tazara Dar",
+          "Unnamed: 71": "Whiskey enroute to Reload Dar",
+          "Unnamed: 72": "Deziwa day 10 loaded waiting release",
+          "Unnamed: 73": "Deziwa day 9 loaded waiting release"
+        },
+        {
+          "OVERLAND TRACKING REPORT": "MBARAKA",
+          "Unnamed: 1": 2,
+          "Unnamed: 2": "T327DMH",
+          "Unnamed: 3": "T657AVR-T376DTD",
+          "Unnamed: 4": "ABRAHAM FAUSTIN CHUNDU",
+          "Unnamed: 5": "IMPORT",
+          "Unnamed: 6": "G.T. OCEAN",
+          "Unnamed: 7": "DAR/LIKASI",
+          "Unnamed: 8": "K-lesa day 5  enroute to Likasi ",
+          "Unnamed: 9": "K-lesa day 4  enroute to Likasi ",
+          "Unnamed: 10": "K-lesa day 3  enroute to Likasi ",
+          "Unnamed: 11": "K-lesa day 2  enroute to Likasi ",
+          "Unnamed: 12": "K-lesa enroute to Likasi ",
+          "Unnamed: 13": "Konkola enroute to Likasi ",
+          "Unnamed: 14": "Ndola enroute to Likasi ",
+          "Unnamed: 15": "Ndola enroute to Likasi ",
+          "Unnamed: 16": "Ndola enroute to Likasi ",
+          "Unnamed: 17": "Ndola enroute to Likasi ",
+          "Unnamed: 18": "Ndola enroute to Likasi ",
+          "Unnamed: 19": "Mwelalo enroute to Likasi ",
+          "Unnamed: 20": "Chitembo  enroute to Likasi [ b/DOWN ] ",
+          "Unnamed: 21": "Chitembo  enroute to Likasi [ b/DOWN ] ",
+          "Unnamed: 22": "Chitembo  enroute to Likasi [ b/DOWN ] ",
+          "Unnamed: 23": "Chitembo  enroute to Likasi [ b/DOWN ] ",
+          "Unnamed: 24": "Chitembo  enroute to Likasi [ b/DOWN ] ",
+          "Unnamed: 25": "Chitembo  enroute to Likasi",
+          "Unnamed: 26": "Msuruko enroute to Likasi",
+          "Unnamed: 27": "Mkasi  enroute to Likasi",
+          "Unnamed: 28": "Nakonde enroute to Likasi",
+          "Unnamed: 29": "Tunduma day 4   enroute to Likasi",
+          "Unnamed: 30": "Tunduma day 3   enroute to Likasi",
+          "Unnamed: 31": "Tunduma day 2   enroute to Likasi",
+          "Unnamed: 32": "Tunduma  enroute to Likasi",
+          "Unnamed: 33": "Mbeya   enroute to Likasi",
+          "Unnamed: 34": "Makambako   enroute to Likasi",
+          "Unnamed: 35": "Makambako   enroute to Likasi",
+          "Unnamed: 36": "Makambako   enroute to Likasi",
+          "Unnamed: 37": "Makambako   enroute to Likasi",
+          "Unnamed: 38": "Makambako   enroute to Likasi",
+          "Unnamed: 39": "Makambako   enroute to Likasi",
+          "Unnamed: 40": "Makambako   enroute to Likasi",
+          "Unnamed: 41": "Makambako   enroute to Likasi",
+          "Unnamed: 42": "Makambako   enroute to Likasi",
+          "Unnamed: 43": "Makambako   enroute to Likasi",
+          "Unnamed: 44": "Makambako   enroute to Likasi",
+          "Unnamed: 45": "Makambako   enroute to Likasi",
+          "Unnamed: 46": "Makambako   enroute to Likasi",
+          "Unnamed: 47": "Makambako   enroute to Likasi b/d",
+          "Unnamed: 48": "Makambako   enroute to Likasi b/d",
+          "Unnamed: 49": "Makambako   enroute to Likasi b/d",
+          "Unnamed: 50": "Makambako   enroute to Likasi b/d",
+          "Unnamed: 51": "Makambako   enroute to Likasi b/d",
+          "Unnamed: 52": "Makambako   enroute to Likasi b/d",
+          "Unnamed: 53": "Makambako   enroute to Likasi ",
+          "Unnamed: 54": "Makambako   enroute to Likasi ",
+          "Unnamed: 55": "Makambako   enroute to Likasi ",
+          "Unnamed: 56": "Makambako   enroute to Likasi ",
+          "Unnamed: 57": "Makambako   enroute to Likasi ",
+          "Unnamed: 58": "Mahenge  enroute to Likasi ",
+          "Unnamed: 59": "Msolwa enroute to Likasi ",
+          "Unnamed: 60": "Misugusugu enroute to Likasi ",
+          "Unnamed: 61": "Misugusugu enroute to Likasi ",
+          "Unnamed: 62": "Misugusugu enroute to Likasi ",
+          "Unnamed: 63": "Kibaha",
+          "Unnamed: 64": "Kibaha",
+          "Unnamed: 65": "Edha Yard",
+          "Unnamed: 66": "Edha Yard",
+          "Unnamed: 67": "Edha Yard",
+          "Unnamed: 68": "Edha Yard",
+          "Unnamed: 69": "Edha Yard",
+          "Unnamed: 70": "Edha Yard",
+          "Unnamed: 71": "Edha Yard",
+          "Unnamed: 72": "Edha Yard",
+          "Unnamed: 73": "Edha Yard B/d"
+        }
+      ]
+    },
+    "SOLD": {
+      "total_rows": 14,
+      "total_columns": 2,
+      "columns": [
+        {
+          "name": "1",
+          "dtype": "int64",
+          "non_null_count": 14
+        },
+        {
+          "name": "T549DCZ",
+          "dtype": "object",
+          "non_null_count": 14
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "1": 2,
+          "T549DCZ": "T587BWS"
+        },
+        {
+          "1": 3,
+          "T549DCZ": "T318CEA"
+        },
+        {
+          "1": 4,
+          "T549DCZ": "T643CKK"
+        }
+      ]
+    }
+  }
+}

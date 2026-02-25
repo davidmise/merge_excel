@@ -1,0 +1,868 @@
+{
+  "filename": "Demurrage Charges Access World  IMPORT..xlsx",
+  "file_size": 31433,
+  "last_modified": "2026-01-26T09:30:17.964120",
+  "total_sheets": 6,
+  "sheets": {
+    "DEMURRAGE CHARGES": {
+      "total_rows": 11,
+      "total_columns": 17,
+      "columns": [
+        {
+          "name": "Overland Group of Companies",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Total Amount in USD",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "1600",
+          "dtype": "object",
+          "non_null_count": 10
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group of Companies": "Access World -- Overland Truck demurrage charges report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Total Amount in USD": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": "",
+          "1600": ""
+        },
+        {
+          "Overland Group of Companies": "Haulier Name",
+          "Unnamed: 1": "BL No.",
+          "Unnamed: 2": "Truck Registration",
+          "Unnamed: 3": "Trailer 1",
+          "Unnamed: 4": "Current Location",
+          "Unnamed: 5": "Remark",
+          "Unnamed: 6": "K-lesa Arr Date ",
+          "Unnamed: 7": "Whiskey Dispatch Date",
+          "Unnamed: 8": "Arrived-to-Dispatch Delays days",
+          "Unnamed: 9": "Destination Arr Date ",
+          "Unnamed: 10": "Offloading   Date ",
+          "Unnamed: 11": "Offloading Delays day ",
+          "Unnamed: 12": "Free Days",
+          "Total Amount in USD": "Chargeable Demurrage Days",
+          "Unnamed: 14": "Parking penalty",
+          "Unnamed: 15": "Rate",
+          "1600": "Total"
+        },
+        {
+          "Overland Group of Companies": "Overland",
+          "Unnamed: 1": "DQ/001",
+          "Unnamed: 2": "T543DYT",
+          "Unnamed: 3": "T861DZC",
+          "Unnamed: 4": "Offloaded",
+          "Unnamed: 5": "Completed",
+          "Unnamed: 6": "2025-11-26T00:00:00",
+          "Unnamed: 7": "2025-12-02T00:00:00",
+          "Unnamed: 8": 6,
+          "Unnamed: 9": "2025-12-03T00:00:00",
+          "Unnamed: 10": "2025-12-04T00:00:00",
+          "Unnamed: 11": 1,
+          "Unnamed: 12": 7,
+          "Total Amount in USD": 0,
+          "Unnamed: 14": 150,
+          "Unnamed: 15": 250,
+          "1600": 150
+        }
+      ]
+    },
+    "GOSUSNH8490239": {
+      "total_rows": 12,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "Overland Group of Companies",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Total Amount in USD",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 10
+        },
+        {
+          "name": "5000",
+          "dtype": "object",
+          "non_null_count": 11
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group of Companies": "Marimpex -- Overland Truck demurrage charges report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Total Amount in USD": "",
+          "Unnamed: 14": "",
+          "5000": ""
+        },
+        {
+          "Overland Group of Companies": "Haulier Name",
+          "Unnamed: 1": "Truck Registration",
+          "Unnamed: 2": "Trailer 1",
+          "Unnamed: 3": "Trailer 2",
+          "Unnamed: 4": "Current Location",
+          "Unnamed: 5": "Remark",
+          "Unnamed: 6": "K-lesa Arr Date ",
+          "Unnamed: 7": "Whiskey Dispatch Date",
+          "Unnamed: 8": "Arrived-to-Dispatch Delays days",
+          "Unnamed: 9": "Destination Arr Date ",
+          "Unnamed: 10": "Offloading   Date ",
+          "Unnamed: 11": "Offloading Delays day ",
+          "Unnamed: 12": "Free Days",
+          "Total Amount in USD": "Chargeable Demurrage Days",
+          "Unnamed: 14": "Rate",
+          "5000": "Total"
+        },
+        {
+          "Overland Group of Companies": "Overland",
+          "Unnamed: 1": "T361BUX",
+          "Unnamed: 2": "T724DCE",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "2025-04-07T00:00:00",
+          "Unnamed: 7": "2025-04-22T00:00:00",
+          "Unnamed: 8": 15,
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 0,
+          "Unnamed: 12": 10,
+          "Total Amount in USD": 5,
+          "Unnamed: 14": 250,
+          "5000": 1250
+        }
+      ]
+    },
+    "GOSUSNH20976372": {
+      "total_rows": 7,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "Overland Group of Companies",
+          "dtype": "object",
+          "non_null_count": 6
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 2
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Total Amount in USD",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 5
+        },
+        {
+          "name": "4500",
+          "dtype": "object",
+          "non_null_count": 6
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group of Companies": "Marimpex -- Overland Truck demurrage charges report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Total Amount in USD": "",
+          "Unnamed: 14": "",
+          "4500": ""
+        },
+        {
+          "Overland Group of Companies": "Haulier Name",
+          "Unnamed: 1": "Truck Registration",
+          "Unnamed: 2": "Trailer 1",
+          "Unnamed: 3": "Trailer 2",
+          "Unnamed: 4": "Current Location",
+          "Unnamed: 5": "Remark",
+          "Unnamed: 6": "K-lesa Arr Date ",
+          "Unnamed: 7": "Whiskey Dispatch Date",
+          "Unnamed: 8": "Arrived-to-Dispatch Delays days",
+          "Unnamed: 9": "Destination Arr Date ",
+          "Unnamed: 10": "Offloading   Date ",
+          "Unnamed: 11": "Offloading Delays day ",
+          "Unnamed: 12": "Free Days",
+          "Total Amount in USD": "Chargeable Demurrage Days",
+          "Unnamed: 14": "Rate",
+          "4500": "Total"
+        },
+        {
+          "Overland Group of Companies": "Overland",
+          "Unnamed: 1": "T778DDQ",
+          "Unnamed: 2": "T841DDV",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "2025-04-08T00:00:00",
+          "Unnamed: 7": "2025-04-24T00:00:00",
+          "Unnamed: 8": 16,
+          "Unnamed: 9": "2025-04-27T00:00:00",
+          "Unnamed: 10": "",
+          "Unnamed: 11": -45774,
+          "Unnamed: 12": 10,
+          "Total Amount in USD": 0,
+          "Unnamed: 14": 250,
+          "4500": 0
+        }
+      ]
+    },
+    "EPIRCHNSHG011298": {
+      "total_rows": 9,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "Overland Group of Companies",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 4
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Total Amount in USD",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "0",
+          "dtype": "object",
+          "non_null_count": 8
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group of Companies": "Marimpex -- Overland Truck demurrage charges report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Total Amount in USD": "",
+          "Unnamed: 14": "",
+          "0": ""
+        },
+        {
+          "Overland Group of Companies": "Haulier Name",
+          "Unnamed: 1": "Truck Registration",
+          "Unnamed: 2": "Trailer 1",
+          "Unnamed: 3": "Trailer 2",
+          "Unnamed: 4": "Current Location",
+          "Unnamed: 5": "Remark",
+          "Unnamed: 6": "K-lesa Arr Date ",
+          "Unnamed: 7": "Whiskey Dispatch Date",
+          "Unnamed: 8": "Arrived-to-Dispatch Delays days",
+          "Unnamed: 9": "Destination Arr Date ",
+          "Unnamed: 10": "Offloading   Date ",
+          "Unnamed: 11": "Offloading Delays day ",
+          "Unnamed: 12": "Free Days",
+          "Total Amount in USD": "Chargeable Demurrage Days",
+          "Unnamed: 14": "Rate",
+          "0": "Total"
+        },
+        {
+          "Overland Group of Companies": "Overland",
+          "Unnamed: 1": "T945EGZ",
+          "Unnamed: 2": "T773EFA",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "2025-04-14T00:00:00",
+          "Unnamed: 7": "2025-04-24T00:00:00",
+          "Unnamed: 8": 10,
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 0,
+          "Unnamed: 12": 10,
+          "Total Amount in USD": 0,
+          "Unnamed: 14": 250,
+          "0": 0
+        }
+      ]
+    },
+    "SHCR50003900": {
+      "total_rows": 13,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "Overland Group of Companies",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 9
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Total Amount in USD",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 11
+        },
+        {
+          "name": "0",
+          "dtype": "object",
+          "non_null_count": 12
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group of Companies": "Marimpex -- Overland Truck demurrage charges report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Total Amount in USD": "",
+          "Unnamed: 14": "",
+          "0": ""
+        },
+        {
+          "Overland Group of Companies": "Haulier Name",
+          "Unnamed: 1": "Truck Registration",
+          "Unnamed: 2": "Trailer 1",
+          "Unnamed: 3": "Trailer 2",
+          "Unnamed: 4": "Current Location",
+          "Unnamed: 5": "Remark",
+          "Unnamed: 6": "K-lesa Arr Date ",
+          "Unnamed: 7": "Whiskey Dispatch Date",
+          "Unnamed: 8": "Arrived-to-Dispatch Delays days",
+          "Unnamed: 9": "Destination Arr Date ",
+          "Unnamed: 10": "Offloading   Date ",
+          "Unnamed: 11": "Offloading Delays day ",
+          "Unnamed: 12": "Free Days",
+          "Total Amount in USD": "Chargeable Demurrage Days",
+          "Unnamed: 14": "Rate",
+          "0": "Total"
+        },
+        {
+          "Overland Group of Companies": "Overland",
+          "Unnamed: 1": "T252ELP",
+          "Unnamed: 2": "T309ELJ",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "2025-04-20T00:00:00",
+          "Unnamed: 7": "",
+          "Unnamed: 8": -45767,
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 0,
+          "Unnamed: 12": 10,
+          "Total Amount in USD": 0,
+          "Unnamed: 14": 250,
+          "0": 0
+        }
+      ]
+    },
+    "GOSUSNH20976503": {
+      "total_rows": 9,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "Overland Group of Companies",
+          "dtype": "object",
+          "non_null_count": 8
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Total Amount in USD",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "0",
+          "dtype": "object",
+          "non_null_count": 8
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Overland Group of Companies": "Marimpex -- Overland Truck demurrage charges report",
+          "Unnamed: 1": "",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Total Amount in USD": "",
+          "Unnamed: 14": "",
+          "0": ""
+        },
+        {
+          "Overland Group of Companies": "Haulier Name",
+          "Unnamed: 1": "Truck Registration",
+          "Unnamed: 2": "Trailer 1",
+          "Unnamed: 3": "Trailer 2",
+          "Unnamed: 4": "Current Location",
+          "Unnamed: 5": "Remark",
+          "Unnamed: 6": "K-lesa Arr Date ",
+          "Unnamed: 7": "Whiskey Dispatch Date",
+          "Unnamed: 8": "Arrived-to-Dispatch Delays days",
+          "Unnamed: 9": "Destination Arr Date ",
+          "Unnamed: 10": "Offloading   Date ",
+          "Unnamed: 11": "Offloading Delays day ",
+          "Unnamed: 12": "Free Days",
+          "Total Amount in USD": "Chargeable Demurrage Days",
+          "Unnamed: 14": "Rate",
+          "0": "Total"
+        },
+        {
+          "Overland Group of Companies": "Overland",
+          "Unnamed: 1": "T147DNF",
+          "Unnamed: 2": "T151DNF",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": 0,
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": 0,
+          "Unnamed: 12": 10,
+          "Total Amount in USD": 0,
+          "Unnamed: 14": 250,
+          "0": 0
+        }
+      ]
+    }
+  }
+}
