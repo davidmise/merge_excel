@@ -1,0 +1,558 @@
+{
+  "filename": "BREAKDOWNS REPORT.xlsx",
+  "file_size": 245526,
+  "last_modified": "2026-01-26T09:35:16.875632",
+  "total_sheets": 5,
+  "sheets": {
+    "SEPTEMBER": {
+      "total_rows": 184,
+      "total_columns": 12,
+      "columns": [
+        {
+          "name": "CLOSED",
+          "dtype": "object",
+          "non_null_count": 173
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 172
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 172
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 174
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 172
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 172
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 172
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 172
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 160
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 171
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 166
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "CLOSED": "S/NO.",
+          "Unnamed: 1": "TRUCK",
+          "Unnamed: 2": "TRAILER",
+          "Unnamed: 3": "DRIVER NAME",
+          "Unnamed: 4": "B/DOWN PLACE",
+          "Unnamed: 5": "PROBLEM DIAGNOSED",
+          "Unnamed: 6": "INCHARGE",
+          "Unnamed: 7": "B/DOWN DATE",
+          "Unnamed: 8": "B/D DATE END",
+          "Unnamed: 9": "DAYS AT B/DOWN",
+          "Unnamed: 10": "CLIENT",
+          "Unnamed: 11": "STATUS"
+        },
+        {
+          "CLOSED": 1,
+          "Unnamed: 1": "T350DWZ",
+          "Unnamed: 2": "T645CKC",
+          "Unnamed: 3": "MAKWAYA ATHUMANI MLUNDI",
+          "Unnamed: 4": "NDOLA",
+          "Unnamed: 5": "GEAR/ CLUTCH PLATE",
+          "Unnamed: 6": "LUQMAN",
+          "Unnamed: 7": "2025-09-01T00:00:00",
+          "Unnamed: 8": "2025-09-03T00:00:00",
+          "Unnamed: 9": 2,
+          "Unnamed: 10": "SLS",
+          "Unnamed: 11": "IMPORT "
+        },
+        {
+          "CLOSED": 2,
+          "Unnamed: 1": "T895ECV",
+          "Unnamed: 2": "T697CKC",
+          "Unnamed: 3": "IDDI HASSAN CHILEU",
+          "Unnamed: 4": "NAKONDE",
+          "Unnamed: 5": "U-BOLT",
+          "Unnamed: 6": "SULEYM",
+          "Unnamed: 7": "2025-09-02T00:00:00",
+          "Unnamed: 8": "2025-09-03T00:00:00",
+          "Unnamed: 9": 1,
+          "Unnamed: 10": "SLS",
+          "Unnamed: 11": "IMPORT "
+        }
+      ]
+    },
+    "OCTOBER ": {
+      "total_rows": 196,
+      "total_columns": 12,
+      "columns": [
+        {
+          "name": "CLOSED",
+          "dtype": "object",
+          "non_null_count": 188
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 187
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 187
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 189
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 187
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 187
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 186
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 187
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 167
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 185
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 186
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 183
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "CLOSED": "S/NO.",
+          "Unnamed: 1": "TRUCK",
+          "Unnamed: 2": "TRAILER",
+          "Unnamed: 3": "DRIVER NAME",
+          "Unnamed: 4": "B/DOWN PLACE",
+          "Unnamed: 5": "PROBLEM DIAGNOSED",
+          "Unnamed: 6": "INCHARGE",
+          "Unnamed: 7": "B/DOWN DATE",
+          "Unnamed: 8": "B/D DATE END",
+          "Unnamed: 9": "DAYS AT B/DOWN",
+          "Unnamed: 10": "CLIENT",
+          "Unnamed: 11": "STATUS"
+        },
+        {
+          "CLOSED": 1,
+          "Unnamed: 1": "T696CXU",
+          "Unnamed: 2": "T712AQU",
+          "Unnamed: 3": "GODFREY TUMAINI KOMBA",
+          "Unnamed: 4": "MBALAMAZIWA",
+          "Unnamed: 5": "CLUTCH/OVERHEATING",
+          "Unnamed: 6": "ANTAR",
+          "Unnamed: 7": "2025-10-01T00:00:00",
+          "Unnamed: 8": "2025-10-01T00:00:00",
+          "Unnamed: 9": 0,
+          "Unnamed: 10": "GLENCORE",
+          "Unnamed: 11": "IMPORT"
+        },
+        {
+          "CLOSED": 2,
+          "Unnamed: 1": "T329DWZ",
+          "Unnamed: 2": "T213DCZ-T554DTR",
+          "Unnamed: 3": "JORDAN NICODEMUS MATWEGULA",
+          "Unnamed: 4": "VINGUNGUTI",
+          "Unnamed: 5": "AIR LEAKAGE",
+          "Unnamed: 6": "ANTAR",
+          "Unnamed: 7": "2025-09-30T00:00:00",
+          "Unnamed: 8": "2025-10-01T00:00:00",
+          "Unnamed: 9": 1,
+          "Unnamed: 10": "GT OCEAN",
+          "Unnamed: 11": "IMPORT"
+        }
+      ]
+    },
+    "NOVEMBER ": {
+      "total_rows": 207,
+      "total_columns": 12,
+      "columns": [
+        {
+          "name": "CLOSED",
+          "dtype": "object",
+          "non_null_count": 197
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 196
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 196
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 198
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 196
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 196
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 190
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 196
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 174
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 191
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 196
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 182
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "CLOSED": "S/NO.",
+          "Unnamed: 1": "TRUCK",
+          "Unnamed: 2": "TRAILER",
+          "Unnamed: 3": "DRIVER NAME",
+          "Unnamed: 4": "B/DOWN PLACE",
+          "Unnamed: 5": "PROBLEM DIAGNOSED",
+          "Unnamed: 6": "INCHARGE",
+          "Unnamed: 7": "B/DOWN DATE",
+          "Unnamed: 8": "B/D DATE END",
+          "Unnamed: 9": "DAYS AT B/DOWN",
+          "Unnamed: 10": "CLIENT",
+          "Unnamed: 11": "STATUS"
+        },
+        {
+          "CLOSED": 1,
+          "Unnamed: 1": "T374DCA",
+          "Unnamed: 2": "T360CRT",
+          "Unnamed: 3": "ALI MWINYIJUMA MABADI",
+          "Unnamed: 4": "NDOLA",
+          "Unnamed: 5": "TBA",
+          "Unnamed: 6": "LUQMAN",
+          "Unnamed: 7": "2025-11-01T00:00:00",
+          "Unnamed: 8": "2025-11-05T00:00:00",
+          "Unnamed: 9": 4,
+          "Unnamed: 10": "GT OCEAN ",
+          "Unnamed: 11": "IMPORT "
+        },
+        {
+          "CLOSED": 2,
+          "Unnamed: 1": "T679CJT",
+          "Unnamed: 2": "T925CTU-T216EMM",
+          "Unnamed: 3": "EZEKIEL SAMWEL SHILAYE",
+          "Unnamed: 4": "FUNGURUME",
+          "Unnamed: 5": "BATTERIES",
+          "Unnamed: 6": "MGIRIC",
+          "Unnamed: 7": "2025-10-21T00:00:00",
+          "Unnamed: 8": "2025-11-05T00:00:00",
+          "Unnamed: 9": 15,
+          "Unnamed: 10": "GT OCEAN",
+          "Unnamed: 11": "IMPORT"
+        }
+      ]
+    },
+    "DECEMBER  ": {
+      "total_rows": 234,
+      "total_columns": 12,
+      "columns": [
+        {
+          "name": "CLOSED",
+          "dtype": "object",
+          "non_null_count": 229
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 228
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 228
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 230
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 228
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 228
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 228
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 228
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 208
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 227
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 228
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 216
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "CLOSED": "S/NO.",
+          "Unnamed: 1": "TRUCK",
+          "Unnamed: 2": "TRAILER",
+          "Unnamed: 3": "DRIVER NAME",
+          "Unnamed: 4": "B/DOWN PLACE",
+          "Unnamed: 5": "PROBLEM DIAGNOSED",
+          "Unnamed: 6": "INCHARGE",
+          "Unnamed: 7": "B/DOWN DATE",
+          "Unnamed: 8": "B/D DATE END",
+          "Unnamed: 9": "DAYS AT B/DOWN",
+          "Unnamed: 10": "CLIENT",
+          "Unnamed: 11": "STATUS"
+        },
+        {
+          "CLOSED": 1,
+          "Unnamed: 1": "T504EBT",
+          "Unnamed: 2": "TBA",
+          "Unnamed: 3": "TBA",
+          "Unnamed: 4": "KITONGA",
+          "Unnamed: 5": "STARTER",
+          "Unnamed: 6": "ANTAR",
+          "Unnamed: 7": "2025-11-29T00:00:00",
+          "Unnamed: 8": "2025-12-01T00:00:00",
+          "Unnamed: 9": 2,
+          "Unnamed: 10": "FARMS",
+          "Unnamed: 11": ""
+        },
+        {
+          "CLOSED": 2,
+          "Unnamed: 1": "T358DWZ",
+          "Unnamed: 2": "T194DXQ-T196DXQ",
+          "Unnamed: 3": "SAMWELI ELKANA PHILIPO",
+          "Unnamed: 4": "NAKONDE",
+          "Unnamed: 5": "RETURN BONUS ISSUE",
+          "Unnamed: 6": "ACCOUNTS",
+          "Unnamed: 7": "2025-11-26T00:00:00",
+          "Unnamed: 8": "2025-12-01T00:00:00",
+          "Unnamed: 9": 5,
+          "Unnamed: 10": "GT OCEAN",
+          "Unnamed: 11": "IMPORT"
+        }
+      ]
+    },
+    "JANUARY 2026": {
+      "total_rows": 150,
+      "total_columns": 12,
+      "columns": [
+        {
+          "name": "CLOSED",
+          "dtype": "object",
+          "non_null_count": 146
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 145
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 145
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 147
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 144
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 145
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 143
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 145
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 128
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 144
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 145
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 142
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "CLOSED": "S/NO.",
+          "Unnamed: 1": "TRUCK",
+          "Unnamed: 2": "TRAILER",
+          "Unnamed: 3": "DRIVER NAME",
+          "Unnamed: 4": "B/DOWN PLACE",
+          "Unnamed: 5": "PROBLEM DIAGNOSED",
+          "Unnamed: 6": "INCHARGE",
+          "Unnamed: 7": "B/DOWN DATE",
+          "Unnamed: 8": "B/D DATE END",
+          "Unnamed: 9": "DAYS AT B/DOWN",
+          "Unnamed: 10": "CLIENT",
+          "Unnamed: 11": "STATUS"
+        },
+        {
+          "CLOSED": 1,
+          "Unnamed: 1": "T621CKK",
+          "Unnamed: 2": "T468CBM-T220EMM",
+          "Unnamed: 3": "HAMISI JUMA SHABANI",
+          "Unnamed: 4": "TUNDUMA",
+          "Unnamed: 5": "AIRBAG",
+          "Unnamed: 6": "SULEYM",
+          "Unnamed: 7": "2025-12-30T00:00:00",
+          "Unnamed: 8": "2026-01-01T00:00:00",
+          "Unnamed: 9": 2,
+          "Unnamed: 10": "MERCURIA",
+          "Unnamed: 11": "EXPORT"
+        },
+        {
+          "CLOSED": 2,
+          "Unnamed: 1": "T157EES",
+          "Unnamed: 2": "T351EGE",
+          "Unnamed: 3": "ATHUMANI SHABANI MILLONDOMO",
+          "Unnamed: 4": "IRINGA",
+          "Unnamed: 5": "DRIVER UNWELL ",
+          "Unnamed: 6": "HR",
+          "Unnamed: 7": "2025-12-31T00:00:00",
+          "Unnamed: 8": "2026-01-02T00:00:00",
+          "Unnamed: 9": 2,
+          "Unnamed: 10": "GLENCORE",
+          "Unnamed: 11": "EXPORT "
+        }
+      ]
+    }
+  }
+}

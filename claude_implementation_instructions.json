@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "title": "Overland Tracking System — Client Report Module Implementation",
+    "description": "Step-by-step instructions for Claude Opus to implement the Client Report module in the existing CodeIgniter tracking system.",
+    "system": "CodeIgniter 3.x (verify version from system/ folder)",
+    "objective": "Implement Phase 1 (Client Tracking Report, Client Demurrage Report, Client POD Report) fully end-to-end: database schema, models, controllers, views, Excel/PDF export, and route configuration.",
+    "author": "Engineering Team",
+    "created": "2026-03-02",
+    "priority_start": "client_tracking_report"
+  },
+
+  "agent_persona": {
+    "role": "Senior PHP/CodeIgniter Engineer",
+    "style": "Professional, production-quality, no placeholder code, all edge cases handled.",
+    "constraints": [
+      "Never use raw SQL in controllers — always use the model.",
+      "Always escape output in views using esc() or htmlspecialchars().",
+      "Never expose internal IDs or sensitive fields to client-role users.",
+      "client_id filter is MANDATORY and non-optional in every client-facing query.",
+      "Follow existing CI coding conventions found in the project.",
+      "Do not install packages not listed in this file without asking first.",
+      "Read existing files before creating new ones to avoid duplication.",
+      "All dates stored as DATETIME or DATE in MySQL, displayed as dd/mm/yyyy to users.",
+      "Status column values must be handled case-insensitively."
+    ]
+  },
+
+  "prerequisites": {
+    "read_first": [
+      "application/config/database.php",
+      "application/config/routes.php",
+      "application/config/autoload.php",
+      "application/core/MY_Controller.php (if exists)",
+      "application/controllers/ (scan all files to understand auth pattern)",
+      "application/models/ (scan all files to understand existing table names)",
+      "application/views/layouts/ or application/views/templates/ (find base layout)",
+      "composer.json (check if PhpSpreadsheet is already installed)"
+    ],
+    "discover": {
+      "table_names": "Run SHOW TABLES in the database and report all table names before starting.",
+      "auth_method": "Find how the existing system checks login and role — replicate exactly.",
+      "session_keys": "Find what session keys are used for client_id and user role.",
+      "base_url": "Check application/config/config.php for base_url.",
+      "existing_models": "List all existing model files and their primary methods."
+    }
+  },
+
+  "dependencies": {
+    "composer": {
+      "require": {
+        "phpoffice/phpspreadsheet": "^2.0",
+        "dompdf/dompdf": "^2.0"
+      },
+      "install_command": "composer require phpoffice/phpspreadsheet dompdf/dompdf",
+      "note": "Run from the CodeIgniter project root. If Composer is not set up, add require autoload to index.php or application/config/autoload.php."
+    },
+    "autoload_update": {
+      "file": "application/config/autoload.php",
+      "add_to_helpers": ["report"],
+      "add_to_libraries": [],
+      "note": "Report_exporter library should be loaded per-controller, not globally."
+    }
+  },
+
+  "steps": [
+
+    {
+      "step": 1,
+      "title": "Discover and Document Existing Schema",
+      "description": "Before writing any code, query the database to understand existing tables.",
+      "actions": [
+        {
+          "action": "execute_sql",
+          "sql": "SHOW TABLES;",
+          "purpose": "List all tables related to opm_workflow_ to find shipments, drivers, vehicles, clients, etc."
+        },
+        {
+          "action": "execute_sql",
+          "sql": "DESCRIBE shipments;",
+          "purpose": "Understand existing shipment column names — critical before building view."
+        },
+        {
+          "action": "execute_sql",
+          "sql": "DESCRIBE drivers;",
+          "purpose": "Understand driver table column names."
+        },
+        {
+          "action": "execute_sql",
+          "sql": "DESCRIBE vehicles;",
+          "purpose": "Understand vehicle/truck table column names."
+        },
+        {
+          "action": "execute_sql",
+          "sql": "DESCRIBE clients;",
+          "purpose": "Understand client table column names."
+        },
+        {
+          "action": "adapt_schema",
+          "instruction": "After discovering actual column names, adapt ALL subsequent SQL, model queries, and view variable names to match the existing schema. Do NOT assume column names — use what exists."
+        }
+      ]
+    },
+
+    {
+      "step": 2,
+      "title": "Create shipment_milestones Table if not exists using existing table nameoing conventions",
+      "description": "Create the checkpoint/milestone tracking table if it does not already exist.",
+      "actions": [
+        {
+          "action": "check_first",
+          "sql": "SHOW TABLES LIKE 'shipment_milestones';",
+          "if_exists": "Skip creation, verify columns match spec.",
+          "if_not_exists": "Run CREATE TABLE below."
+        },
+        {
+          "action": "execute_sql",
+          "sql": "CREATE TABLE IF NOT EXISTS shipment_milestones (\n  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,\n  shipment_id INT UNSIGNED NOT NULL,\n  checkpoint ENUM('loading_point','tunduma_tz','nakonde_zm','kasumbalesa_zm','kasumbalesa_drc','whiskey','destination','offloaded','pod_received') NOT NULL,\n  arrived_at DATETIME NULL,\n  departed_at DATETIME NULL,\n  notes TEXT NULL,\n  recorded_by INT UNSIGNED NULL,\n  created_at DATETIME DEFAULT CURRENT_TIMESTAMP,\n  updated_at DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,\n  UNIQUE KEY uniq_shipment_checkpoint (shipment_id, checkpoint),\n  INDEX idx_shipment (shipment_id)\n);"
+        },
+        {
+          "action": "verify",
+          "sql": "DESCRIBE shipment_milestones;",
+          "expected": "Table exists with all 9 columns."
+        }
+      ]
+    },
+
+    {
+      "step": 3,
+      "title": "Create demurrage_records Table",
+      "actions": [
+        {
+          "action": "check_first",
+          "sql": "SHOW TABLES LIKE 'demurrage_records';",
+          "if_not_exists": "Run CREATE TABLE below."
+        },
+        {
+          "action": "execute_sql",
+          "sql": "CREATE TABLE IF NOT EXISTS demurrage_records (\n  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,\n  shipment_id INT UNSIGNED NOT NULL,\n  client_id INT UNSIGNED NOT NULL,\n  charge_leg ENUM('border','offloading','mine_loading') NOT NULL,\n  reference_date_from DATE NOT NULL,\n  reference_date_to DATE NULL,\n  free_days TINYINT NOT NULL DEFAULT 7,\n  total_days SMALLINT NOT NULL DEFAULT 0,\n  rate_per_day_usd DECIMAL(10,2) NOT NULL DEFAULT 250.00,\n  parking_penalty_usd DECIMAL(10,2) NOT NULL DEFAULT 0.00,\n  status ENUM('draft','invoiced','paid','disputed') DEFAULT 'draft',\n  invoice_ref VARCHAR(60) NULL,\n  notes TEXT NULL,\n  created_at DATETIME DEFAULT CURRENT_TIMESTAMP,\n  updated_at DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,\n  INDEX idx_client (client_id),\n  INDEX idx_shipment (shipment_id)\n);"
+        }
+      ]
+    },
+
+    {
+      "step": 4,
+      "title": "Create pod_records Table",
+      "actions": [
+        {
+          "action": "check_first",
+          "sql": "SHOW TABLES LIKE 'pod_records';",
+          "if_not_exists": "Run CREATE TABLE below."
+        },
+        {
+          "action": "execute_sql",
+          "sql": "CREATE TABLE IF NOT EXISTS pod_records (\n  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,\n  shipment_id INT UNSIGNED NOT NULL UNIQUE,\n  pod_status ENUM('PENDING','RECEIVED') NOT NULL DEFAULT 'PENDING',\n  received_date DATE NULL,\n  notes TEXT NULL,\n  recorded_by INT UNSIGNED NULL,\n  created_at DATETIME DEFAULT CURRENT_TIMESTAMP,\n  updated_at DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP\n);"
+        }
+      ]
+    },
+
+    {
+      "step": 5,
+      "title": "Create v_active_shipments Database View",
+      "description": "This view is the single source of truth for all report queries. It joins shipments with vehicles, trailers, drivers, clients, and all milestone checkpoints into one flat row per shipment.",
+      "critical_note": "Adapt ALL table and column names to match what you discovered in Step 1. If the vehicles table is called 'trucks', change it. If 'driver_name' is 'full_name', change it. The query structure stays the same — only names change.",
+      "actions": [
+        {
+          "action": "execute_sql",
+          "sql": "CREATE OR REPLACE VIEW v_active_shipments AS\nSELECT\n  s.id,\n  s.shipping_order,\n  s.direction,\n  v.truck_reg,\n  t1.trailer_reg AS trailer_1,\n  t2.trailer_reg AS trailer_2,\n  d.full_name AS driver_name,\n  d.phone AS driver_phone,\n  d.passport AS driver_passport,\n  d.license_no AS driver_license,\n  c.name AS client_name,\n  s.product,\n  s.weight_net,\n  s.weight_gross,\n  s.bag_count,\n  s.bl_number,\n  s.lot_number,\n  s.invoice_number,\n  s.origin,\n  s.destination,\n  s.corridor,\n  s.current_location,\n  s.status,\n  s.remarks,\n  s.allocated_date,\n  ms_load.arrived_at  AS loading_date,\n  ms_load.departed_at AS dispatch_date,\n  ms_tund.arrived_at  AS tunduma_arrival,\n  ms_tund.departed_at AS tunduma_dispatch,\n  ms_nako.arrived_at  AS nakonde_arrival,\n  ms_nako.departed_at AS nakonde_dispatch,\n  ms_klza.arrived_at  AS kasumbalesa_zm_arrival,\n  ms_kldrc.arrived_at AS kasumbalesa_drc_arrival,\n  ms_kldrc.departed_at AS kasumbalesa_drc_dispatch,\n  ms_whis.arrived_at  AS whiskey_arrival,\n  ms_whis.departed_at AS whiskey_dispatch,\n  ms_dest.arrived_at  AS destination_arrival,\n  ms_offl.arrived_at  AS offloaded_date,\n  ms_pod.arrived_at   AS pod_received_date,\n  DATEDIFF(COALESCE(ms_offl.arrived_at, NOW()), ms_load.arrived_at) AS total_days_in_transit,\n  s.client_id,\n  s.vehicle_id,\n  s.driver_id\nFROM shipments s\nJOIN vehicles v ON v.id = s.vehicle_id\nLEFT JOIN trailers t1 ON t1.id = s.trailer_1_id\nLEFT JOIN trailers t2 ON t2.id = s.trailer_2_id\nJOIN drivers d ON d.id = s.driver_id\nJOIN clients c ON c.id = s.client_id\nLEFT JOIN shipment_milestones ms_load  ON ms_load.shipment_id  = s.id AND ms_load.checkpoint  = 'loading_point'\nLEFT JOIN shipment_milestones ms_tund  ON ms_tund.shipment_id  = s.id AND ms_tund.checkpoint  = 'tunduma_tz'\nLEFT JOIN shipment_milestones ms_nako  ON ms_nako.shipment_id  = s.id AND ms_nako.checkpoint  = 'nakonde_zm'\nLEFT JOIN shipment_milestones ms_klza  ON ms_klza.shipment_id  = s.id AND ms_klza.checkpoint  = 'kasumbalesa_zm'\nLEFT JOIN shipment_milestones ms_kldrc ON ms_kldrc.shipment_id = s.id AND ms_kldrc.checkpoint = 'kasumbalesa_drc'\nLEFT JOIN shipment_milestones ms_whis  ON ms_whis.shipment_id  = s.id AND ms_whis.checkpoint  = 'whiskey'\nLEFT JOIN shipment_milestones ms_dest  ON ms_dest.shipment_id  = s.id AND ms_dest.checkpoint  = 'destination'\nLEFT JOIN shipment_milestones ms_offl  ON ms_offl.shipment_id  = s.id AND ms_offl.checkpoint  = 'offloaded'\nLEFT JOIN shipment_milestones ms_pod   ON ms_pod.shipment_id   = s.id AND ms_pod.checkpoint   = 'pod_received'\nWHERE s.deleted_at IS NULL;",
+          "note": "If the shipments table has no deleted_at column, remove the WHERE clause or adapt it."
+        },
+        {
+          "action": "verify",
+          "sql": "SELECT * FROM v_active_shipments LIMIT 1;",
+          "expected": "Returns at least one row without error. If error, fix column name mismatches."
+        }
+      ]
+    },
+
+    {
+      "step": 6,
+      "title": "Create report_helper.php",
+      "file": "application/helpers/report_helper.php",
+      "description": "check if they exist first then create. Helper functions shared across all report views and controllers.",
+      "functions_to_implement": [
+        {
+          "name": "report_days_diff",
+          "signature": "report_days_diff(?string $from, ?string $to = null): int",
+          "description": "Returns number of days between two dates. $to defaults to today. Returns 0 if $from is empty."
+        },
+        {
+          "name": "rpt_date",
+          "signature": "rpt_date(?string $datetime, string $format = 'd/m/Y'): string",
+          "description": "Formats a datetime string for display. Returns '—' for null/empty/zero dates."
+        },
+        {
+          "name": "status_badge",
+          "signature": "status_badge(string $status): string",
+          "description": "Returns Bootstrap badge HTML based on status string. breakdown=danger, offloaded=success, border=warning, enroute=info, default=secondary. Case-insensitive matching."
+        },
+        {
+          "name": "overdue_class",
+          "signature": "overdue_class(int $days, int $threshold = 30): string",
+          "description": "Returns Bootstrap table row class: 'table-danger' if days > threshold, 'table-warning' if days > 75% of threshold, '' otherwise."
+        }
+      ],
+      "action": "Create this file with all 4 functions. Add defined('BASEPATH') check at top."
+    },
+
+    {
+      "step": 7,
+      "title": "Create Shipment_report_model.php",
+      "file": "application/models/reports/Shipment_report_model.php",
+      "description": "The single model for all report queries. Place in a reports/ subfolder.",
+      "methods_to_implement": [
+        {
+          "name": "__construct",
+          "description": "Call parent::__construct(), $this->load->database()"
+        },
+        {
+          "name": "get_client_tracking",
+          "params": "array $f",
+          "returns": "array",
+          "description": "Query v_active_shipments with mandatory client_id filter plus optional date_from, date_to, direction, status filters. Order by loading_date DESC.",
+          "security": "client_id MUST always be applied — never skip this filter."
+        },
+        {
+          "name": "get_client_summary",
+          "params": "array $f",
+          "returns": "array",
+          "description": "Returns associative array with keys: total, in_transit, completed, breakdowns, at_border. Uses SUM() with LIKE conditions on status field."
+        },
+        {
+          "name": "get_demurrage_for_client",
+          "params": "array $f",
+          "returns": "array",
+          "description": "JOIN demurrage_records with shipments and vehicles/trailers. Filter by client_id (mandatory), date range on reference_date_from, optional status."
+        },
+        {
+          "name": "get_demurrage_totals",
+          "params": "array $f",
+          "returns": "array",
+          "description": "SUM(total_days), SUM(chargeable_days), SUM(total_amount_usd) for the client. Inline calculation: chargeable = GREATEST(0, total_days - free_days), amount = chargeable * rate_per_day_usd."
+        },
+        {
+          "name": "get_pod_for_client",
+          "params": "array $f",
+          "returns": "array",
+          "description": "JOIN v_active_shipments with pod_records (LEFT JOIN). Filter by client_id, date range on offloaded_date, optional pod_status. Order by offloaded_date DESC."
+        },
+        {
+          "name": "get_all_clients_list",
+          "returns": "array",
+          "description": "Simple SELECT id, name FROM clients ORDER BY name. Used for filter dropdowns in internal reports."
+        }
+      ],
+      "action": "Create model with all methods. Autoload database in constructor."
+    },
+
+    {
+      "step": 8,
+      "title": "Create Report_exporter Library",
+      "file": "application/libraries/Report_exporter.php",
+      "description": "Handles Excel (PhpSpreadsheet) and PDF (DOMPDF) generation. Sends correct headers and exits.",
+      "check_first": "Verify composer autoloader is available. If vendor/autoload.php exists in project root, add require_once in Report_exporter constructor or CI index.php.",
+      "methods_to_implement": [
+        {
+          "name": "__construct",
+          "description": "Get CI instance. Add: require_once FCPATH . 'vendor/autoload.php'; (adapt path as needed)."
+        },
+        {
+          "name": "client_tracking_excel",
+          "params": "array $shipments, string $client_name, array $filters",
+          "description": "Generate styled .xlsx file. Two header rows (company name + report title/date range). Column headers in row 3 frozen. Data rows 4+. Color-coded rows by status (breakdown=light red #FFE0E0, offloaded=light green #E2EFDA, at_border=light yellow #FFF2CC). Auto-width columns. Send download headers. File name: Tracking_Report_{ClientName}_{YYYYMMDD}.xlsx"
+        },
+        {
+          "name": "client_tracking_pdf",
+          "params": "array $shipments, string $client_name, array $filters",
+          "description": "Generate PDF using DOMPDF. Load a CI view (views/reports/exports/client_tracking_pdf.php) as HTML string, render with DOMPDF, stream as download. Landscape orientation. Font size 8pt for table."
+        },
+        {
+          "name": "client_demurrage_excel",
+          "params": "array $records, array $totals, string $client_name, array $filters",
+          "description": "Generate demurrage .xlsx. Columns: Truck, Trailer 1, Trailer 2, Shipping Order, BL, Charge Leg, Date From, Date To, Total Days, Free Days, Chargeable Days, Rate USD, Penalty USD, Total USD, Status. Totals row at bottom highlighted in blue."
+        }
+      ],
+      "style_constants": {
+        "title_bg_color": "1F3864",
+        "subtitle_bg_color": "2E75B6",
+        "header_bg_color": "4472C4",
+        "breakdown_row_color": "FFE0E0",
+        "offloaded_row_color": "E2EFDA",
+        "border_row_color": "FFF2CC",
+        "totals_row_color": "BDD7EE"
+      }
+    },
+
+    {
+      "step": 9,
+      "title": "Create Client_report Controller",
+      "file": "application/controllers/reports/Client_report.php",
+      "description": "Handles all client-facing report pages. Extends existing base controller (MY_Controller or CI_Controller — check what exists).",
+      "auth_requirement": "In __construct(), verify client is logged in using the SAME pattern as existing controllers. If role-based, verify role === 'client'. Redirect to login if not authenticated.",
+      "methods_to_implement": [
+        {
+          "name": "__construct",
+          "description": "Auth check (replicate existing pattern). Load: models/reports/Shipment_report_model as 'report_model'. Load: libraries/Report_exporter. Load: helpers/report_helper."
+        },
+        {
+          "name": "tracking",
+          "url": "/client/reports/tracking",
+          "description": "Get client_id from session. Accept GET params: date_from (default: first of current month), date_to (default: last of current month), direction (NB/SB), status. Build filters array. Call report_model->get_client_tracking($filters) and get_client_summary($filters). Load view reports/client/tracking."
+        },
+        {
+          "name": "export_excel",
+          "url": "/client/reports/tracking/export/excel",
+          "description": "Same filter logic as tracking(). Call report_model->get_client_tracking($filters). Call report_exporter->client_tracking_excel(). Exits via library."
+        },
+        {
+          "name": "export_pdf",
+          "url": "/client/reports/tracking/export/pdf",
+          "description": "Same as export_excel but calls report_exporter->client_tracking_pdf()."
+        },
+        {
+          "name": "demurrage",
+          "url": "/client/reports/demurrage",
+          "description": "Get client_id from session. Accept GET params: date_from, date_to, status. Load view reports/client/demurrage with demurrage_records and totals."
+        },
+        {
+          "name": "demurrage_export_excel",
+          "url": "/client/reports/demurrage/export/excel",
+          "description": "Excel export for demurrage report."
+        },
+        {
+          "name": "pod",
+          "url": "/client/reports/pod",
+          "description": "POD status report for client. Accept GET params: date_from, date_to, pod_status. Load view reports/client/pod."
+        }
+      ]
+    },
+
+    {
+      "step": 10,
+      "title": "Create Client Tracking View",
+      "file": "application/views/reports/client/tracking.php",
+      "description": "Main client tracking report HTML view.",
+      "requirements": [
+        "Extend existing base layout (find it in views/layouts/ or views/templates/ — use same pattern as other views).",
+        "Page header with report title and Export Excel / Export PDF buttons.",
+        "4 summary cards: Total Shipments, In Transit, At Border, Completed.",
+        "Filter form: date_from, date_to (date inputs), direction dropdown (All/North Bound/South Bound), submit button.",
+        "Responsive table using Bootstrap table-sm table-bordered table-hover.",
+        "Columns: #, TRUCK, TRAILER, DRIVER, PRODUCT, BL/LOT, DIR, LOADING DATE, DISPATCH DATE, TUNDUMA ARR, TUNDUMA DEP, NAKONDE ARR, K-LESA DRC ARR, DESTINATION ARR, OFFLOADED, DAYS, STATUS.",
+        "Each row uses status_badge() for STATUS column and overdue_class() for row class.",
+        "Empty state message if no shipments.",
+        "DataTables JS initialization (if DataTables is already in the project) — default sort by LOADING DATE DESC.",
+        "All user data escaped with esc() or htmlspecialchars().",
+        "Use rpt_date() for all date column values.",
+        "DAYS column shows report_days_diff(loading_date, offloaded_date), colored red if > 30."
+      ]
+    },
+
+    {
+      "step": 11,
+      "title": "Create Client Demurrage View",
+      "file": "application/views/reports/client/demurrage.php",
+      "requirements": [
+        "Same layout as tracking view.",
+        "Filter: date_from, date_to, status (All/Draft/Invoiced/Paid/Disputed).",
+        "Summary row: Total Days, Chargeable Days, Total Amount USD.",
+        "Table columns: #, TRUCK, TRAILER 1, TRAILER 2, BL/LOT, CHARGE LEG, DATE FROM, DATE TO, TOTAL DAYS, FREE DAYS, CHARGEABLE DAYS, RATE/DAY (USD), PENALTY (USD), TOTAL (USD), STATUS.",
+        "Totals row at the bottom of the table, bold, highlighted.",
+        "Status badge for payment status.",
+        "Export Excel button."
+      ]
+    },
+
+    {
+      "step": 12,
+      "title": "Create Client POD View",
+      "file": "application/views/reports/client/pod.php",
+      "requirements": [
+        "Same layout.",
+        "Filter: date_from, date_to, pod_status (All/PENDING/RECEIVED).",
+        "Table columns: #, TRUCK, TRAILER, DRIVER, BL NUMBER, ORIGIN, DESTINATION, LOADING DATE, OFFLOADED DATE, DAYS SINCE OFFLOADED, POD STATUS.",
+        "PENDING rows highlighted in yellow, RECEIVED in green.",
+        "DAYS SINCE OFFLOADED: red bold if > 30 days."
+      ]
+    },
+
+    {
+      "step": 13,
+      "title": "Create PDF Export View",
+      "file": "application/views/reports/exports/client_tracking_pdf.php",
+      "description": "Standalone HTML page (no CI layout headers/footers) for DOMPDF rendering.",
+      "requirements": [
+        "Inline CSS only (DOMPDF does not support external stylesheets).",
+        "Landscape A4.",
+        "Company header with logo placeholder and report title.",
+        "Font size 8px for table to fit all columns.",
+        "Page numbers in footer.",
+        "No JavaScript.",
+        "Table must be readable in black and white (use borders, no color fill dependency)."
+      ]
+    },
+
+    {
+      "step": 14,
+      "title": "Add Routes",
+      "file": "application/config/routes.php",
+      "instruction": "Add the following routes BEFORE the default_controller line. Confirm they do not conflict with existing routes.",
+      "routes_to_add": [
+        "client/reports/tracking/export/excel  → reports/Client_report/export_excel",
+        "client/reports/tracking/export/pdf    → reports/Client_report/export_pdf",
+        "client/reports/tracking               → reports/Client_report/tracking",
+        "client/reports/demurrage/export/excel → reports/Client_report/demurrage_export_excel",
+        "client/reports/demurrage              → reports/Client_report/demurrage",
+        "client/reports/pod                    → reports/Client_report/pod"
+      ],
+      "note": "In CI3 routes, more specific routes (with /export/excel) must come BEFORE shorter routes."
+    },
+
+    {
+      "step": 15,
+      "title": "Add Sidebar Navigation Links",
+      "description": "Add report links to the client sidebar/navigation. Find the existing client sidebar view file.",
+      "find_file": "Search for 'sidebar' or 'nav' in application/views/ — find the file used in the client layout.",
+      "links_to_add": [
+        {
+          "label": "My Tracking Report",
+          "icon": "fas fa-map-marked-alt",
+          "url": "client/reports/tracking"
+        },
+        {
+          "label": "Demurrage Report",
+          "icon": "fas fa-calculator",
+          "url": "client/reports/demurrage"
+        },
+        {
+          "label": "POD Status",
+          "icon": "fas fa-file-signature",
+          "url": "client/reports/pod"
+        }
+      ],
+      "condition": "Only show these links if the logged-in user has role === 'client' or client_id is set in session. refer to the exisitng client log in ideas in other controllers/views to replicate the same logic."
+    },
+
+    {
+      "step": 16,
+      "title": "Test Client Tracking Report",
+      "description": "End-to-end test before moving to next phase.",
+      "test_cases": [
+        {
+          "test": "Client login redirect",
+          "action": "Access /client/reports/tracking without login",
+          "expected": "Redirected to login page"
+        },
+        {
+          "test": "Client data isolation",
+          "action": "Login as Client A, access tracking report",
+          "expected": "Only Client A shipments shown — no other client data"
+        },
+        {
+          "test": "Date filter",
+          "action": "Set date_from and date_to to a specific month",
+          "expected": "Only shipments with loading_date in that range shown"
+        },
+        {
+          "test": "Direction filter",
+          "action": "Filter by NB (North Bound)",
+          "expected": "Only IMPORT direction shipments shown"
+        },
+        {
+          "test": "Excel export",
+          "action": "Click Export Excel button",
+          "expected": ".xlsx file downloads with correct data, formatting, and headers"
+        },
+        {
+          "test": "PDF export",
+          "action": "Click Export PDF button",
+          "expected": "PDF downloads, readable, landscape, all columns visible"
+        },
+        {
+          "test": "Empty state",
+          "action": "Filter to a date range with no data",
+          "expected": "Table shows empty state message, no PHP errors"
+        },
+        {
+          "test": "SQL injection protection",
+          "action": "Pass ?client_id=1+OR+1=1 in URL",
+          "expected": "client_id from URL is ignored — only session client_id is used"
+        }
+      ]
+    },
+
+    {
+      "step": 17,
+      "title": "Handover & Documentation",
+      "description": "After all tests pass, provide a summary report.",
+      "deliverables": [
+        "List of all files created or modified.",
+        "List of all database tables and views created.",
+        "List of routes added.",
+        "Any assumptions made where schema columns differed from spec.",
+        "Any blockers encountered and how they were resolved.",
+        "Screenshot or HTML dump of working tracking report table.",
+        "Recommended next step: Phase 2 (Internal NB/SB and Master Report)."
+      ]
+    }
+  ],
+
+  "error_handling_rules": {
+    "missing_column": "If a column referenced in the view does not exist in the actual DB, note it in the deliverables but do not crash — coalesce to NULL with a comment.",
+    "phpspreadsheet_not_found": "If vendor/autoload.php is missing, run composer install and document the step.",
+    "auth_pattern_unknown": "If you cannot determine the auth pattern from existing controllers, ask before proceeding — never invent an auth system.",
+    "view_layout_unknown": "If base layout file cannot be found, create a simple standalone layout that matches the existing site's Bootstrap version."
+  },
+
+  "code_quality_rules": [
+    "Every PHP file starts with: defined('BASEPATH') OR exit('No direct script access allowed');",
+    "All DB queries use CI Active Record (Query Builder) — no raw SQL strings in PHP.",
+    "All view output uses esc() or htmlspecialchars(ENT_QUOTES) — no raw echo of user/DB data.",
+    "No business logic in views — only display logic.",
+    "No DB queries in controllers — always delegate to models.",
+    "Methods longer than 60 lines should be refactored into private helper methods.",
+    "Use meaningful variable names — no $a, $b, $x abbreviations.",
+    "Add PHPDoc blocks to all public methods."
+  ],
+
+  "phase_summary": {
+    "phase_1": {
+      "scope": "Client Reports (this JSON)",
+      "reports": ["Client Tracking Report", "Client Demurrage Report", "Client POD Status Report"],
+      "estimated_time": "3-5 developer days"
+    },
+    "phase_2": {
+      "scope": "Core Internal Reports",
+      "reports": ["NB & SB Tracking Report", "Master Daily Report (date grid)", "Master In-Transit Report"],
+      "file_reference": "REPORTS_DETAILED_IMPLEMENTATION.md — Section 3",
+      "estimated_time": "3-4 developer days"
+    },
+    "phase_3": {
+      "scope": "Financial & Operational Reports",
+      "reports": ["Border Reports (Import/Export)", "Breakdown/Incident Report", "Police Fine Report", "POD Master Report", "Offloading & Mines Report", "Demurrage Internal"],
+      "file_reference": "REPORTS_DETAILED_IMPLEMENTATION.md — Section 4",
+      "estimated_time": "5-7 developer days"
+    },
+    "phase_4": {
+      "scope": "Live & GPS Reports",
+      "reports": ["Runner Report", "GPS Master Report", "Offline Report"],
+      "file_reference": "REPORTS_DETAILED_IMPLEMENTATION.md — Section 5",
+      "estimated_time": "4-6 developer days"
+    }
+  }
+}

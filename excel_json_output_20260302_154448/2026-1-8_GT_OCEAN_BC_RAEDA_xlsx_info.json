@@ -1,0 +1,369 @@
+{
+  "filename": "2026-1-8 GT OCEAN BC RAEDA.xlsx",
+  "file_size": 240158,
+  "last_modified": "2026-01-26T09:34:04.176529",
+  "total_sheets": 8,
+  "sheets": {
+    "Summary": {
+      "total_rows": 21,
+      "total_columns": 16,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 16
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 12
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 7
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 7
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "Summary Report - BC RAEDA 1A",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "Summary Report - BC RAEDA 1B",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "",
+          "Unnamed: 14": "",
+          "Unnamed: 15": ""
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "Type",
+          "Unnamed: 2": "No of Trucks Released from WH",
+          "Unnamed: 3": "Bags",
+          "Unnamed: 4": "Net",
+          "Unnamed: 5": "Gross",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "Type",
+          "Unnamed: 8": "No of Trucks Released from WH",
+          "Unnamed: 9": "Bags",
+          "Unnamed: 10": "Net",
+          "Unnamed: 11": "Gross",
+          "Unnamed: 12": "",
+          "Unnamed: 13": "DESTINATION ",
+          "Unnamed: 14": "NET",
+          "Unnamed: 15": "GROSS"
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "Pumpi - 1A",
+          "Unnamed: 2": 53,
+          "Unnamed: 3": 1499,
+          "Unnamed: 4": 1871.603,
+          "Unnamed: 5": 1978.453,
+          "Unnamed: 6": "",
+          "Unnamed: 7": "Pumpi - 1B",
+          "Unnamed: 8": 54,
+          "Unnamed: 9": 1500,
+          "Unnamed: 10": 1875,
+          "Unnamed: 11": 1879.778,
+          "Unnamed: 12": "",
+          "Unnamed: 13": "PUMPI",
+          "Unnamed: 14": 3746.603,
+          "Unnamed: 15": 3858.2309999999998
+        }
+      ]
+    },
+    "Master": {
+      "total_rows": 288,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "DAILY TRACKING REPORT - FORWARDING",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "2026-01-23 00:00:00",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "BC RAEDA",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "H-DAN  ",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "3992",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "4990",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "5003.991",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "-4025",
+          "dtype": "object",
+          "non_null_count": 287
+        },
+        {
+          "name": "-5028.851000000001",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "-5426.2880000000005",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 283
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 89
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.1",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 25",
+          "dtype": "object",
+          "non_null_count": 77
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 77
+        },
+        {
+          "name": "GT OCEAN TRANSPORTATION LIMITED.2",
+          "dtype": "object",
+          "non_null_count": 78
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 77
+        },
+        {
+          "name": "Unnamed: 29",
+          "dtype": "object",
+          "non_null_count": 288
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 280
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 33",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 280
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 280
+        },
+        {
+          "name": "Unnamed: 36",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Unnamed: 38",
+          "dtype": "object",
+          "non_null_count": 279
+        },
+        {
+          "name": "Total Amount",
+          "dtype": "object",
+          "non_null_count": 280
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 43
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 280
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "DAILY TRACKING REPORT - FORWARDING": "序号",
+          "Unnamed: 1": "提单号",
+          "Unnamed: 2": "卡车牌号",
+          "Unnamed: 3": "拖车牌号"

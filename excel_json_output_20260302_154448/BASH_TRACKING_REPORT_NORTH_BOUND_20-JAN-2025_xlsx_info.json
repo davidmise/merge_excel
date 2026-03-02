@@ -1,0 +1,358 @@
+{
+  "filename": "BASH TRACKING REPORT NORTH BOUND 20-JAN-2025.xlsx",
+  "file_size": 17636,
+  "last_modified": "2026-01-26T09:37:49.560627",
+  "total_sheets": 1,
+  "sheets": {
+    "BASH": {
+      "total_rows": 18,
+      "total_columns": 42,
+      "columns": [
+        {
+          "name": "BASH Overland ---- Tracking Status Report ",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 15
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 13",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 14",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 15",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 16",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 17",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 18",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 19",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 20",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 21",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 22",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 23",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 24",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Tunduma / Nakonde",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 26",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 27",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 28",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Kasumbalesa DRC side/ Whisky Border",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 30",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 31",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 32",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Final Destination",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 34",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "Unnamed: 35",
+          "dtype": "object",
+          "non_null_count": 13
+        },
+        {
+          "name": "DAYS",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 37",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Truck Demurrage charges",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 39",
+          "dtype": "object",
+          "non_null_count": 14
+        },
+        {
+          "name": "Unnamed: 40",
+          "dtype": "object",
+          "non_null_count": 1
+        },
+        {
+          "name": "Unnamed: 41",
+          "dtype": "object",
+          "non_null_count": 13
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "BASH Overland ---- Tracking Status Report ": "Sn",
+          "Unnamed: 1": "Consignee Name",
+          "Unnamed: 2": "B/L#",
+          "Unnamed: 3": "Container no.",
+          "Unnamed: 4": "Gross Weight",
+          "Unnamed: 5": "Net",
+          "Unnamed: 6": "No of Bags",
+          "Unnamed: 7": "Truck #",
+          "Unnamed: 8": "Type",
+          "Unnamed: 9": "Trailer #",
+          "Unnamed: 10": "Trailer II ",
+          "Unnamed: 11": "Type",
+          "Unnamed: 12": "Current Location",
+          "Unnamed: 13": "STATUS",
+          "Unnamed: 14": "DESTINATION",
+          "Unnamed: 15": "DRIVER NAME",
+          "Unnamed: 16": "CONTACTS",
+          "Unnamed: 17": "D/LICENCE",
+          "Unnamed: 18": "ATB",
+          "Unnamed: 19": "ALLOCATED DATE",
+          "Unnamed: 20": "DAR DISPATCH DATE",
+          "Unnamed: 21": "TANGA ARR DATE",
+          "Unnamed: 22": "Loading Date",
+          "Unnamed: 23": "DISPATCH TANGA",
+          "Unnamed: 24": "DAYS",
+          "Tunduma / Nakonde": "Tunduma Arrival",
+          "Unnamed: 26": "Nakonde  Arrival",
+          "Unnamed: 27": "Nakonde Depart ",
+          "Unnamed: 28": "DAYS",
+          "Kasumbalesa DRC side/ Whisky Border": "K-Lesa ZMB  Arrival",
+          "Unnamed: 30": "K-lesa DRC Arrival",
+          "Unnamed: 31": "Whiskey Arrival",
+          "Unnamed: 32": "Whiskey Disparch",
+          "Final Destination": "Boarder Days",
+          "Unnamed: 34": "Arrival at Site",
+          "Unnamed: 35": "Offloaded",
+          "DAYS": "Days",
+          "Unnamed: 37": "Free days",
+          "Truck Demurrage charges": "Chargable Days",
+          "Unnamed: 39": "Rate",
+          "Unnamed: 40": "Demurrage Charges",
+          "Unnamed: 41": "Parking penalties"
+        },
+        {
+          "BASH Overland ---- Tracking Status Report ": 1,
+          "Unnamed: 1": "XIN DA SARL",
+          "Unnamed: 2": "CBW2520LT131",
+          "Unnamed: 3": "FORGED STEEL BALLS 120MM",
+          "Unnamed: 4": 35142,
+          "Unnamed: 5": 35000,
+          "Unnamed: 6": 35,
+          "Unnamed: 7": "T310CLR/T320CFY",
+          "Unnamed: 8": "DOUBLE DIFF",
+          "Unnamed: 9": "T974ASG",
+          "Unnamed: 10": "T613EFH",
+          "Unnamed: 11": "DENGLOUR",
+          "Unnamed: 12": "KONKOLA",
+          "Unnamed: 13": "Enroute to Likasi",
+          "Unnamed: 14": "LIKASI/SHITURU",
+          "Unnamed: 15": "MORICE MWEMEZI KATUNZI",
+          "Unnamed: 16": "255713723072",
+          "Unnamed: 17": 4001664007,
+          "Unnamed: 18": "2025-11-28T00:00:00",
+          "Unnamed: 19": "2025-11-25T00:00:00",
+          "Unnamed: 20": "2025-11-26T00:00:00",
+          "Unnamed: 21": "2025-11-30T00:00:00",
+          "Unnamed: 22": "2025-12-01T00:00:00",
+          "Unnamed: 23": "2025-12-02T00:00:00",
+          "Unnamed: 24": 19,
+          "Tunduma / Nakonde": "2025-12-21T00:00:00",
+          "Unnamed: 26": "2025-12-26T00:00:00",
+          "Unnamed: 27": "2026-01-03T00:00:00",
+          "Unnamed: 28": 13,
+          "Kasumbalesa DRC side/ Whisky Border": "",
+          "Unnamed: 30": "",
+          "Unnamed: 31": "",
+          "Unnamed: 32": "",
+          "Final Destination": 0,
+          "Unnamed: 34": "",
+          "Unnamed: 35": "",
+          "DAYS": 0,
+          "Unnamed: 37": 7,
+          "Truck Demurrage charges": 0,
+          "Unnamed: 39": 250,
+          "Unnamed: 40": "",
+          "Unnamed: 41": ""
+        },
+        {
+          "BASH Overland ---- Tracking Status Report ": 2,
+          "Unnamed: 1": "XIN DA SARL",
+          "Unnamed: 2": "CBW2520LT131",
+          "Unnamed: 3": "FORGED STEEL BALLS 120MM",
+          "Unnamed: 4": 35142,
+          "Unnamed: 5": 35000,
+          "Unnamed: 6": 35,
+          "Unnamed: 7": "T223DNF",
+          "Unnamed: 8": "DOUBLE DIFF",
+          "Unnamed: 9": "T810BYV",
+          "Unnamed: 10": "T253EMM",
+          "Unnamed: 11": "DENGLOUR",
+          "Unnamed: 12": "DESTINATION",
+          "Unnamed: 13": "Offloaded",
+          "Unnamed: 14": "LIKASI/SHITURU",
+          "Unnamed: 15": "ASHRAFU OMARY BAKARI",
+          "Unnamed: 16": "0742506586 ",
+          "Unnamed: 17": 4000223248,
+          "Unnamed: 18": "2025-11-30T00:00:00",
+          "Unnamed: 19": "2025-11-25T00:00:00",
+          "Unnamed: 20": "2025-11-28T00:00:00",
+          "Unnamed: 21": "2025-11-29T00:00:00",
+          "Unnamed: 22": "2025-12-01T00:00:00",
+          "Unnamed: 23": "2025-12-02T00:00:00",
+          "Unnamed: 24": 3,
+          "Tunduma / Nakonde": "2025-12-05T00:00:00",
+          "Unnamed: 26": "2025-12-23T00:00:00",
+          "Unnamed: 27": "2025-12-24T00:00:00",
+          "Unnamed: 28": 19,
+          "Kasumbalesa DRC side/ Whisky Border": "2025-12-27T00:00:00",
+          "Unnamed: 30": "2026-01-02T00:00:00",
+          "Unnamed: 31": "2026-01-04T00:00:00",
+          "Unnamed: 32": "2026-01-08T00:00:00",
+          "Final Destination": 6,
+          "Unnamed: 34": "2026-01-09T00:00:00",
+          "Unnamed: 35": "2026-01-10T00:00:00",
+          "DAYS": 1,
+          "Unnamed: 37": 7,
+          "Truck Demurrage charges": 0,
+          "Unnamed: 39": 250,
+          "Unnamed: 40": "",
+          "Unnamed: 41": 127.6
+        }
+      ]
+    }
+  }
+}

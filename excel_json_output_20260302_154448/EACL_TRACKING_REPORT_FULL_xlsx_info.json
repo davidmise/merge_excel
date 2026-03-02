@@ -1,0 +1,296 @@
+{
+  "filename": "EACL TRACKING REPORT FULL.xlsx",
+  "file_size": 156139,
+  "last_modified": "2026-03-02T15:42:24.010371",
+  "total_sheets": 4,
+  "sheets": {
+    "EACL": {
+      "total_rows": 749,
+      "total_columns": 13,
+      "columns": [
+        {
+          "name": "S/N",
+          "dtype": "float64",
+          "non_null_count": 703
+        },
+        {
+          "name": "Truck Name",
+          "dtype": "object",
+          "non_null_count": 718
+        },
+        {
+          "name": "IMEI",
+          "dtype": "object",
+          "non_null_count": 736
+        },
+        {
+          "name": "ICCID",
+          "dtype": "float64",
+          "non_null_count": 82
+        },
+        {
+          "name": "TRAMIGO",
+          "dtype": "object",
+          "non_null_count": 623
+        },
+        {
+          "name": "GD",
+          "dtype": "float64",
+          "non_null_count": 30
+        },
+        {
+          "name": "Model",
+          "dtype": "object",
+          "non_null_count": 711
+        },
+        {
+          "name": "Customer Name",
+          "dtype": "object",
+          "non_null_count": 713
+        },
+        {
+          "name": "Group",
+          "dtype": "object",
+          "non_null_count": 714
+        },
+        {
+          "name": "Activated Date",
+          "dtype": "object",
+          "non_null_count": 636
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 11",
+          "dtype": "object",
+          "non_null_count": 3
+        },
+        {
+          "name": "Unnamed: 12",
+          "dtype": "float64",
+          "non_null_count": 3
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "S/N": 382.0,
+          "Truck Name": " T654CJT",
+          "IMEI": "353701091911624",
+          "ICCID": "",
+          "TRAMIGO": "8932042000000861247",
+          "GD": "",
+          "Model": "GT06N",
+          "Customer Name": "EXPORT",
+          "Group": "LATTE EXPORT",
+          "Activated Date": "2018-09-23",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": ""
+        },
+        {
+          "S/N": 244.0,
+          "Truck Name": "BCF1325",
+          "IMEI": "353701097895243",
+          "ICCID": "",
+          "TRAMIGO": "8932042000000280815",
+          "GD": "",
+          "Model": "GT06N",
+          "Customer Name": "EDHA AWADH",
+          "Group": "OFFICE CARS",
+          "Activated Date": "2021-09-20",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": ""
+        },
+        {
+          "S/N": 69.0,
+          "Truck Name": "BCF6995",
+          "IMEI": "869066060010718",
+          "ICCID": "",
+          "TRAMIGO": "8932042000005274494",
+          "GD": "",
+          "Model": "VL103D",
+          "Customer Name": "EDHA AWADH",
+          "Group": "OFFICE CARS",
+          "Activated Date": "2024-07-03",
+          "Unnamed: 10": "",
+          "Unnamed: 11": "",
+          "Unnamed: 12": ""
+        }
+      ]
+    },
+    "AIRTEL POSTPAID SIMCARDS (o (2)": {
+      "total_rows": 647,
+      "total_columns": 11,
+      "columns": [
+        {
+          "name": "Unnamed: 0",
+          "dtype": "float64",
+          "non_null_count": 0
+        },
+        {
+          "name": "Unnamed: 1",
+          "dtype": "object",
+          "non_null_count": 639
+        },
+        {
+          "name": "Unnamed: 2",
+          "dtype": "object",
+          "non_null_count": 417
+        },
+        {
+          "name": "Unnamed: 3",
+          "dtype": "object",
+          "non_null_count": 428
+        },
+        {
+          "name": "Unnamed: 4",
+          "dtype": "object",
+          "non_null_count": 516
+        },
+        {
+          "name": "Unnamed: 5",
+          "dtype": "object",
+          "non_null_count": 340
+        },
+        {
+          "name": "Unnamed: 6",
+          "dtype": "object",
+          "non_null_count": 620
+        },
+        {
+          "name": "Unnamed: 7",
+          "dtype": "object",
+          "non_null_count": 583
+        },
+        {
+          "name": "Unnamed: 8",
+          "dtype": "object",
+          "non_null_count": 525
+        },
+        {
+          "name": "Unnamed: 9",
+          "dtype": "object",
+          "non_null_count": 376
+        },
+        {
+          "name": "Unnamed: 10",
+          "dtype": "object",
+          "non_null_count": 54
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "POSTPAID SIMCARDS",
+          "Unnamed: 2": "",
+          "Unnamed: 3": "",
+          "Unnamed: 4": "",
+          "Unnamed: 5": "",
+          "Unnamed: 6": "",
+          "Unnamed: 7": "",
+          "Unnamed: 8": "",
+          "Unnamed: 9": "",
+          "Unnamed: 10": ""
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": "S/N",
+          "Unnamed: 2": "NUMBER",
+          "Unnamed: 3": "ICCID",
+          "Unnamed: 4": "TRAMIGO SIMCARD",
+          "Unnamed: 5": "GD SIMCARD",
+          "Unnamed: 6": "DEVICE IMEI",
+          "Unnamed: 7": "TRUCK",
+          "Unnamed: 8": "USER NAME",
+          "Unnamed: 9": "PROVISION DATE",
+          "Unnamed: 10": "REMARKS"
+        },
+        {
+          "Unnamed: 0": "",
+          "Unnamed: 1": 1,
+          "Unnamed: 2": "",
+          "Unnamed: 3": "892550503000513143",
+          "Unnamed: 4": "8932042000000861309",
+          "Unnamed: 5": "",
+          "Unnamed: 6": 353701091906962,
+          "Unnamed: 7": "T104CCC",
+          "Unnamed: 8": "E. AWADH & CO. LTD",
+          "Unnamed: 9": "2018-10-02T00:00:00",
+          "Unnamed: 10": ""
+        }
+      ]
+    },
+    "Awadh (3)": {
+      "total_rows": 603,
+      "total_columns": 2,
+      "columns": [
+        {
+          "name": "S/N",
+          "dtype": "int64",
+          "non_null_count": 603
+        },
+        {
+          "name": "ICCID",
+          "dtype": "int64",
+          "non_null_count": 603
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "S/N": 1,
+          "ICCID": 8932042000000134069
+        },
+        {
+          "S/N": 2,
+          "ICCID": 8932042000000134093
+        },
+        {
+          "S/N": 3,
+          "ICCID": 8932042000000134126
+        }
+      ]
+    },
+    "Zamland (2)": {
+      "total_rows": 232,
+      "total_columns": 3,
+      "columns": [
+        {
+          "name": "S/N",
+          "dtype": "int64",
+          "non_null_count": 232
+        },
+        {
+          "name": "DEVICE TYPE",
+          "dtype": "object",
+          "non_null_count": 232
+        },
+        {
+          "name": "ID",
+          "dtype": "int64",
+          "non_null_count": 232
+        }
+      ],
+      "sample_data_first_3_rows": [
+        {
+          "S/N": 1,
+          "DEVICE TYPE": "FCT",
+          "ID": 864203064799906
+        },
+        {
+          "S/N": 2,
+          "DEVICE TYPE": "FCT",
+          "ID": 864203064860260
+        },
+        {
+          "S/N": 3,
+          "DEVICE TYPE": "FCT",
+          "ID": 864203064847812
+        }
+      ]
+    }
+  }
+}
